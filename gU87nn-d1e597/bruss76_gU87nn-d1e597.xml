@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1 [Brussels Transcription]</title>
+        <author>Lambertus de Monte</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1 [Brussels Transcription]</title>
+          <date when="2021-01-26">January 26, 2014</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="bruss76">Brüssel, Koninklijke Bibliotheek van België, ms. 760 (1715)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-01-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="67-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gU87nn-d1e597">
+        <!-- starts on 67-r or 111 -->
+        <p>
+          <lb ed="#B"/>Circa distinctionem 37 quaeritur utrum deus sit in omnibus rebus essentialiter potentialiter et praesentialiter 
+        </p>
+        <p>
+          <lb ed="#B"/>Arguitur primo contra sumptum <pc type="virgula">/</pc> nobilius est facere opera permanentia sine artifice quam permanentia 
+          <lb ed="#B"/>in praesentia artificis tantum <pc type="virgula">/</pc> sed <ref>deuteronomii 32</ref> dicitur <quote source="http://scta.info/resource/deut32_4@1-4">dei perfecta sunt opera</quote> <pc type="virgula">/</pc> igitur videtur quod deus facit 
+          <lb ed="#B"/>opera quae <unclear>sine</unclear> praesentia sui in seipsis permanent
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Item inferior artifex <unclear>fab</unclear> vel <unclear>ligrarius</unclear> opus facit 
+          <lb ed="#B"/>quid ad conservationem sui non indiget praesentia operatricis <pc type="virgula">/</pc> multo magis potest hoc facere deus
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Item natura 
+          <lb ed="#B"/><unclear>8</unclear> virtutes caelestes faciunt opera sua <pc type="virgula">/</pc> quae sine praesentia sui conservantur <pc type="virgula">/</pc> igitur multo magis deus 
+        </p>
+        <p>
+          <lb ed="#B"/><pc type="virgula">/</pc> Item inferius est in regno rex <pc type="virgula">/</pc> qui non potest gubernare nisi praesens <pc type="virgula">/</pc> igitur hoc etiam in deo magis erit 
+          <lb ed="#B"/>infirmitatis <unclear>in divini</unclear> <pc type="virgula">/</pc> si non nisi praesens valet creaturas continere aut isti modi summuntur ex parte dei 
+          <lb ed="#B"/>aut ex parte creaturae cui inest Si ex parte dei cum deus uno modo se habet ad <unclear>c?onem</unclear> creaturam <pc type="#punctus"/> videtur 
+          <lb ed="#B"/>esse unus modus quo deus est in rebus et non plures Si atue ex parte creaturae <pc type="virgula">/</pc> tunc deus mul<lb ed="#B" break="no"/>to 
+          plura operatur in rebus diversis et sic videntur modi esse infiniti
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Contra quaesitam arguitur <pc type="virgula">/</pc> si deus 
+          <lb ed="#B"/>est ubique essentialiter potentialiter et praesentialiter videtur quod in omnibus operetur essentiam speciem et veritatem et operationem <pc type="virgula">/</pc> et sic videtur 
+          <lb ed="#B"/>quod natura nihil operetur <pc type="virgula">/</pc> quod est valde inconveniens <pc type="virgula">/</pc> quia dicit <name>damascenus</name> quod nulla natura destitui propria 
+          <lb ed="#B"/>operatione <pc type="virgula">/</pc> et contra sententias <del rend="strikethrough">oim</del> philosophorum
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> In oppositum <unclear>utriusque</unclear> arguitur per <name ref="#Lombard">magistrum</name> et auctoritate sanctorum et 
+          <lb ed="#B"/>etiam philosophorum
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Pro intellectu <unclear>aliquali</unclear> huius materiae est notandum <pc type="virgula">/</pc> quod cum dicitur corporale esse in loco <pc type="virgula">/</pc> <unclear>aut</unclear> in aliquo <pc type="virgula">/</pc> 
+          <lb ed="#B"/>et spirituali <pc type="virgula">/</pc> propositio notat diversam habitudinem <pc type="#punctus"/> Cum enim corporale dicitur esse in aliquo <pc type="virgula">/</pc> <mentioned>in</mentioned> notat continuam 
+          <lb ed="#B"/>activam in eo cui aliquid dicitur inesse <pc type="virgula">/</pc> et passiva <pc type="virgula">/</pc> in eo <pc type="virgula">/</pc> quod dicitur <del>de</del> inesse <pc type="virgula">/</pc> et hoc est imperfectionis 
+          <lb ed="#B"/>et nullo modo potest convenire deo <pc type="virgula">/</pc> Sed cum dicitur spirituale esse in aliquo minus spirituali <pc type="virgula">/</pc> aut corporali 
+          <lb ed="#B"/>tunc <pc type="virgula">/</pc> <mentioned>in</mentioned> <pc type="virgula">/</pc> notat continentiam activam in eo quid dicitur inesse <pc type="virgula">/</pc> et passivum in eo <pc type="virgula">/</pc> cui dicitur aliquid 
+          <lb ed="#B"/>inesse <pc type="virgula">/</pc> Et isto modo attribuitur deo esse in rebus esse ubique 
+        </p>
+        <p>
+          Istis notis respondetur ad suppositum 
+          <lb ed="#B"/>et quaesitum scilicet quod deus est ubique <pc type="virgula">/</pc> et in omnibus rebus <pc type="virgula">/</pc> essentialiter potentialiter et praesentialiter Istud potest multis 
+          <lb ed="#B"/>et innumeris auctoritatibus sanctorum et philosophorum ostendi Sed rationibus ostenditur sic mundus conservatur 
+          <lb ed="#B"/>in esse <pc type="virgula">/</pc> igitur conservans mundum erit omne aut conservans est in habitudine causae ad conservatum <pc type="virgula">/</pc> cum 
+          <lb ed="#B"/>igitur causa et causatum non sunt idem <pc type="virgula">/</pc> mundus et conservans mundum non erat idem <pc type="virgula">/</pc> igitur conservans mundum 
+          <lb ed="#B"/>non erit mundus nec ad <del>mundit</del> eius <pc type="virgula">/</pc> sed mundus conservatur ubique igitur conservans mundum 
+          <lb ed="#B"/>quid non est mundus nec aliquid de mundum erit ubique quoniam conservatum non est sine conservante 
+          <lb ed="#B"/>hoc autem conservans non potest esse nisi deus <pc type="virgula">/</pc> igitur deus est ubique forte dicetur quod deus conservat 
+          <lb ed="#B"/>per influentiam alicuius veritatis <pc type="virgula">/</pc> quae non est ipse <pc type="virgula">/</pc> sicut videmus quod generationis non tantum influit speciem sed etiam 
+          <lb ed="#B"/>disponens quibus resistat nocivis etc quaeritur de illa veritate <pc type="virgula">/</pc> influxa a primo <pc type="virgula">/</pc> constat enim 
+          <lb ed="#B"/>quod illa habet esse in conservatis a primo <pc type="virgula">/</pc> aut igitur conservat seipsam <pc type="virgula">/</pc> aut conservatur ab alio Constat 
+          <lb ed="#B"/>quod non a seipsa <pc type="virgula">/</pc> quia sic idem esset causa et causatum <pc type="virgula">/</pc> igitur ab alio <unclear>2l</unclear> igitur illud est cusatum aut non 
+          <lb ed="#B"/>Si causarum itur in infinitum <pc type="virgula">/</pc> igitur oportet dicere quod illud conservans sit deus <pc type="virgula">/</pc> Cum igitur conservatio sit 
+          <lb ed="#B"/>ubique <pc type="virgula">/</pc> et conservans quid est deus <pc type="virgula">/</pc> igitur deus est ubique
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Item sicut dicit <name>gregorius</name> <unclear>con?cta</unclear> quae facta sunt 
+          <lb ed="#B"/>ex nihilo facta sunt et ad nihil tenderent nisi manus omnipotentis contineret Constat autem 
+          <lb ed="#B"/>quod ubique ex nihil facta sunt <pc type="virgula">/</pc> igitur ubique oportet aliquid <unclear>omne</unclear> continens <pc type="virgula">/</pc> igitur continens ipse <del>est</del> ubique 
+          <lb ed="#B"/>est
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Item potestas conservandi se <pc type="virgula">/</pc> est potestas nullius indigendi <pc type="virgula">/</pc> igitur illa est solius dei Cum 
+          <pb ed="#B" n="67-v"/><!--112-->
+          <lb ed="#B"/>igitur omnis res sit ab aliquo indigens est illo a quo est <pc type="virgula">/</pc> et non potest dari 
+          <lb ed="#B"/>creaturae haec potestas nec mundo nec parti eius <pc type="virgula">/</pc> erit ab ipso deo immedia<lb ed="#B" break="no"/>te 
+          <pc type="virgula">/</pc> igitur deus ubique mundum est conservans
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Item debetur quod deus debet <!-- possible correction here --> potesta<lb ed="#B" break="no"/>tem 
+          mundo conservandi se <pc type="virgula">/</pc> neccesse est quod recipiatur a mundo et a deo <pc type="virgula">/</pc> 
+          <lb ed="#B"/>sed inter accipiens et acceptum est contactus quidem nisi sit recipiens per 
+          <lb ed="#B"/>influentiam quae defertur per medium aliquid <pc type="virgula">/</pc> igitur neccesse est quod quaelibet 
+          <lb ed="#B"/>pars mundi conservata spiritualiter tangat deum <pc type="virgula">/</pc> vel aliquod medium erit 
+          <lb ed="#B"/>sed manifestum est <pc type="virgula">/</pc> quod nihil est membrum quia inter educens rem de nihil et 
+          <lb ed="#B"/>eductum <pc type="virgula">/</pc> non potest poni membrum deformens vel agens igitur neccesse est 
+          <lb ed="#B"/>quod deus assit ubique 
+        </p>
+        <p><!-- this should get a type as this is a frequent argument. I've seen it 2 or 3 times now -->
+          <pc type="virgula">/</pc> item universale est ubique et semper, igitur maxime deus 
+          <lb ed="#B"/>cum universale hoc habet secundum quod <unclear>exemptum</unclear> est in prima causa <pc type="virgula">/</pc> et praecipue maxime 
+          <lb ed="#B"/>universale quid est secundum analogiam multae aliae rationes ad hanc conclusionem du<lb ed="#B" break="no"/>cuntur 
+          ab aris aviarum et <unclear>avic?</unclear> et <unclear>pa?pam</unclear> igitur quod deus est ubique et in omni re 
+        </p>
+        <p>
+          <lb ed="#B"/>Sed causa quod deus ubique est et in omni re assignatur a <name ref="#Augustine">beato augustino</name> quia 
+          <lb ed="#B"/>deus simplissimus est et in false stp?litatis et a nullo determinantem coartatur 
+          <lb ed="#B"/>nec intus nec extra Si enim aliquo determinaretur non <subst><del>est</del><add place="margin in-line">esset</add></subst> suae simplicitatis omne
+          <lb ed="#B"/>autem quid dicitur ab aliquo condeterminante se intus vel extra <pc type="virgula">/</pc> dicitur <pc type="virgula">/</pc> et terris suis 
+          <lb ed="#B"/>sive finibus limitatur quid simplicissimo nullo modo potest convenire Et hoc 
+          <lb ed="#B"/>est ratio <name ref="#Augustine">beati augustino</name> per quam convincitur deum esse in omnibus rebus et 
+          <lb ed="#B"/>ubique
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Ex quibus sequitur quod deus non est in rebus localiter sed causaliter primum patet 
+          <lb ed="#B"/>quoniam esse in aliquo localiter est esse in eo secundum leges loci <pc type="virgula">/</pc> quae sunt continere termi<lb ed="#B" break="no"/>nare 
+          conservare ab ipso moveri <pc type="virgula">/</pc> et ad ipsum <pc type="#punctus"/> quorum nullum convenit 
+          <lb ed="#B"/>deo 
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Secundum patet quoniam <del rend="strikethrough">re</del> cum res non essent manifestum est quod deus 
+          <lb ed="#B"/>non fuit in eis sed per hoc quod produxit res in esse <pc type="virgula">/</pc> est neccessario in eis <pc type="#punctus"/> ut 
+          <lb ed="#B"/>patet ex probationibus <pc type="virgula">/</pc> Est igitur quia causatur in eis <pc type="virgula">/</pc> et hoc est essentialiter potentialiter 
+          <lb ed="#B"/>et praesentialiter
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Ad cuius intellectum est notandum quod inter omnia attributa deo <pc type="virgula">/</pc> primum 
+          <lb ed="#B"/>est essentia et esse <pc type="virgula">/</pc> quid dicitur actus essentiae proprius <pc type="#punctus"/> Et hinc est quod primum causatum 
+          <lb ed="#B"/>dei dicitur esse sine essentia sed nominatur potius esse quam essentia quia procedit per 
+          <lb ed="#B"/>modum fluxus <pc type="virgula">/</pc> et propter hunc effectum qui est prius omni <pc type="virgula">/</pc> dicitur esse deus in rebus 
+          <lb ed="#B"/>essentialiter Est igitur intellectus <pc type="virgula">/</pc> deus est in rebus per essentiam id est per primum principium omnis 
+          <lb ed="#B"/>esse <pc type="virgula">/</pc> quid ut fons <subst><del>contidae</del> <add place="margin">continue</add></subst> influit et dat esset et tenet <pc type="#punctus"/> ne in nihil <unclear>deci</unclear> 
+          <lb ed="#B"/>dat <pc type="virgula">/</pc> sicut ex nihilo factum est dicit enim <name ref="#Boethius">boetius</name> quod nulla res praeter deum 
+          <lb ed="#B"/>totum esse suum simul habet <pc type="virgula">/</pc> et quod de esse quo cras erit homine non habet <pc type="virgula">/</pc> 
+          <lb ed="#B"/>et ideo sicut vita in corpore non est <pc type="virgula">/</pc> nisi ab anima quae continue influit corpori 
+          <lb ed="#B"/>ut quod ipsa vita sit actus continuus in corpus ut <add><unclear>dicit</unclear></add> <name>philosophus</name> ita esse <pc type="virgula">/</pc> actus 
+          <lb ed="#B"/>continuus est divinae essentiae in omnia quae sunt eo quod ipsa essentia divina principium 
+          <lb ed="#B"/>et fons esse est in omnia quae sunt Et hoc probatum est in <ref>libro causarum</ref> ubi dicitur quod 
+          <lb ed="#B"/>prima rerum creaturarum est esse <pc type="virgula">/</pc> in omni eo quid est <pc type="virgula">/</pc> et non est ante ipsum creatum 
+          <lb ed="#B"/>aliud et ideo neccesse est quod sit effectus primae causae Omnis enim causa alia <pc type="virgula">/</pc> causat per informa<lb ed="#B" break="no"/>tionem 
+          <pc type="virgula">/</pc>et per <unclear>determinationem</unclear> esse <pc type="virgula">/</pc> et ideo ante suum effectum suuponit illud esse hoc igitur 
+          <lb ed="#B"/>importatur cum dicitur deus est in omni re per essentiam sic igitur primum per essentiam suam in<lb ed="#B" break="no"/>telligibiliter 
+          est extensum per omnia <pc type="virgula">/</pc> et si essentia <pc type="virgula">/</pc> neccesse est et posse eius 
+          <lb ed="#B"/>esse per omnia <pc type="#punctus"/> quia posse <unclear>indesineretur</unclear> sequitur essentiam <pc type="virgula">/</pc> et sequitur per consequens <pc type="virgula">/</pc> lumen cogni<lb ed="#B" break="no"/>tionis 
+          eius <pc type="virgula">/</pc> omnia esse principia unde sequitur quod in omnibus et ubique sit deus essentialiter 
+          <pb ed="#B" n="68-r"/><!--113-->
+          <lb ed="#B"/>potentialiter et praesentialiter
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Amplius notandum quod essentia si ut essentia accipiatur duo sunt 
+          <lb ed="#B"/>ei proprie consequentia si simplicitas et subtilitas <pc type="#punctus"/> simplicitas autem quae est in fine simplicitatis 
+          <lb ed="#B"/>nullus <unclear>alio</unclear> clauditur ut dictum est <pc type="virgula">/</pc> et ab hac habet esse in omnibus et ubique 
+          <lb ed="#B"/>Simplicitatem autem sequitur subtilitatis subtile autem ut dicit <name>aristoteles</name> <unclear>pentractum</unclear> est partium 
+          <lb ed="#B"/>et etiam partium partes usque ad <del rend="strikethrough">s</del> minima <pc type="virgula">/</pc> Et ad hoc habet <pc type="virgula">/</pc> quod omnia sunt 
+          <lb ed="#B"/>sibi praesentia et non est aliquid <sic>invisibile</sic> in conceptu eius <ref>sapientiae 7o</ref> Est enim in illa spiritus 
+          <lb ed="#B"/>intelligentiae <pc type="virgula">/</pc> sanctus multiplex unicus subtilis <del rend="strikethrough">nu</del> Et <ref>ad hebraeos 4o</ref> <quote>unius est 
+            <lb ed="#B"/>sermo dei</quote> <unclear>2a</unclear> Et ita cum essentia <pc type="virgula">/</pc> praesentia extensa est <pc type="virgula">/</pc> et similiter potentia <pc type="virgula">/</pc> et isti sunt mo<lb ed="#B" break="no"/>di 
+          generales quibus deus est in omnibus rebus <pc type="virgula">/</pc> Est enim in re essentia et esse quam habet 
+          <lb ed="#B"/>ab essentia divina <pc type="virgula">/</pc> et est in ea species quam habet ab ydea propria in mente 
+          <lb ed="#B"/>divina <pc type="#punctus"/> quae est quasi membrum cognoscendi et ita per speciem suam <pc type="virgula">/</pc> res est praesens <pc type="virgula">/</pc> 
+          <lb ed="#B"/>et est in re potentia quam habet a potentia divina
+        </p>
+        <p>
+          <!-- important; this is a genuine question that occurs to me -->
+          <pc type="virgula">/</pc> Ex quibus posset inferri quod deus 
+          <lb ed="#B"/>est etiam in malis scilicet in damnatis etc non tamen debet concedi quod sit in 
+          <lb ed="#B"/>malis sub aliqua ratione mali ut quod sit in adulteris etc Sed quia rationalis 
+          <lb ed="#B"/>creatura istis non est perfecta <pc type="virgula">/</pc> sed ultra requiritur gratia ut dictum est bona <pc type="virgula">/</pc> ideo 
+          <lb ed="#B"/>deus perfi?do voluntatem per gratiam dicitur esse i nipsa per gratiam <pc type="#punctus"/> Et dicitur plus deus 
+          <lb ed="#B"/>quam inesse essentialiter praesentialiter et potentialiter sed dicitur in habitare per gratiam in sanctis 
+          <lb ed="#B"/>Et iste est 4o modus essendi in creaturis Ad huc est alius modus scilicet per 
+          <lb ed="#B"/>unionem ypostaticam <pc type="virgula">/</pc> sicut deus est in christo Et possunt sic adaptari 
+          <lb ed="#B"/>Quoniam sunt intelligendam in divinis scilicet essentia tres personae <pc type="virgula">/</pc> et essentia in persona 
+          <lb ed="#B"/>Quartum ad essentiam deus est ubique et in omni re per essentiam <pc type="virgula">/</pc> quo ad patrem cui 
+          <lb ed="#B"/>appropriatur potentia <pc type="virgula">/</pc> est deus ubique potentialiter <pc type="virgula">/</pc> quantam ad filium cui attribuitur cognitio 
+          <lb ed="#B"/>quae est per uniuscuiusque ydeam est deus ubique praesentialiter <pc type="virgula">/</pc> quantum ad spiritum sanctum 
+          <lb ed="#B"/>cui attribuitur bonitas <pc type="virgula">/</pc> deus est in creatur rationali per gratiam Quantum autem 
+          <lb ed="#B"/>ad essentiam in persona accipitur modus quo deus est in christo <pc type="virgula">/</pc> Ex quibus sequitur quod deus 
+          <lb ed="#B"/>ab aeterno non fuit ubique quoniam non fuit ab aeterno aliud quam ipse 
+          <lb ed="#B"/>igitur ante creationem mundi erat <unclear>ap</unclear> seipsam et in seipso
+        </p>
+        <p>
+          <pc type="virgula">/</pc> habetur quod propri<lb ed="#B" break="no"/>um 
+          est dei esse ubique et in omni re materia enim prima non est sic ubique 
+          <lb ed="#B"/>deus enim est ubique totus <pc type="virgula">/</pc> materia prima divisa in his in quibus est <pc type="virgula">/</pc> Similiter nec 
+          <lb ed="#B"/>convenit univerali ut notum est de specie <pc type="virgula">/</pc> quia non est nisi in his quae sunt 
+          <lb ed="#B"/>sui ambitus <pc type="#punctus"/> nec etiam universali quid est genus <pc type="virgula">/</pc> quia nullum genus ambit 
+          <lb ed="#B"/>omnia <pc type="#punctus"/> Sed magis videtur de universali <unclear>malogo</unclear> quod sit ubique <pc type="virgula">/</pc> non tamen sicut 
+          <lb ed="#B"/>deus <pc type="virgula">/</pc> quoniam universale est aliquid eorum inquantum est <pc type="virgula">/</pc> deus autem immixtus est quam<lb ed="#B" break="no"/>vis 
+          sit in omnibus ut dicit una propositi libri causarum absque enim sui 
+          <lb ed="#B"/>commixtione est in omnibus essentialiter praesidens et conservans omnia potentialiter et cognsos<lb ed="#B" break="no"/>cens 
+          omnia praesentialiter <pc type="virgula">/</pc> quoniam unius cuius propriam habet ydeam secundum quam ab ipso 
+          <lb ed="#B"/>fluit et cauatur 
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Etiam est notandum quod licet multa sint in rebus causata a deo 
+          <lb ed="#B"/>tamen omnia reducuntur ad ista tria <pc type="virgula">/</pc> ad essentiam potentiam et praesentiam secundum quae 
+          <lb ed="#B"/>dicitur esse ubique 
+        </p>
+        <p>
+          <unclear>Per <!-- pro? --></unclear> ista facile est respondere ad rationes in contrarium Ad 
+          <lb ed="#B"/>primam <unclear>nobili cum</unclear> est facere opera permanentia etc respondetur quod hoc similiter 
+          <lb ed="#B"/>est falsum sed est verum in illis causatis quae habet ante se causa creatam <pc type="virgula">/</pc> et 
+          <lb ed="#B"/>igitur illa non praesente <pc type="virgula">/</pc> adhuc manet effectus et conservatur a causa prima <pc type="virgula">/</pc> Sed 
+          <lb ed="#B"/>in his quae sunt a deo <pc type="virgula">/</pc> non est sic In opere dei nihil praeiacet operi 
+          <pb ed="#B" n="68-v"/><!-- 114 -->
+          <lb ed="#B"/>nisi ipse solus igitur opus suum non habebit conservationem nisi ab ipso essentialiter con<lb ed="#B" break="no"/>servante 
+          id est quod essentialiter assit conservans <pc type="virgula">/</pc> unde quod inferior artifex 
+          <lb ed="#B"/>facit aliquod <pc type="virgula">/</pc> et ipso absente conservatur in esse <pc type="virgula">/</pc> hoc est quia habet causam 
+          <lb ed="#B"/>praeiacentem quae conservat formam impressam ab artifice <pc type="virgula">/</pc> et si ita 
+          <lb ed="#B"/>non esset non conservaretur in esse <pc type="virgula">/</pc> Exemplum est si sigillum imprimit for<lb ed="#B" break="no"/>mam 
+          suam in ceram <pc type="virgula">/</pc> absente sigillo non manet forma impressa <pc type="#punctus"/> Sic est deus operans <pc type="virgula">/</pc> 
+          cui in opere nihil praeiacens est <pc type="virgula">/</pc> ideo neccesse est <pc type="virgula">/</pc> quod deus essentialiter potentialiter 
+          <lb ed="#B"/>et praesentialiter sit in omni creatura ut conservetur
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Ad 2m inferior ar<lb ed="#B" break="no"/>tifex 
+          fabri etc patet aliqualiter responsio ex iam dicitis dicitur tamen quod fa<lb ed="#B" break="no"/>ber 
+          inferior non facit formam ex materia <pc type="virgula">/</pc> sed in materia non enim facit 
+          <lb ed="#B"/>nisi auferre vel transerre partes materiae et ideo facit formam in 
+          <lb ed="#B"/>materia ut dicitur <ref>9 metaphysicae</ref> <pc type="virgula">/</pc> et ideo non est causa operis sed formae tantum <pc type="virgula">/</pc> et 
+          <lb ed="#B"/>ideo opus illius veritate maxime conservatur <pc type="virgula">/</pc> sed deus causa est totius operis et 
+          <lb ed="#B"/>in materia et informa et composito et ideo oportet quod conservetur per ipsum <pc type="virgula">/</pc> cum nihil 
+          <lb ed="#B"/>habeat praeiacens ante se praeter ipsum 
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Ad 3m natura et veritates cae<lb ed="#B" break="no"/>lestes 
+          faciunt opera sua etc respondetur quod sicut dicit <ref><name>commentator</name> super <unclear>11 <!-- is this roman numeral 2 or arabic 11 --></unclear> primae philosophiae</ref>
+          <lb ed="#B"/>natura non facit formam in materia <pc type="virgula">/</pc> sed facit formam ex materia <pc type="virgula">/</pc> et ideo 
+          <lb ed="#B"/>transmutat materiam de forma ad formam <pc type="virgula">/</pc> quid facere non potest nisi 
+          <lb ed="#B"/>per qualitates activas et passivas quibus transmutat materiam <pc type="virgula">/</pc> ad edu<lb ed="#B" break="no"/>cendam 
+          formam ex ipsa <pc type="virgula">/</pc> quibus postea forma conservatur in ipsa Sed in 
+          <lb ed="#B"/>deo non est sic Ille enim facit totum secundum totum esse <pc type="virgula">/</pc> et ideo conservatio to<lb ed="#B" break="no"/>tius 
+          esse non potest radicari nisi in ipso <pc type="#punctus"/> Etiam virtutes caelestes 
+          <lb ed="#B"/>movent secundum diversitatem situs ad dviersa <pc type="#punctus"/> et ideo habent motus declinatio<lb ed="#B" break="no"/>num 
+          et ascensionum et descensionum <unclear>praeventionum et opponentium</unclear> 2m Et 
+          <lb ed="#B"/>ideo oportuit speras elongari a matieria generalium et corporalium ut sic 
+          <lb ed="#B"/>diversimode totam possent movere Et haec omnia praeter solum movere 
+          <lb ed="#B"/>sicut imperfectionis Si enim uno modo et sine tot motibus possent facere <pc type="virgula">/</pc> nobilitatis 
+          <lb ed="#B"/>esset cum dicat <name>philosophus</name> res melior est quae habet suum bene uno motu 
+          <lb ed="#B"/>quam illa quae pluribus motibus <pc type="#punctus"/> unde non oportet quod deus quo ad hoc assimiletur 
+          eis
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Ad 4am infirmus est in regno rex etc dicitur quod hoc verum est in illis 
+          <lb ed="#B"/>conservatis quae situaliter <unclear>d?ovit</unclear> a conservante <pc type="#punctus"/> quia illis conservans ubique non 
+          <lb ed="#B"/>potest esse praesens <pc type="virgula">/</pc> deus autem situaliter a nullo distat <pc type="virgula">/</pc> et ideo infirmitatis esset 
+          <lb ed="#B"/>si per aliud conservaret <pc type="virgula">/</pc> sicut infirmitas est <pc type="virgula">/</pc> quia <unclear><name>balius</name></unclear> facit per regem <pc type="virgula">/</pc> quid 
+          <lb ed="#B"/>non potest facere per seipsum <pc type="virgula">/</pc> indigentiae est quod rex indiget <name>balino</name> <unclear>unde</unclear> 
+          <lb ed="#B"/>potest esse per seipsum perfecissime autem potentiae est <pc type="virgula">/</pc> ubique facere per seipsum <pc type="virgula">//</pc>
+        </p>
+        <p>
+          <lb ed="#B"/><pc type="virgula">/</pc> Ad aliud isti modi sumuntur aut ex parte etc respondetur quod ex parte dei et 
+          <lb ed="#B"/>ex parte rei creatae <pc type="#punctus"/> licet enim deus 
+          <add place="margin-right">
+            uno modo se habet ad omnia 
+            non tamen intelligitur quod <unclear>unico</unclear>
+            secundi impossibile est enim quod
+          </add>
+          uno modo secundi se habeat ad homine et <del rend="strikethrough">insia</del> ad 
+          <lb ed="#B"/>equum cum dicat <ref><name>augustinus</name> in libro 83 quaestionum</ref> quod alia ratione facit hominem et alia 
+          <lb ed="#B"/>equum
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Ad ultimam si deus est ubique 2a videtur quod in omnibus operatur etc 
+          <lb ed="#B"/>respondetur quod licet deus operetur totum esse in materia et forma speciem et veritatem sicut causa 
+          <lb ed="#B"/>prima nihilominus tamen sunt esse proxime naturales <pc type="virgula">/</pc> quae operantur <unclear>in terminationem</unclear> et modum 
+          <pb ed="#B" n="69-r"/><!--115 -->
+          <lb ed="#B"/>esse illius sed non ad creationem sive deductionem qui illud esse educitur <pc type="virgula">/</pc> de non esse 
+          <lb ed="#B"/>ad esse <pc type="virgula">/</pc> et hoc solius dei est Et sicut solius dei est illud educere ita solius 
+          <lb ed="#B"/>dei est illud conservare
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

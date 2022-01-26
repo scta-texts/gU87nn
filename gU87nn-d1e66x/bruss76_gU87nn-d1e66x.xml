@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1 [Brussels Transcription]</title>
+        <author>Lambertus de Monte</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1 [Brussels Transcription]</title>
+          <date when="2015-01-20">January 20, 2014</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="bruss76">Brüssel, Koninklijke Bibliotheek van België, ms. 760 (1715)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2015-01-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="42-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gU87nn-d1e66x">
+        <head xml:id="gU87nn-d1e66x-Hd1e88">Quaestio 1 [Brussels Transcription]</head>
+        <p xml:id="gU87nn-d1e66x-d1e90">
+          <lb ed="#B"/>Circa prohemium libri sententiarum duo princi<lb ed="#B" break="no"/>paliter 
+          quaeruntur <g ref="#slash"/>primum est utrum theologia 
+          <lb ed="#B"/>sit scientia <g ref="#slash"/>2m est de quo est tanquam 
+          <lb ed="#B"/>de subiecto
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e106">
+          Ad primum sic proceditur et videtur quod theologia non sit scientia 
+          <lb ed="#B"/>et hoc ex eo deo quo est <g ref="#dot"/> Est enim de 
+          <lb ed="#B"/>gestis singularibus dei et sanctorum vet<lb ed="#B" break="no"/>ris 
+          et novi testamenti quae gesta
+          <lb ed="#B"/>hystorialiter describuntur de quibus dicit <name xml:id="gU87nn-d1e66x-Nd1e119" ref="#Augustine">beatus augustinus</name> in libro <title ref="#deDiversisQuaestionibus">83 quaestionibus</title>
+          <lb ed="#B"/>quod hystoriae rerum semper creduntur et nunquam intelliguntur 
+          <lb ed="#B"/>sed de hiis quae nunquam intelliguntur non potest esse scientia quia omnis scientia 
+          <lb ed="#B"/>ex intellectibus accipitur ut in primo <title ref="#PosteriorAnalytics">posterioris</title> dicit <name xml:id="gU87nn-d1e66x-Nd1e135" ref="#Aristotle">aristoteles</name> De intellectibus autem melio<lb ed="#B" break="no"/>rem 
+          habemus acceptionem quam sit scientia <g ref="#dot"/> Cum ergo ex quibus accipitur theologia 
+          <lb ed="#B"/>non sint intelligibilia videtur quod theologia non sit scientia
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e145">
+          <g ref="#slash"/>Item confirmatur 
+          <lb ed="#B"/>omnis scientia est ex universalibus primo <title ref="#PosteriorAnalytics">posterioris</title> gesta <unclear>vero</unclear> sunt particularia <g ref="#slash"/>Dicit 
+          <lb ed="#B"/>etiam <name xml:id="gU87nn-d1e66x-Nd1e161" ref="#Aristotle">aristoteles</name> primo <title ref="#Metaphysics">metaphysicae</title> <g ref="#slash"/> <quote xml:id="gU87nn-d1e66x-Qd1e169">ple[?] est principium artis et scientiae</quote>
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e172">
+          <g ref="#slash"/>2o 
+          <lb ed="#B"/>arguitur cum noster intellectus sit possibilis <g ref="#slash"/> non potest accipere scientiam nisi per propositiones primas 
+          <lb ed="#B"/>quas habet <unclear>apud</unclear> se <g ref="#slash"/>et a nullo <unclear>accipit</unclear> <unclear>doctore</unclear> quibus et quam <unclear>instrumentis</unclear> ducitur ad 
+          <lb ed="#B"/>actum <g ref="#slash"/>et contrarium illis nihil accipitur sicut est de quolibet affirmatio vel negatio vera 
+          <lb ed="#B"/>et quod nomina et voces non <unclear>significant[?]</unclear> infinita et huiusmodi quae ponit <ref xml:id="gU87nn-d1e66x-Rd1e202"><name xml:id="gU87nn-d1e66x-Nd1e203" ref="#Aristotle">philosophus</name> 4o</ref> <title ref="#Metaphysics">primae 
+          <lb ed="#B"/>philosophiae</title> <g ref="#dot"/> Inter has autem est quod una natura <unclear>sit</unclear> per esse numeratur in di<lb ed="#B" break="no"/>versis 
+          ypostasibus sive suppositis <g ref="#slash"/>et quod diversarum naturarum substantia potentia 
+          <lb ed="#B"/>et proprietate differentium diversae sunt ypostases <g ref="#slash"/>et quod non est <unclear>idem</unclear> corruptibile et in<lb ed="#B" break="no"/>corruptibile 
+          sicut probat <ref xml:id="gU87nn-d1e66x-Rd1e230"><name xml:id="gU87nn-d1e66x-Nd1e231" ref="#Aristotle">philosophus</name> primo</ref> <title ref="#deCaelo">de caelo</title> et <title><unclear>m</unclear></title> Sed theologia est de contrariis 
+          <lb ed="#B"/>istis est enim de trinitate personarum in una natura et diversitate naturarum in una 
+          <lb ed="#B"/>persona christi <g ref="#slash"/>et de resurrectionem mortuorum quae potissima sunt in theologia igitur 
+          <lb ed="#B"/>principia quae intellectus noster habet apud se non permittuntur ut ex istis generetur 
+          <lb ed="#B"/>scientia in ipsa <g ref="#slash"/> ergo videtur quod theologia non sit scientia
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e256">
+          <g ref="#pilcrow"/>3o arguitur cum tres 
+          <lb ed="#B"/>sunt partes acceptionis ut dicit <name xml:id="gU87nn-d1e66x-Nd1e262" ref="#Aristotle">philosophus</name> <g ref="#slash"/>ex probabilibus opinio <g ref="#slash"/>ex credibilibus fides 
+          <lb ed="#B"/>et haec etiam adiuta rationibus ex probabilibus nascitur et ex intelligibilibus generatur 
+          <lb ed="#B"/>scientia Cum igitur scriptura sacra ex credibilibus sit videtur quod non sit scientia de theologicis 
+          <lb ed="#B"/>sed fides <g ref="#dot"/> unde <ref xml:id="gU87nn-d1e66x-Rd1e278"><name xml:id="gU87nn-d1e66x-Nd1e279" ref="#Augustine">beatus augustinus</name> 14 <title ref="#deTrinitate">de trinitate</title></ref> <quote xml:id="gU87nn-d1e66x-Qd1e285" source="http://scta.info/resource/adt-l14-d1e1535@73-108">non quicquid scire potest ab homini<lb ed="#B" break="no"/>bus 
+          huic scientia tribuo ubi plurimum supervacaneae vanitatis et <add place="margin-right">noxiae</add> curiositatis est sed tantum 
+          <lb ed="#B"/>illud quo fides saluberrima quae ad veram beatitudinem ducit gignitur nutritur et roboratur</quote> igitur videtur quod de theologicis fides sit et non scientia
+        </p> 
+        <p xml:id="gU87nn-d1e66x-d1e296">
+          <g ref="#slash"/>Praeterea 
+          <lb ed="#B"/>si scientia est <unclear>necessariam[?]</unclear> est <!-- is there a missing "non" here --> meritum fidei dicit enim <ref xml:id="gU87nn-d1e66x-Rd1e306"><name xml:id="gU87nn-d1e66x-Nd1e307" ref="#GregoryGreat">beatus gregorius</name> in <title>omelia paschali</title></ref> quod fi<lb ed="#B" break="no"/>des 
+          non habet meritum ubi humana ratio praebet <unclear cert="medium">experimentum</unclear> Cum igitur scientia quae in nobis 
+          <lb ed="#B"/>est ex humana sit ratione videtur quod doctrina fidei scientia non sit
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e321">
+          <g ref="#slash"/>Ultimo arguitur 
+          <lb ed="#B"/>ex hoc quid dicit <name xml:id="gU87nn-d1e66x-Nd1e327" ref="#Boethius">boethius</name> et <name xml:id="gU87nn-d1e66x-Nd1e330" ref="#Ptolemy">ptholomeus</name> in <title ref="#Almagest">almagesti</title> in principio quod quaedam 
+          <pb ed="#B" n="12-v"/>
+          <lb ed="#B"/>propter nimia suam perfectionem <unclear>perfecto intellectu</unclear> intelligibilia non sunt ut deus et substantiae separa<lb ed="#B" break="no"/>tae <g ref="#dot"/>Sed de quibus non est perfectus intellectus non generatur perfecta scientia <g ref="#slash"/>Et hoc confirmat 
+          <lb ed="#B"/><name xml:id="gU87nn-d1e66x-Nd1e350" ref="#Dionysius">dionysius</name> <title>de divinis nominibus</title> capitulo primo dicens quod cum ad divinam venimus perfectam invenimus irrationabilitatem et hoc est etiam quo dicit <name xml:id="gU87nn-d1e66x-Nd1e355" ref="#Aristotle">philosophus</name> in libro <title ref="#deCausis">de causis</title>  quod prima causa est supra notitia et 
+          <lb ed="#B"/>supra rationem et quod numquam deficiunt linguae a narratione eius non propter excel<lb ed="#B" break="no"/>lentiam 
+          esse eius <ref xml:id="gU87nn-d1e66x-Rd1e366"><title ref="#Itim">prima ad thimo</title> 6</ref> <quote xml:id="gU87nn-d1e66x-Qd1e371" source="http://scta.info/resource/Itim6_16">habitat lucem inaccessibilem</quote>
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e375">
+          <g ref="#pilcrow"/>In con<lb ed="#B" break="no"/>trarium 
+          arguitur Id quod sumitur ex <unclear>principio<!-- primo--></unclear> verius scitur quam id quod scitur ex aliquo 2orum <g ref="#slash"/>sed 
+          <lb ed="#B"/>quod scitur per inspirationem scitur ex <unclear>principio<!-- primo --></unclear> igitur verius scitur quam quod scitur ex <unclear>aliqua</unclear> 
+          <lb ed="#B"/>alia causa
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e399">
+          <g ref="#slash"/>praeterea quod scitur immobilibus immo ex immobilissimis ve<lb ed="#B" break="no"/>rius 
+          scitur quam quod scitur ex mobilibus vel minus immobilibus <g ref="#dot"/> Quod autem per re<lb ed="#B" break="no"/>velationibus 
+          sicut ex immobilissimis scitur cuiusmodi sunt theologica igitur de illis verissima 
+          <lb ed="#B"/>scientia est
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e412">
+          <g ref="#pilcrow"/>Pro responsione ad hanc quaestionem est notandum quod dimissis multis modis 
+          <lb ed="#B"/>quibus scientia accipitur <g ref="#slash"/>proprie scientia est habitus stans et immobilis <g ref="#slash"/>non dico immobilis 
+          <lb ed="#B"/><unclear>radicatione</unclear> in subiecto sed immobilis veritate habitus dico acceptus et effectus ex 
+          <lb ed="#B"/>intellectus non ex sensibus vel imaginabilibus <g ref="#slash"/>eo quod illa ab <choice><orig>appenditiis</orig><reg>appenditis</reg></choice> ma<lb ed="#B" break="no"/>teriae 
+          separata non sunt <g ref="#slash"/>et ideo firmitatem veritatis non habent hinc dicit <name xml:id="gU87nn-d1e66x-Nd1e438" ref="#Aristotle">philosophus</name> primo <title ref="#PosteriorAnalytics">posteriorum</title> 
+          <lb ed="#B"/>quod demonstratio quae facit scire est ex puris veris et immediatis ex quorum veritate <!-- quote here --> 
+          <lb ed="#B"/>et stabilitate scientia accipit veritatem et firmitatem Sed inter intelligibilia differentia est quoniam inter omnia intelligibilia <choice><orig>neccesse</orig><reg>necesse</reg></choice> est esse unum primum intelligibile quod per se a se 
+          <lb ed="#B"/>sit intelligibile formaliter et effective <g ref="#dot"/> Effective dico quia ante se non habet causam 
+          <lb ed="#B"/>efficientem suae intelligentis <g ref="#slash"/>sed in natura sua et essentia est intelligibile fons et 
+          <lb ed="#B"/>principium omnis intellectus a quo omne intelligibile per participationem habet quod sit intelligibile 
+          <lb ed="#B"/>Sicut in <title ref="#Physics">physicis</title> primum movens est motivum a seipso <g ref="#slash"/>tum quia ante se non 
+          <lb ed="#B"/>habet causam sui motus efficientem <g ref="#slash"/>tum in natura et essentia sua est movere propeter 
+          <lb ed="#B"/>quod principium quod movet motum motivam veritatem habet a ipso <g ref="#slash"/>et est sua 
+          <lb ed="#B"/>virtus motiva fontaliter effluens omnes virtutes motivas in omnibus aliis 
+          <lb ed="#B"/>moventibus hoc intelligibile est divinus intellectus prout ipse lux est et causa omnium 
+          <lb ed="#B"/>intelligibilium propter quid dicit <name xml:id="gU87nn-d1e66x-Nd1e489" ref="#Averroes"><sic>averrois</sic></name> quod scibile illud quod omnes homines natura scire 
+          <lb ed="#B"/>desiderant intellectus divinus est prout primam habet influentiam super omnia intelligentia 
+          <lb ed="#B"/>et intelligibilia conferens intelligibilibus virtutem qua possint intelligere <g ref="#slash"/>et dans intelligibilibus 
+          <lb ed="#B"/>scilicet lumen quo movere valeant intellectum ad actum intelligendi Et hoc est quod dicit <name xml:id="gU87nn-d1e66x-Nd1e501" ref="#Dionysius">dionysius</name> 
+          <lb ed="#B"/>quod intellectus divinus per omnes <unclear>expand?it</unclear> intellectuales vultus <g ref="#dot"/>
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e512">
+          Istis 
+          <lb ed="#B"/><unclear>notatis</unclear> sit haec conclusio responsiva ad quaesitum <g ref="#slash"/>Theologia est maxime scientia immo ve<g ref="#slash"/><lb ed="#B"/>rius 
+          maxime sapientia <g ref="#dot"/> Probatur sicut iam dictum est <g ref="#dot"/> Scientia est habitus accep<g ref="#slash"/><lb ed="#B"/>tus 
+          ex intelligibilibus sed divinus intellectus non est nisi intellectualis prout est lux et 
+          <lb ed="#B"/>causa omnium intelligibilium <g ref="#slash"/>et ex illo immediate in nobis est theologia <g ref="#slash"/>igitur ipsa est 
+          <lb ed="#B"/>maxime scientia etc Consequentia manifesta est ex quod nominis scientiae <g ref="#slash"/>as<lb ed="#B" break="no"/>sumptum 
+          patet quoniam ipsa est per revelationem spiritus sancti immediate <unclear>supponitur</unclear> <ref xml:id="gU87nn-d1e66x-Rd1e545"><title ref="#io">iohanni</title> 
+          <lb ed="#B"/>16</ref> <g ref="#dot"/> <quote xml:id="gU87nn-d1e66x-Qd1e555" source="http://scta.info/resource/io16_13">cum venerit ille spiritus veritatis docebit vos omnem veritatem</quote> Item <choice><orig>2a</orig><reg>secunda</reg></choice> 
+          <lb ed="#B"/><title ref="#IIcor">ad <unclear>chororum</unclear></title> <g ref="#dot"/>4<g ref="#dot"/> <quote xml:id="gU87nn-d1e66x-Qd1e572" source="http://scta.info/resource/IIcor4_6">deus qui dixit de tenebris lumen splendescere illuxit in 
+          <lb ed="#B"/>cordibus vestris ad illuminationem scientiae <unclear>evan?ii</unclear> claritatis christi</quote>
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e580">
+          <g ref="#slash"/>Ex quibus 
+          <lb ed="#B"/>patet quod theologia est ex primo intelligibili <g ref="#slash"/>et ex prima forma intelligendi <g ref="#slash"/>omene <corr><add place="marginRight">quod</add></corr> intelligitur 
+          <lb ed="#B"/>prout lux luminum est in se ipso et relucens in omnibus aliis Et 
+          <lb ed="#B"/>hoc est quod <quote xml:id="gU87nn-d1e66x-Qd1e599">ab <subst><add place="marginLeft">omni homine</add><del>homine</del></subst> scire desideratur <!-- more of an illustion than a directo quote --></quote> Si enim propter quod unumquodque ta<g ref="#slash"/><lb ed="#B"/>le 
+          et illud magis ut in <ref xml:id="gU87nn-d1e66x-Rd1e611">primo <title ref="#PosteriorAnalytics">posteriorum</title> dicit <name xml:id="gU87nn-d1e66x-Nd1e616" ref="#Aristotle">aristoteles</name></ref> <g ref="#dot"/> Scimus autem <choice><orig>2a</orig><reg>secunda</reg></choice> propter 
+          <lb ed="#B"/>prima si natura desideramus scire <choice><orig>2a</orig><reg>secunda</reg></choice> multo magis prima
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e633">
+          <g ref="#slash"/>Ex prae<lb ed="#B" break="no"/>dictis 
+          patet quod ipsa est maxime sapientia quia ipsa est per <unclear>ultissimas</unclear> causas 
+          <lb ed="#B"/>quoniam ex divino intellectu et per divinum intellectum eorum quae sunt difficillima 
+          <lb ed="#B"/>ad cognoscendo ut puta quod deus est trinus et unus <g ref="#slash"/>quod verbum est caro 
+          <lb ed="#B"/>factum etc Ipsa etiam est <unclear>gratia sciendi</unclear> talis autem sapientia et ut dicit <name xml:id="gU87nn-d1e66x-Nd1e652" ref="#Aristotle">philosophus</name> primo 
+          <lb ed="#B"/><title ref="#Metaphysics">primae philosophiae</title> <unclear>?Ponam?</unclear> 
+          <pb ed="#B" n="13-r"/>
+          <lb ed="#B"/><unclear>plio?</unclear> intellectu est notandum quod <name xml:id="gU87nn-d1e66x-Nd1e666" ref="#Augustine">beatus augustinus</name> super illa verbo dixit et facta sicut dicit <g ref="#slash"/>dixit id est verbum 
+          <lb ed="#B"/>genuit in quo erat ut fieret <g ref="#dot"/> Erat inquam in verbo secundum quod verbum est  <quote xml:id="gU87nn-d1e66x-Qd1e676" source="http://scta.info/resource/adt-l6-d1e826@197-206">ars patris plena 
+          <lb ed="#B"/>rationum omnium viventium</quote> id est qui omnes in ipso vivunt et vita sunt <g ref="#dot"/> Est autem creatura in 
+          <lb ed="#B"/>hoc verbo dicitur scilicet sicut in medio cognoscendi secundum rationem et sicut in causa operativa et productiva <g ref="#dot"/> Et 
+          <lb ed="#B"/>ideo dicitur <ref xml:id="gU87nn-d1e66x-Rd1e690"><title ref="#io">iohanni</title> primo</ref> <quote xml:id="gU87nn-d1e66x-Qd1e695" source="http://scta.info/resource/io1_4">quod factum est in ipso vita erat et vita erat lux hominum</quote> <g ref="#dot"/> lux 
+          <lb ed="#B"/>dico irradians super omnia super omnia cognita sicut dicitur in <title ref="#ps">psalmo</title> <quote xml:id="gU87nn-d1e66x-Qd1e705" source="http://scta.info/resource/ps109_3">ex utero ante luciferum genui te 
+          <lb ed="#B"/>in splendoribus sanctorum</quote> Vita autem secundum quod verbum est operativum quod non respectu quorumdam a philosophis 
+          <lb ed="#B"/>attribuitur motui caeli dicendo quod est immortale et sine quiete in his quae sunt ut vi<lb ed="#B" break="no"/>ta 
+          quaedam natura existentibus omnibus hoc per prius convenit verbo respectu omnium creatarum quia omnia sunt 
+          <lb ed="#B"/>in ipso ut in causa et portantur ab ipso <g ref="#slash"/> <ref xml:id="gU87nn-d1e66x-Rd1e719"><title ref="#hebr">hebraeos</title> primo</ref> <quote xml:id="gU87nn-d1e66x-Qd1e724" source="http://scta.info/resource/hebr1_3">portans omnia verbo virtutis suae</quote>
+        </p>
+        <!-- not sure about break -->
+        <p xml:id="gU87nn-d1e66x-d1e730"><lb ed="#B"/>Haec duo ut dicunt <name xml:id="gU87nn-d1e66x-Nd1e733" ref="#Augustine">beatus augustinus</name> et <name xml:id="gU87nn-d1e66x-Nd1e736" ref="#Anselm">anselmus</name> <unclear>servunt[?]</unclear> duplicem modum effluxus creaturarum 
+          <lb ed="#B"/>a creatione <g ref="#dot"/> Secundum enim quod sicut vita in ipso effluunt a virtus ut subsistant in 
+          <lb ed="#B"/>natura propria <g ref="#dot"/> Et secundum quod sicut lux effluendo manifestantur in intellectu angelica
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e751">
+          De primo 
+          <lb ed="#B"/>dicit <ref xml:id="gU87nn-d1e66x-Rd1e755"><name xml:id="gU87nn-d1e66x-Nd1e756" ref="#Augustine">augustinus</name> primo <title ref="#onGenesis">super <sic>genesum</sic></title></ref> In omnia me invenimus[?] quasi non animi sui aut corporibus motibus 
+          <lb ed="#B"/>operari deum sicut operatur homo vel angelus sed aeternis atque incommutabilibus et stabi<g ref="#slash"/>libus 
+          rationibus coaeterni sibi ubi sui
+        </p> 
+        <p xml:id="gU87nn-d1e66x-d1e769">
+          <g ref="#dot"/>De 2o dicit idem in 3o eiusdem libro primo creabatur 
+          <lb ed="#B"/>lux in qua fieret cognitio ubi <unclear>d?i</unclear> per quod creabantur alia <g ref="#slash"/>atque ipsa cognitione esset ei ab 
+          <lb ed="#B"/>informitate sua converti ad formantem deum <g ref="#dot"/> unde patet quod omnis creatura in natura sau propria 
+          <lb ed="#B"/>subsistit quia in verbo vita erat <g ref="#slash"/>Sed ex hoc quod in verbo lux erat habet omnis natura 
+          <lb ed="#B"/>creata quod se manifestet et intellectum moveat ad intelligendum <g ref="#slash"/>se diffundendo et generando 2m 
+          <lb ed="#B"/>esse formae tantum <g ref="#dot"/> sive 2m esse spirituale quod idem est <g ref="#slash"/>sicut lumen se diffundit generatione 
+          <lb ed="#B"/>formali quae est formae de forma <g ref="#dot"/> Et hoc incessanter natura creata operatur quoniam inces<lb ed="#B" break="no"/>santer 
+          properat ad finem
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e806">
+          <g ref="#slash"/>2m esse enim materiale non potest esse in intellectu ut vult <name xml:id="gU87nn-d1e66x-Nd1e810" ref="#Aristotle">philosophus</name> 2m hoc 
+          <lb ed="#B"/>esse enim scilicet materiale sive in materia <unclear>aut</unclear> quod est natura ipsa <unclear>incommunicabilis</unclear> est <g ref="#dot"/> Ex ea igitur parte qua in 
+          <lb ed="#B"/>verbo lux sunt intelligibiles sunt naturae creatae <g ref="#slash"/>ex quo accipitur rationes rerum creaturarum 
+          <lb ed="#B"/>in verbo existens <unclear>amp</unclear> sunt intelligibiles quam existens in creaturis <g ref="#slash"/>quoniam in verbo <unclear>sunt <!-- sicut --></unclear> ipsa lux 
+          <lb ed="#B"/>unde omnis manifestatio et declaratio
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e840">
+          In creaturis vero <unclear>occ?bit</unclear> per casum 
+          <lb ed="#B"/>et distantiam a luce prima quae est in verbis aut ipsum verbum hinc est quod omnes scientiae quae de 
+          <lb ed="#B"/>creaturis sunt sive per humanam <unclear>adv?ientionem</unclear> quamvis rationes habeant immobiles 
+          <lb ed="#B"/>secundum se <g ref="#slash"/>tamen eaedem rationes per esse in tribus creatis acceptae mobiles sunt magis 
+          <lb ed="#B"/>et minus per distantiam maiorem aut minorem a prima luce <g ref="#dot"/> et secundum quod plus et 
+          <lb ed="#B"/>minus miscentur <unclear>potentiae</unclear> ut patet de physicis mathematicis et metaphysicis omnis igitur 
+          <lb ed="#B"/>scientia humanitus adinventa quamdam habet imperfectionem quia ab intelligibilibus et rationibus 
+          <lb ed="#B"/>iventis in creaturis umbram saltem aliqualem patientibus et si rationes omnium rerum 
+          <lb ed="#B"/>sicut in verbo et sint ipsa lux <g ref="#slash"/>scientiae tamen humanae acceptae sunt ab ipsis re<lb ed="#B" break="no"/>pertis 
+          in creaturis ubi patiuntur mobilitatem saltem secundum esse ut dictum est hinc est quod 
+          <lb ed="#B"/><unclear>ap</unclear> intellectum nostrum ex parte ipsarum in acceptatione scientiae aliqualis oritur diffi<lb ed="#B" break="no"/>cultas 
+          applicando principia et rationes ad effectum propter quod loquitur <choice><orig>neccessaria</orig><reg>necessaria</reg></choice> est tamquam 
+          <lb ed="#B"/>instrumentum ipsius intellectus ad scientiarum inventionem <g ref="#slash"/>Sed scientia scriturae sacrae non sic ac<lb ed="#B" break="no"/>cepta 
+          est a rationibus mobilibus et in creaturis repertis <g ref="#dbdash"/> sed fundata est in rationibus 
+          <lb ed="#B"/>aeternis penitus immobilibus et secundum rationem et secundum esse <g ref="#dot"/> Est enim impressio quaedam et 
+          <lb ed="#B"/>sigillatio divinae sapientiae immediate in nobis ut mens humana dei sapientis 
+          <lb ed="#B"/>sigillum sit et impressa formis et rationibus <unclear>causae</unclear> primae in sapientia sua creatis et re<lb ed="#B" break="no"/>perantis 
+          et glorificantis sua creata quod dicitur <ref xml:id="gU87nn-d1e66x-Rd1e906"><title ref="ca">canticum</title> 8</ref> <quote xml:id="gU87nn-d1e66x-Qd1e911" source="http://scta.info/resource/cant8_6">pone me ut signa<lb ed="#B" break="no"/>culum 
+          super cor tuum</quote> <unclear>ordo<!-- oratio --></unclear> exponendo <name xml:id="gU87nn-d1e66x-Nd1e920">gregorius</name> dicit signaculum est sigillum <corr>profun<add>datum</add><lb ed="#B"/><del>dint</del></corr>
+          propter quod <ref xml:id="gU87nn-d1e66x-Rd1e928"><title ref="#ez">ezechiel</title> 27</ref> dicitur de angelo excellente caeteros in sapientia <quote xml:id="gU87nn-d1e66x-Qd1e934">tu 
+          <lb ed="#B"/>signaculum similitudinis plenus sapientia et perfectus decore</quote><g ref="#dot"/>
+        </p> 
+        <p xml:id="gU87nn-d1e66x-d1e941">
+          Istae rationes 
+          <lb ed="#B"/>in verbo <unclear>existentes</unclear> non solum quae sub esse existentiae per creationem rebus communicatae a 
+          <pb ed="#B" n="13-v"/>
+          <lb ed="#B"/>quibus humanitus colligimus scientias verum igitur rationes sacramentorum absconditorum a saeculis et 
+          <lb ed="#B"/>secretorum divinorum sicut ministerium trinitatis incarnationis passionis resurrectionis iu<lb ed="#B" break="no"/>dicii 
+          finalis etc sunt summae et primae et maximae et <unclear>abtis?</unclear> causae rerum
+        </p> 
+        <p xml:id="gU87nn-d1e66x-d1e960">
+          Istae rationes in 
+          <lb ed="#B"/>verbo existentes sunt principia sacrae scientiae et sunt intelligibilia omnia pura et ab istis intelligibilibus in 
+          <lb ed="#B"/>nobis sit scientia quae dicitur theologia secundum quod spiritus sanctus dignatur huiusmodi rationes nobis ostendere seu 
+          <lb ed="#B"/>revelare <g ref="#slash"/>Ex quibus omnibus patet quod theologia est maxime scientia <g ref="#dot"/> immo verius <unclear>maxime</unclear> sa<lb ed="#B" break="no"/>pientia 
+          <g ref="#slash"/>quoniam ex causis altissimis primis et maxime veris sequitur quod ipsa est <choice><orig>ydea</orig><reg>idea</reg></choice> omnium 
+          <lb ed="#B"/>scientiarum et omnes scientiae aliae sunt sub ea <g ref="#slash"/>omnes enim aliae acceptae sunt a creaturis <g ref="#slash"/> 
+          <lb ed="#B"/>istius vero a rationibus in verus existentibus <g ref="#slash"/>immediate accepta est <g ref="#slash"/>quae movent nostrum 
+          <lb ed="#B"/>intellectum immediate luce aeterna increata et non alia luce aut lumine <corr><add place="aboveLine"><unclear>?</unclear></add></corr> quae lux est per 
+          <lb ed="#B"/>essentiam <g ref="#slash"/>alia intelligibilia seu rationes in creaturis acceptae movent lumine accepto 
+          <lb ed="#B"/><subst><del>?</del><add>et</add></subst> <unclear>perti?to</unclear> a prima luce <g ref="#slash"/>propter quod ipsa in demonstratione est fortissimae veritates eo quod per reve<lb ed="#B" break="no"/>lationem 
+          primi luminis omnia demonstrant quae demonstrant Aliae vero scientiae demonstrant per 
+          <lb ed="#B"/>lucem <unclear>intelligentiae</unclear> in creaturis acceptam <g ref="#slash"/>quae lux saepe occumbit subiecti malitia 
+          <lb ed="#B"/>quae est in caligine <choice><orig>fantasiarum</orig><reg>phantasiarum</reg></choice> Ista vero demonstrant per lucem puram et 
+          <lb ed="#B"/>invincibilem <ref xml:id="gU87nn-d1e66x-Rd1e1034"><title ref="#sap">sapientiae</title> 6</ref> <quote xml:id="gU87nn-d1e66x-Qd1e1039" source="http://scta.info/resource/sap7_29">luci conparata invenitur prior</quote> <g ref="#dot"/> <quote xml:id="gU87nn-d1e66x-Qd1e1044" source="http://scta.info/resource/sap7_30">luci enim succedit nox</quote> <g ref="#dot"/> Et  
+          <lb ed="#B"/><ref xml:id="gU87nn-d1e66x-Rd1e1051">ibidem <title ref="#sap">Sapientiam</title></ref> <quote xml:id="gU87nn-d1e66x-Qd1e1056" source="http://scta.info/resource/sap7_30">autem non vincit malitia</quote> <g ref="#dot"/> unde <ref xml:id="gU87nn-d1e66x-Rd1e1061"><title ref="#io">ioannes</title> primo</ref> de luce quae est vita dicitur 
+          <lb ed="#B"/><quote xml:id="gU87nn-d1e66x-Qd1e1067" source="http://scta.info/resource/io1_4">vita erat lux hominum</quote> <quote xml:id="gU87nn-d1e66x-Qd1e1071" source="http://scta.info/resource/io1_5">et lux in tenebris lucet et tenebrae <sic>eum</sic> non comprehenderunt</quote> 
+          <lb ed="#B"/>Cui verbo addit <name xml:id="gU87nn-d1e66x-Nd1e1078" ref="#JohnChrysostom">chrisostus</name> <g ref="#dot"/> <g ref="#dot"/> <quote xml:id="gU87nn-d1e66x-Qd1e1085">Quin potius lux comprehendit tenebras et sui claritate 
+          <lb ed="#B"/>dissipavit</quote> <g ref="#dot"/>
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e1094">
+          <g ref="#pilcrow"/>Istis positis respondetur ad primam rationem cum arguitur theologia 
+          <lb ed="#B"/>est de gestis singularibus dei et sanctorum etc dicendum quod theologia est de periculantibus sed 
+          <lb ed="#B"/>non particulariter consideratis sed prout particulare est potentia universale et arguitur ex eis sicut ex 
+          <lb ed="#B"/>universalibus <g ref="#dot"/> quia sicut in uno similiter se habet in omnibus <g ref="#dot"/> propter quod sequitur anima <name xml:id="gU87nn-d1e66x-Nd1e1109" ref="#Peter">petri</name> est im<g ref="#slash"/><lb ed="#B"/>moralis 
+          igitur anima omnis hominis <g ref="#dot"/> unde particularia sacrae scripturae <unclear>posita</unclear> universalia sunt 
+          <lb ed="#B"/>et ex ipsis arguitur sicut ex universalibus <g ref="#dot"/> sicut dicit <ref xml:id="gU87nn-d1e66x-Rd1e1124"><name xml:id="gU87nn-d1e66x-Nd1e1125" ref="#Paul">apostolus</name> <title ref="#rom">ad romanos</title></ref> <quote xml:id="gU87nn-d1e66x-Qd1e1131" source="http://scta.info/resource/rom4_3"><name xml:id="gU87nn-d1e66x-Nd1e1132" ref="#Abraham">abraham</name> cre<lb ed="#B" break="no"/>didit 
+            deo et reputatum est ei ad iustitiam</quote> Non est autem scriptum tantum propter ipsum 
+          <lb ed="#B"/>quia reputatum est illi ad iustitiam <g ref="#slash"/>sed et propter nos quibus reputabitur credentibus 
+          <lb ed="#B"/>in eum <g ref="#dot"/> Et ita ista fides spes et caritas in <title ref="#Abraham">abraham</title> accepta sunt 
+          <lb ed="#B"/>valet universalem <g ref="#slash"/> in omnibus accepta sunt <g ref="#dot"/> Similiter revelatum a spiritu veritatis in uno 
+          <lb ed="#B"/>verum est <g ref="#slash"/> revelatum in omnibus est verum <g ref="#dot"/> Et sic vere ex universalibus <corr>et<!-- corr unclear --></corr> intelligibilibus ut dictum 
+          <lb ed="#B"/>est <g ref="#dot"/> Sed causa quare proponitur haec scientia in patribus est <g ref="#slash"/> quia secundum <ref xml:id="gU87nn-d1e66x-Rd1e1174"><name xml:id="gU87nn-d1e66x-Nd1e1175" ref="#Paul">apostolum</name> <title ref="#tit">ad titum</title> primo</ref> <quote xml:id="gU87nn-d1e66x-Qd1e1182">scientia 
+            <lb ed="#B"/>est secundum pietatem informans ad fidem et <unclear>meltum operum</unclear></quote> <g ref="#dot"/> et talis scientiae perfectio 
+          <lb ed="#B"/>ultima in operibus est particularibus Talis enim scientia magis creditur eis qui talia <corr><del rend="strikethrough">agunt</del></corr> 
+          <lb ed="#B"/>amant et opera faciunt quam propter persuasionem ut <ref xml:id="gU87nn-d1e66x-Rd1e1199"><name xml:id="gU87nn-d1e66x-Nd1e1200" ref="#Aristotle">philosophus</name> 9 <title>ethicorum</title></ref> Item haec scientia 
+          <lb ed="#B"/>in operibus particularibus traditur ut quasi exemplariter rusticam instrueretur contionem <g ref="#slash"/>
+          <lb ed="#B"/>Omnibus enim <choice><orig>neccessaria</orig><reg>necessaria</reg></choice> est ad salutem et sapientibus et <choice><orig>ydeotis</orig><reg>ideotis</reg></choice> <g ref="#dot"/> <ref xml:id="gU87nn-d1e66x-Rd1e1222"><title ref="#rom">ad romanos</title> primo</ref> <quote xml:id="gU87nn-d1e66x-Qd1e1227" source="http://scta.info/resource/rom1_14">Sa<g ref="#slash"/><lb ed="#B"/>pientibus 
+            et insipientibus debitor sum</quote> <g ref="#dot"/> et ideo modo qui competit omnibus tradi debu<lb ed="#B" break="no"/>it <g ref="#dot"/> Modus vero scientialis aut artificialis non est competens omnibus <ref xml:id="gU87nn-d1e66x-Rd1e1240"><title ref="#Icor">prima ad corinthios</title> 8 <!-- can't find quote or ref --></ref> 
+          <lb ed="#B"/>Non <unclear>omni</unclear> est scientia <g ref="#slash"/>tamen quia in partibus latent theologiae universales <g ref="#slash"/>multae a patri<lb ed="#B" break="no"/>bus 
+          pulcerrime extractae sunt <g ref="#dot"/> et scientialiter traditae sunt et artificiose in 
+          <lb ed="#B"/>originalibus eorum sicut patet in libris beatorum <name xml:id="gU87nn-d1e66x-Nd1e1261" ref="#Dionysius">dyonisii</name> <name xml:id="gU87nn-d1e66x-Nd1e1264" ref="#Augustine">augustini</name> <name xml:id="gU87nn-d1e66x-Nd1e1267" ref="#GregoryGreat">gregorii</name> et aliorum 
+          <lb ed="#B"/>Et sic sit quod dicit <name xml:id="gU87nn-d1e66x-Nd1e1273" ref="#Jerome">iheromus</name> quod in eadem scientia aliter doctus aliter sentit indoc<g ref="#slash"/>tus 
+          uterque tamen sentit ad aedificationem unde <name xml:id="gU87nn-d1e66x-Nd1e1278" ref="#GregoryGreat">gregorius</name> <quote xml:id="gU87nn-d1e66x-Qd1e1281">sacra scriptura fluvius est 
+            <lb ed="#B"/>in quo et agnus <sic>peditat</sic> et elephas natat</quote> vocans agnum pium et 
+          <lb ed="#B"/>simplicem qui quasi <sic>pediendo</sic> de virtute in virtutem proficit in exemplari doctrina 
+          <lb ed="#B"/>quae particulariter et <unclear>singulariter</unclear> proponitur Elephantem vero vocat sapientem et littera<g ref="#slash"/><lb ed="#B"/>tum 
+          quod ad profunda sapientiae quae <sic>collitur</sic> in particularibus non attingit Et quod dicit <ref xml:id="gU87nn-d1e66x-Rd1e1303"><name xml:id="gU87nn-d1e66x-Nd1e1304" ref="#Augustine">augustinus</name> <!-- doesn't seem to be a direct quote but I think it refers to diverse questions, q 48, de credibilibus --></ref> 
+          <lb ed="#B"/>quod gesta numquam intelliguntur intelligitur de gestis humanis in quibus 
+          <pb ed="#B" n="14-r"/>
+          <lb ed="#B"/>non sicut in uno sic in omnibus aliis est
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e1316">
+          <g ref="#pilcrow"/>Ad 2am <ref xml:id="gU87nn-d1e66x-Rd1e1320"> <!-- this the incipit of the argument being responded to -->cum intellectus noster sit possibilis 
+          <lb ed="#B"/>non potest accipere scientiam nisi per propositiones primas etc</ref> dicendum quod ratio bene concludit de 
+          <lb ed="#B"/>intellectu intelligente praecise ex lumine sibi connaturali <g ref="#dot"/>Ex lumine enim sibi connatura<g ref="#slash"/><lb ed="#B"/>li 
+          scilicet intellectus agentis non accipit scientia nisi per propositiones primas in illo lumine quas 
+          <lb ed="#B"/>habet <unclear>a per se</unclear> <!-- this passage to the end is basically lifted from Albert the great's Summa theologicae 1, tract 1, ad 2 (pg. 10 of Borgnet v. 31) --> --&gt; <g ref="#slash"/>sed ex lumine naturae superiorum quae est verbum et lux vera <g ref="#slash"/>intellectus ele<g ref="#slash"/>vatur 
+          ad supermundana quae potentia sola divina et voluntate sunt ut dicit <name xml:id="gU87nn-d1e66x-Nd1e1348" ref="#JohnChrysostom">chrisos<lb ed="#B" break="no"/>tus</name> 
+          sicut scientia trinitatis incarnationis etc <quote xml:id="gU87nn-d1e66x-Qd1e1353">et his lumine desuper influente assen<g ref="#slash"/><lb ed="#B"/>tit 
+            et certius ea scit quam ea quae ex lumine sibi connaturali accipit</quote>
+        </p>
+        <!-- this is also more or less lifted, from Albert the great's Summa theologicae 1, tract 1, ad 3 (pg. 10 of Borgnet v. 31) -->
+        <p xml:id="gU87nn-d1e66x-d1e1362"><g ref="#pilcrow"/>Ad 
+          <lb ed="#B"/>3m cum arguitur <ref xml:id="gU87nn-d1e66x-Rd1e1367" type="cref">cum arguitur cum tres sunt partes acceptionis etc</ref> <unclear>respondetur</unclear> quod sunt credibilia quae intelligibilia 
+          <lb ed="#B"/>esse non possunt sicut humana quae potentiam universalitatis non habent et haec non generant nisi opinio 
+          <lb ed="#B"/>vel fidem non secundum quod fides est virtus sed secundum quod dicit <name xml:id="gU87nn-d1e66x-Nd1e1377" ref="#Aristotle">philosophus</name> opinio adiuta rationibus fit 
+          <lb ed="#B"/>fides <g ref="#slash"/>Et sunt credibilia quae per inductionem luminis superioris fiunt intelligibilia <g ref="#slash"/>et haec 
+          <lb ed="#B"/>certissimam faciunt scientiam <ref xml:id="gU87nn-d1e66x-Rd1e1388"><title ref="#is">Isaiae</title> <sic>6</sic></ref> secundum translationem <choice><orig>70</orig><reg>septuaginta</reg></choice> <quote xml:id="gU87nn-d1e66x-Qd1e1399" source="http://scta.info/resource/is7_9">nisi credideritis non intellige<lb ed="#B" break="no"/>tis</quote> 
+          <g ref="#dot"/> Et <name xml:id="gU87nn-d1e66x-Nd1e1406" ref="#Dionysius">dyonisius</name> dicit <title ref="#deDivinisNominibus">divinis nominibus</title> capitulo 7 quod <quote xml:id="gU87nn-d1e66x-Qd1e1412">fides est lumen locans credentes in primam veritatem 
+          <lb ed="#B"/>et primam veritatem in ipsis immobilem</quote> et ideo sub lumine illius accipitur quod sub lumine 
+          <lb ed="#B"/>connaturali accipi non potest dicit enim <name xml:id="gU87nn-d1e66x-Nd1e1420" ref="#Boethius">boetius</name> quod <quote xml:id="gU87nn-d1e66x-Qd1e1423">quidquid potest potentia inferior potest superior 
+          <lb ed="#B"/>et amplius<!--taken straight from alber the great, Borgnet v. 31, p. 10a-b no citation found --></quote>
+        </p>
+        <!-- this seems like a version of Alberts "ad quintum" -->
+        <p xml:id="gU87nn-d1e66x-d1e1432">
+          <g ref="#pilcrow"/>Ad 4m cum arguitur <ref xml:id="gU87nn-d1e66x-Rd1e1436" type="cref">si theologia scientia est evacuat meritum fidei etc</ref> 
+          <lb ed="#B"/>dicendum quod si esset experimentum ex humana ratione aut scientia verum esset quod 
+          <lb ed="#B"/>evacuaret meritum <g ref="#slash"/>sed scientia ex rationibus fidei non evacuat Et 
+          <lb ed="#B"/>quo dicitur quod omnis scientia nostra est ex humana ratione <g ref="#slash"/>hoc non est verum nisi intelligatur 
+          <lb ed="#B"/>de scientia humanitus et non divinitus accepta
+        </p>
+        <!-- this is alberts "ad sextum --> <!-- could think about adding type to paragraph to indicate reused or lifted passages from other works type="lifted" target="?" -->
+        <p xml:id="gU87nn-d1e66x-d1e1458">
+          <g ref="#slash"/>Ad ultima cum arguitur 
+          <lb ed="#B"/><ref xml:id="gU87nn-d1e66x-Rd1e1463" type="cref">ex hoc quod dicit <name xml:id="gU87nn-d1e66x-Nd1e1465" ref="#Boethius">boetius</name> etc</ref> patet solutio praedictis <g ref="#dot"/> Perfectissima enim lumine humani 
+          <lb ed="#B"/>intellectus non perfecte intelliguntur Lumine vero superioris naturae vere possunt intelligi 
+          <lb ed="#B"/>et perfecte <g ref="#slash"/>perfectione viae et non patriae <g ref="#slash"/>nisi paucis ut <name xml:id="gU87nn-d1e66x-Nd1e1480" ref="#Paul">paulo</name> in raptu 
+          <lb ed="#B"/>hoc concessu sit per privilegium speciale <ref xml:id="gU87nn-d1e66x-Rd1e1485"><title ref="#iob">Iob</title> 36</ref> <quote xml:id="gU87nn-d1e66x-Qd1e1490" source="http://scta.info/resource/iob36_25">omnes vident eum unus<lb ed="#B" break="no"/>quisque 
+          intuetur procul</quote> <quote xml:id="gU87nn-d1e66x-Qd1e1496" source="http://scta.info/resource/Icor13_12">Nunc cognosco ex parte <g ref="#dot"/>Tunc autem cognos<g ref="#slash"/>cam 
+          sicut cognitus sum</quote>
+          <!-- lifted from the next paragraph after ad sextum -->
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e1506">
+          <g ref="#pilcrow"/>Ex his patet quod credibile 3bus modis se habet 
+          <lb ed="#B"/>ad intellectum ut dicit <ref xml:id="gU87nn-d1e66x-Rd1e1512"><name xml:id="gU87nn-d1e66x-Nd1e1513" ref="#Augustine">augustinus</name> in libro <title ref="#deDiversisQuaestionibus">83 quaestionum</title></ref> <quote xml:id="gU87nn-d1e66x-Qd1e1519">Impossibiliter ut in gestis hominum 
+          <lb ed="#B"/>quae semper creduntur et numquam intelliguntur <g ref="#slash"/>Antecedenter <g ref="#slash"/>ut in gestis divinis quae non 
+          <lb ed="#B"/>intelliguntur nisi prius credantur <g ref="#slash"/>Consequenter ut in disciplinabilibus quae mox ut in<lb ed="#B" break="no"/>telliguntur 
+          statim creduntur <!-- hardly a direct quote, but definitely from diverse questions 48 --></quote>
+        </p>
+        <p xml:id="gU87nn-d1e66x-d1e1537">
+          Explicit prima quaestio <sic>proheminalis</sic> primi li<lb ed="#B" break="no"/>bri 
+          <title ref="#Sentences">sententiarum</title> <name xml:id="gU87nn-d1e66x-Nd1e1546" ref="#Lombard">magistri petri lombardi</name>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
