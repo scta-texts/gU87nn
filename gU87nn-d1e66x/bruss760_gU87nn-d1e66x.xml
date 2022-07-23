@@ -20,7 +20,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B" n="bruss76">Brüssel, Koninklijke Bibliotheek van België, ms. 760 (1715)</witness>
+          <witness xml:id="B" n="bruss760">Brüssel, Koninklijke Bibliotheek van België, ms. 760 (1715)</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -43,7 +43,7 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#L" n="42-v"/>
+        <pb ed="#L" n="12-r"/>
       </div>
     </front>
     <body>
