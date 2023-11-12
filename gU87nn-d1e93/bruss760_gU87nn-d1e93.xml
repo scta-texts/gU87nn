@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2 [Brussels Transcription]</title>
+        <author>Lambertus de Monte</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2 [Brussels Transcription]</title>
+          <date when="2022-08-30">Auguste 30, 2022</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="bruss760">Brüssel, Koninklijke Bibliotheek van België, ms. 760 (1715)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2022-08-30" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="14-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gU87nn-d1e93"> <!-- prol, q. 2 -->
+        <head xml:id="gU87nn-d1e93-Hd1e90">Quaestio 2 [Brussels Transcription]</head>
+        <p xml:id="gU87nn-d1e93-d1e92">
+          <lb ed="B" n="33"/>Deinde quaeritur de quo sit scientia theologiae sicut de subiecto
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e97">
+          De hoc
+          <lb ed="#B" n="34"/>autem sunt principaliter 4or positiones una est <ref xml:id="gU87nn-d1e93-Rd1e101"><name xml:id="gU87nn-d1e93-Nd1e102">augustini</name> in libro de doctrina 
+          <lb ed="#B" n="35"/>christiana</ref> quam sequitur <ref xml:id="gU87nn-d1e93-Rd1e107"><name xml:id="gU87nn-d1e93-Nd1e108">magister</name> in prima distinctione</ref> quae est quod res et signa 
+          <lb ed="#B" n="36"/>sunt subiectum huius scientiae Cuius ratio est nam secundum <ref xml:id="gU87nn-d1e93-Rd1e113"><name xml:id="gU87nn-d1e93-Nd1e114">beatum augustinum</name> de trinitate 
+          <lb ed="#B" n="37"/>14</ref> <quote xml:id="gU87nn-d1e93-Qd1e120">theologiae est scientia quae est de rebus ad salutem hominem pertinentibus</quote> igitur erit 
+          <lb ed="#B" n="38"/>de his quae faciunt ad salutem effecitve et sunt obiecta salutis et est de 
+          <lb ed="#B" n="39"/>his quae ad salutem disponunt <pc type="virgula">/</pc> et est de ipso percipiente salutem secundum quod 
+          <lb ed="#B" n="40"/>salutis est perceptibilis Erit igitur de rebus quibus frui materia tantum in quibus est sa<lb ed="#B" n="41"/>lutis 
+          complementum <pc type="punctus"/> et erit de utibus disponentibus ad hoc Et hoc 
+          <lb ed="#B" n="42"/>dicitur scilicet ex parte intellectus et ex parte affectus <pc type="punctus"/> Ex parte intellectus servando ut signa 
+          <lb ed="#B" n="43"/>ex parte affectus <pc type="punctus"/> ut disponentia ad salutem per se vel per accidens in reces<lb ed="#B" n="44"/>su 
+          a malo et accessu ad bonum Ideo dixit <name xml:id="gU87nn-d1e93-Nd1e147">augustinus</name> quod tota theologia versatur 
+          <lb ed="#B" n="45"/>circa res quibus fruendum est quae sunt pater et filius et spiritus sanctus aut circa res 
+          <lb ed="#B" n="46"/>quibus utendum <pc type="punctus"/> servando aut disponendum ad salutem <pc type="virgula">/</pc> aut circa res utentes et 
+          <lb ed="#B" n="47"/>fruentes ut homo
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e161">
+          <pc type="virgula">/</pc> Sed contra hoc videtur esse quod signa et res non videntur esse
+          <pb ed="#B" n="14-v"/>
+          <lb ed="#B" n="1"/>ordinalia sub uno genere subiecti In aliis enim scientiis scientiae de signis et sermonibus
+          <lb ed="#B" n="2"/>distinguuntur a scientiis de rebus
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e174">
+          <pc type="virgula">/</pc> Item res quibus utimur et fruimur omnia continent <pc type="punctus"/> omnibus
+          <lb ed="#B" n="3"/>enim quotquot sunt in caelo et in terra utimur vel fruimur ut vult <name xml:id="gU87nn-d1e93-Nd1e183">magister</name> et <name xml:id="gU87nn-d1e93-Nd1e185">augustinus</name> 
+          <lb ed="#B" n="4"/>igitur videtur quod theologia sit de omnibus et per consequens aliae scientiae <del rend="strikethrough">scs</del> superfluunt
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e194">
+          <pc type="pilcrow"/> 2a 
+          <lb ed="#B" n="5"/>positio est <ref xml:id="gU87nn-d1e93-Rd1e200"><name xml:id="gU87nn-d1e93-Nd1e201">hugonis de sancto victore</name> in libro sententiarum suarum</ref> quae dicit quod materia divinarum
+          <lb ed="#B" n="6"/>scripturarum sunt opera reparationis Aliarum vero scientiarum materia sunt opera conditionis
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e207">
+          <pc type="pilcrow"/><lb ed="#B" n="7"/>Sed contra obicitur in principio <unclear>genesis</unclear> theologia est de operibus conditionis igitur non tantum de operi<lb ed="#B" break="no" n="8"/>bus
+          reparationis <pc type="virgula">/</pc> Item est de causa operum conditionis et reparationis igitur non solum de 
+          <lb ed="#B" n="9"/>operibus reparationum
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e222">
+          <pc type="pilcrow"/> 3a positio in principio glosae psalterii dicitur quod nihil est in 
+          <lb ed="#B" n="10"/>scriptura divina quod non ad christum vel ecclesiam pertineat igitur <pc type="punctus"/> igitur <unclear>caput</unclear> et corpus 
+          <lb ed="#B" n="11"/>sponsus et sponsa <pc type="punctus"/> christus et ecclesia sunt subiectum sacrae scripturae <pc type="virgula">/</pc> hoc est totus christus 
+          <lb ed="#B" n="12"/><pc type="virgula">/</pc> Sed contra multa sunt in scriptura sacra quae nec de christo sunt nec de ecclesia <pc type="virgula">/</pc> sicut quod 
+          <lb ed="#B" n="13"/>deus in principio creavit caelum et terram <pc type="virgula">/</pc> et quod diluvium inductum est quod <unclear>lingue<lb ed="#B" n="14"/>divise</unclear> 
+          sunt et alia multa videtur igitur quod totus christus non sit materia sacrae scripturae <pc type="virgula">/</pc> potentia 
+          <lb ed="#B" n="15"/>mali sine in una sive in inferno et dyabolus non sunt de capite neque de corpore 
+          <lb ed="#B" n="16"/>et tamen de illis et sub differentiis eorum in sacra scriptura determinatur
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e266">
+          <pc type="pilcrow"/> 4a positio est quod 
+          <lb ed="#B" n="17"/>deus sit subiectum scripturae sacrae <unclear>sicut</unclear> et per nomen <unclear>significatur</unclear> quo theologia vocatur <pc type="virgula">/</pc> Contra quam 
+          <lb ed="#B" n="18"/>arguitur multa tractantur in sacra scriptura quae non sunt deus nec de deo probantur 
+          <lb ed="#B" n="19"/>ut de subiecto <pc type="virgula">/</pc> Item <name xml:id="gU87nn-d1e93-Nd1e287">boetius</name> in libro de trinitate Deus subiectum esse non potest <pc type="virgula">//</pc>
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e293">
+          <lb ed="#B" n="20"/> Pro determinatione quaestionis est notandum quod subiectum in scientiis tripliciter assignatur scilicet quod 
+          <lb ed="#B" n="21"/>principaliter intenditur et in principali parte scientiae sicut deus dicitur esse subiectum primae philosophiae
+          <lb ed="#B" n="22"/>quia in principali parte eius de deo intenditur et de substantiis divinis quae separatae sunt <pc type="virgula">/</pc> a 
+          <lb ed="#B" n="23"/>quo ab antiquis philosophis theologia vocabatur <pc type="virgula">/</pc> quia denominatio debet fieri ab ultimo et optimo
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e312">
+          <lb ed="#B" n="24"/> <pc type="virgula">/</pc> 2o modo assignatur subiectum in scientiis de quo et de cuius partibus probantur <unclear>passivos</unclear> 
+          <lb ed="#B" n="25"/>sicut ens subiectum esse dicitur primae philosophiae ubi unum et multa potentia et actus <unclear>eo</unclear> 
+          <lb ed="#B" n="26"/>ens necesse ens possibile separatum non separatum idem et <unclear>du?qum</unclear> etc probantur 
+          <lb ed="#B" n="27"/>de ente
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e333">
+          <pc type="virgula">/</pc> 3o modo assignatur subiectum scientiae illud circa quod est sicut <unclear>amminculans</unclear> propter 
+          <lb ed="#B" n="28"/>bonitatem et claritatem doctrinae Amminculans dico ad subiectum primo et 2o modo dic<lb ed="#B" n="29"/>tum 
+          sicut prima philosophia est circa positiones antiquorum et circa principia demonstrationum 
+          <lb ed="#B" n="30"/>et circa ultimo modo aut multipliciter dictum et circa diffinitionem secundum se vel <del>circa</del> philosophica et 
+          <lb ed="#B" n="31"/>circa principia utriusque hanc autem triplicem subiecti distinctionem in omnibus scientiis generationibus necesse est esse
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e352">
+          <pc type="virgula">/</pc> Ad propositum igitur dicendum si assignetur subiectum secundum quid principaliter est intentum 
+          <lb ed="#B" n="32"/>et propter quid cognoscendum tractatur de omnibus aliis <pc type="virgula">/</pc> deus est subiectum huius scientiae et ab 
+          <lb ed="#B" n="33"/>ipso denominatur Si dicitur subiectum 2o modo de quo probantur passivos et quid per passivos 
+          <lb ed="#B" n="34"/>determinatur christus et ecclesia est subiectum <pc type="virgula">/</pc> sive verbum incarnatum cum omnibus suis 
+          <lb ed="#B" n="35"/>sacramentis quae <unclear>per se?t</unclear> in ecclesiae ET hoc est idem dicere quod opera reparationis sunt subiectum 
+          <lb ed="#B" n="36"/>hoc enim de capite probantur ut influente <pc type="virgula">/</pc> et de ecclesia ut de eo cui 
+          <lb ed="#B" n="37"/>influunt <pc type="virgula">/</pc> et haec declarant deum prout est res qua perfecte quis fruitur 
+          <lb ed="#B" n="38"/>Si vero 3o modo assignetur subiectum <pc type="virgula">/</pc> prout subiectum est circa quid ut amminculans tunc 
+          <lb ed="#B" n="39"/>scriptura sacra habet subiectum res et signa
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e393">
+          Notandum tamen est quod res et signa ab<lb ed="#B" n="40"/>solute 
+          non sunt subiectum scilicet res ut res et signa ut significant <pc type="virgula">/</pc> sed sunt subiectum 
+          <lb ed="#B" n="41"/>inquantum faciunt aliquo modo ad beatitudinis <unclear>perfectionem</unclear> Et hoc notat beatus augustinus cum 
+          <lb ed="#B" n="42"/>subdit Id vero in rebus considerandum est quod res aliae sunt quibus fruendum etc 
+          <lb ed="#B" n="43"/>ac si <unclear>dicens</unclear> Theologia non speculatur res inquantum res sunt sed prout ordinantur 
+          <lb ed="#B" n="44"/>ad perfectionem beatitudinis et fruitionis ad quas quaedam ordinantur ut beatificantes 
+          <lb ed="#B" n="45"/>quaedam ut beatificabiles <pc type="virgula">/</pc> quaedam ut adiuvantes et dispositiones sicut utilia Et sic 
+          <lb ed="#B" n="46"/>verum est quod haec scientia est de omnibus sicut dicit <name xml:id="gU87nn-d1e93-Nd1e421">augustinus</name> et allegat <name xml:id="gU87nn-d1e93-Nd1e423">magister</name> in littera <unclear>Resant</unclear> 
+          <lb ed="#B" n="47"/>inquit quibus utendum est <pc type="virgula">/</pc> mundus est et in eo creata Sed principaliter de deo est quo solum est fruen<lb ed="#B" n="48"/>dum 
+          <pc type="virgula">/</pc> sed non de omnibus sub ratione diversa qua differeunt a se singula <pc type="virgula">/</pc> sic enim deberet 
+          <lb ed="#B" n="49"/>inquirere de principiis actionum et passionum rerum naturae et proprietates ceteras quae inquiruntur 
+          <lb ed="#B" n="50"/>in naturali philosophia sed sub ratione scilicet prout in visum veniunt eius qui ad beatitudinem progreditur
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e446">
+          <pb ed="#B" n="15-r"/>
+          <lb ed="#B" n="1"/>In usum dico secundum intellectum in cognoscendo per ipsas res creatorem aut disponendo ut virtutes 
+          <lb ed="#B" n="2"/>unde ad romanos primo Invisibilia dei a creatura mundi id est ab homine per ea quae facta sunt 
+          <lb ed="#B" n="3"/>intellecta conspiciuntur sempiterna quoque eius virtus et divinitas Et sapientiae 13 vani 
+          <lb ed="#B" n="4"/>sunt omnes homines in quibus non subest scientia dei et de hiis quae videntur bona non po<lb ed="#B" n="5"/>tuerunt 
+          intelligere eum qui est neque operibus attendentes agnoverunt quis esset arti<lb ed="#B" n="6"/>fex 
+          Et paulo post Quorum si specie delectanti deos putaverunt sciant quan<lb ed="#B" n="7"/>to 
+          his dominator eorum speciosior est Speciei enim generator haec omnia con<lb ed="#B" n="8"/>stituit 
+          aut si veritatem et opera eorum mirati sunt intelligant ab ipsis quoniam 
+          <lb ed="#B" n="9"/>qui haec constituit est <unclear>illis</unclear> speciosior a magnitudine enim speciei et creaturae <unclear>cognoscitur</unclear> 
+          <lb ed="#B" n="10"/>poterit eorum creator videri Sic omnes creaturae in usum veniunt nostrum ad 
+          <lb ed="#B" n="11"/>beatitudinem et fruitionem
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e479">
+          <pc type="pilcrow"/> Ratio enim omnium dictorum est quoniam ut dictum est in lectione 
+          <lb ed="#B" n="12"/>proxima creaturae in se habent divinas rationes quibus verum <unclear>plenum</unclear> est <unclear>sibi</unclear> <unclear>parti?tas</unclear> unde intellectuales 
+          <lb ed="#B" n="13"/>sunt et similem <unclear>pug??erunt</unclear> intelligibilis et in ipsum ducunt <pc type="virgula">/</pc> et praecipue fides spes 
+          <lb ed="#B" n="14"/>et caritas per quas quoniam ipsis amici sumus dei secretiora ipsius cognoscimus
+          <lb ed="#B" n="15"/>in quibus deus nobis maxime manifestatur Sic omnia opera conditionis et creationis 
+          <lb ed="#B" n="16"/>haec considerat supra haec autem ostendentur amplius inferius in materia de vestigio et imagine
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e507">
+          <pc type="virgula">/</pc> Similiter dicendum est de signis non enim considerat haec sapientia signa secundum principia quae signa
+          <lb ed="#B" n="17"/>faciunt esse signa sicut aliae scientiae aut secundum communem acceptionem signorum sed considerat 
+          <lb ed="#B" n="18"/>signa secundum quod demonstrant continendo gratiam <pc type="virgula">/</pc> aut secundum principia secundum quae <subst><del rend="blackout"><unclear>fiunt</unclear></del> <add place="margin-right">fuerunt</add></subst> aliquo modo 
+          <lb ed="#B" n="19"/>significata secundum quod dicit <name xml:id="gU87nn-d1e93-Nd1e529">augustinus</name> et allegat eum <name xml:id="gU87nn-d1e93-Nd1e531">magister</name> in littera <unclear>Quomod</unclear> autem hoc sic 
+          <lb ed="#B" n="20"/>declarabitur in 4o huius scilicet <unclear>quomodo</unclear> sacramenta novae legis causa sunt eius quidam significant
+          <lb ed="#B" n="21"/>Et propter hoc eadem est scientia de signis isto modo et significantis quoniam eadem principia ipsorum 
+          <lb ed="#B" n="22"/>Sed in aliis scientiis non est ita Et ideo alia est scientia de rebus <pc type="virgula">/</pc> et alia de signis
+          <lb ed="#B" n="23"/>quia sumunt signa secundum principia quae faciunt signa esse signa Ex quo patet quod signa <unclear>cuiusmodi</unclear> 
+          <lb ed="#B" n="24"/>sunt sacramenta multum conferunt ad perfectionem beatitudinis et fruitionis ut patet in 4o 
+          <lb ed="#B" n="25"/>Et sic in usum veniunt ut dispositiones et manuductiones Et sic signum refertur 
+          <lb ed="#B" n="26"/>ad utile Et si quis dicat quod secundum dictam signum omne est res et etiam utilis 
+          <lb ed="#B" n="27"/>et per consequens superfluere dicitur contra utile respondetur quod non est distinctio secundum rem sed est distinctio secundum <unclear>ra?</unclear>
+          <lb ed="#B" n="28"/>oppositas utque in littera per magistrum
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e565">
+          <pc type="pilcrow"/> Sed dubium oritur circa hoc quid dictum est quod primo su<lb ed="#B" n="29"/>mendo 
+          subiectum deus est subiectum <pc type="virgula">/</pc>  secundum quam rationem deus est subiectum <pc type="virgula">/</pc> aut sub qua ratione scilicet alia sub 
+          <lb ed="#B" n="30"/>ratione deitatis <pc type="virgula">/</pc> aut causae <pc type="virgula">/</pc> aut principali<pc type="virgula">/</pc> aut fruibilis <pc type="virgula">/</pc> aut beatificantis <pc type="virgula">/</pc> aut intelligibilis 
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e596">
+          <pc type="pilcrow"/> Ad hoc respondetur quod deus 
+          <lb ed="#B" n="31"/>est subiectum secundum quod est alpha <c>a</c> et <c>w<!-- omega --></c> principium et finis finis inquam qui est res 
+          <lb ed="#B" n="32"/>qua quis perfecte fruitur <pc type="virgula">/</pc> Probatur quia sic ea quae sunt ab ipso considerantur in ista scientiam tamquam
+          <lb ed="#B" n="33"/>principata ab ipso quae repraesentat iudicia sui factorum sicut dicit <name xml:id="gU87nn-d1e93-Nd1e616">augustinus</name> omnia clamant 
+          <lb ed="#B" n="34"/>ipse fecit nos et non ipsi nos Secundum aut quod ipse est finis sic considerantur propter 
+          <lb ed="#B" n="35"/>ipsum ordinata ad finem illum et dispositiones ordinantes sicut veritates dona 
+          <lb ed="#B" n="36"/>sacramenta et huiusmodi Sic enim <del rend="strikethrough">ds</del> deus in tota hac sapientia a nobis cognoscitur quaeritur 
+          <lb ed="#B" n="37"/>ut scilicet eum amemus et amando fruamur <pc type="virgula">/</pc> immo ad hoc creati sumus ut 
+          <lb ed="#B" n="38"/>dicit <name xml:id="gU87nn-d1e93-Nd1e635">magister</name> Si igitur deus est subiectum huius scientiae secundum quod in ipsa cognoscitur quaeritur est subiectum ut 
+          <lb ed="#B" n="39"/>principium et finis hoc enim modo in hac scientia subiectum dictum 2o modo scilicet christae et ecclesia 
+          <lb ed="#B" n="40"/><unclear>cap</unclear> et corpus deum declarant et demonstrant filius enim a deo patre 
+          <lb ed="#B" n="41"/>modo a more caritatis qua dilexit nos missus est carmen suscipere in qua per 
+          <lb ed="#B" n="42"/>mortem et passionem nobis suum efficaciter exhibuit amorem Maiorem 
+          <lb ed="#B" n="43"/>enim caritatem nemo habet ut animam suam quis ponat pro amico suo <pc type="virgula">/</pc> et hoc ut nos 
+          <lb ed="#B" n="44"/>ad amorem suum provocaret hinc lex christi amor est dei <pc type="virgula">/</pc> qui est ut eo finaliter 
+          <lb ed="#B" n="45"/>fruamur <pc type="virgula">/</pc> et ita caput quid est christus cum suis proprietatibus nobis deum 
+          <lb ed="#B" n="46"/>manifestat ut fruibilis et finis ulterius Similiter opera mistici corporis christi 
+          <lb ed="#B" n="47"/>omnia sunt amoris utque de matribus Etiam subiectum 3o modo declarat de<lb ed="#B" n="48"/>um 
+          ut est finis et fruibilis et praecipue sacramento novae legis quibus christo 
+          <lb ed="#B" n="49"/>incorporamur ut membra eius esse possimus Effluxerunt enim delatere
+          <pb ed="#B" n="15-v"/>
+          <lb ed="#B" n="1"/>christi et intimius de corde eius ubi tantam efficaciam gratiae et amo<lb ed="#B" n="2"/>ris 
+          <lb ed="#B" n="3"/>sumpserunt ut vasa gratiae christi dici mereantur omnium enim operum
+          <lb ed="#B" n="4"/>christi exhibitio ex puro est amore et gratia ipse oblatus quia vo<lb ed="#B" n="5"/>luit 
+          unde intelligimus quod est maxime amicus nobis et vult nobis maximum 
+          <lb ed="#B" n="6"/>bonum quid est ipse hunc amorem omnia sacramenta nobix manifestant et ostendunt
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e688">
+          <lb ed="#B" n="7"/><pc type="virgula">/</pc> Est gratia deus subiectum huius scientiae ut fruibilis aut ut beatificans <pc type="punctus"/> Si quis dicat 
+          <lb ed="#B" n="8"/>cum fruibile dicat relationem rationis de suo formali significato videtur sequi quid subiectum 
+          <lb ed="#B" n="9"/>huius scientia formaliter est relatio rationis et sic satiabiliter finaliter relatione rationis apud 
+          <lb ed="#B" n="10"/>intelligentes nondum haec ratio sophisma est non enim reduplicatur nam species 
+          <lb ed="#B" n="11"/>aut forma qua fruimur cum dicitur fruibile inquantum fruibile sed reduplicatur mo<lb ed="#B" n="12"/>dus 
+          nostrae considerationis circa ipsum subiectum cum multis modis in nostram <unclear>cadit</unclear> consi<lb ed="#B" n="13"/>dierationem 
+          <pc type="virgula">/</pc> quae multitudo ex parte rerum quae ab ipso sunt aut ex parte intellectus nostri 
+          <lb ed="#B" n="14"/>non sufficientis uno modo perfecte intelligere sicut dicimus quod corpus mobile est subiectum natura<lb ed="#B" n="15"/>lis 
+          philosophiae inquantum mobile <pc type="virgula">/</pc> non reduplicatur pars subiecti aut <unclear>formali</unclear> natura aut species 
+          <lb ed="#B" n="16"/>quae est principium passionum rerum naturalium cum mobile ipsummet sit passio eius 
+          <lb ed="#B" n="17"/>Sed quoniam idem est corpus divinum mathematicum et naturale sive physicum nec 
+          <lb ed="#B" n="18"/>unum reperitur extra aliud additur mobile aut divinum aut mathematicum et re<lb ed="#B" n="19"/>duplicatur 
+          ut specificetur modus acceptionis eius <pc type="virgula">/</pc> sic in proposito 
+          <lb ed="#B" n="20"/>cum dicitur deus est subiectum inquantum fruibilis
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e739">
+          Ex praedictis sequitur quod haec scientia est 
+          <lb ed="#B" n="21"/>una et non plures probatur quoniam subiectum est unum ut puta deus inquantum 
+          <lb ed="#B" n="22"/>fruibilis ut dictum est <pc type="virgula">/</pc> pro quo est notandum quod sicut aliqualiter dictum est signum reducitur 
+          <lb ed="#B" n="23"/>ad utile et utile ad fruibile dicit autem <name xml:id="gU87nn-d1e93-Nd1e750">philosophus</name> ubi unum propter alterum unum 
+          <lb ed="#B" n="24"/>tantum eset Et est sensus quod finis et non aliud quam finis inspicitur et quaeritur <pc type="virgula">/</pc> et in se 
+          <lb ed="#B" n="25"/>ipso et in eo quid est ad ipsum et ita utrobique quaeritur finis <pc type="virgula">/</pc> et sic in signo 
+          <lb ed="#B" n="26"/>et utrum quaeritur fruibile et stat sub forma fruibilis Et haec unitas 
+          <lb ed="#B" n="27"/>non est generis aut speciei sed principii quid simpliciter est in uno <pc type="virgula">/</pc> et est in aliis sed modum 
+          <lb ed="#B" n="28"/>quod respiciunt in ipsum per analogiam unicuique determinatum Et talis 
+          <lb ed="#B" n="29"/>unitas est primae philosophiae et theologiae et unit omnia scibilia sub una scientia 
+          <lb ed="#B" n="30"/>hac enim forma subiectum est unum et est causa passioni quae dicuntur per se sub 
+          <lb ed="#B" n="31"/>disiunctione de subiecto per se de omni totalitate subiecti et temporis et secundum quod ipsum 
+          <lb ed="#B" n="32"/>et eodem modo in forma causae est opus conditionis et opus reparationis 
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e782">
+          <pc type="pilcrow"/> Sequitur 
+          <lb ed="#B" n="33"/>quod haec scientia proprie nec est universalis aut particularis proprie enim universalis est quae est de en<lb ed="#B" n="34"/>te 
+          quid universale est essentialiter omnibus particularis autem quae est de aliqua specie aut 
+          <lb ed="#B" n="35"/>parte entis per formam substantialem coartati sub communi sicut sub 
+          <lb ed="#B" n="36"/>principio et non sub genere Sed haec scientia non est de ente ut ens 
+          <lb ed="#B" n="37"/>nec de partibus entis ut entia sunt <pc type="punctus"/> sed est determinato per 
+          <lb ed="#B" n="38"/>per formam analogiae ad id quo fruendum est et est de partibus 
+          <lb ed="#B" n="39"/>entis secundum quod specialem habet analogiam ad illud scilicet fruibile et ideo non 
+          <lb ed="#B" n="40"/>similiter est universalis vel particularis 
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e807">
+          Sed quoddam modo et universalis et particularis sicut et 
+          <lb ed="#B" n="41"/>ethica quae quoddam modo de omnibus est et moralibus et fortuitis et de 
+          <lb ed="#B" n="42"/>potentatu et <unclear>diciis</unclear> et partibus utrisque istorum prout organice 
+          <lb ed="#B" n="43"/>vel condecorative ad civilem faciunt felicitatem Quia enim haec scientia in 
+          <lb ed="#B" n="44"/>ratione speciali de omnibus est propter hoc non potest esse scientia universalis <pc type="virgula">/</pc> Et quia haec 
+          <lb ed="#B" n="45"/>ratio specialis omnibus applicabilis est per modum diversum significabilis utilis 
+          <lb ed="#B" n="46"/>vel fruibilis ideo proprie particularis esse non potest propter quid aliae scientiae ab ipsa 
+          <lb ed="#B" n="47"/>principia sua accipere non ponit Non enim considerat id quid commune essentialiter 
+          <lb ed="#B" n="48"/>omnibus particularibus est per principia essentialia sed considerat commune per analogiam 
+          <lb ed="#B" n="49"/>ut dictum est hoc autem commune est forma fruibilis sub qua stant suo modo signum 
+          <lb ed="#B" n="50"/>et valent dictum est per analogiam dico non ad unum subiectum 
+          <lb ed="#B" n="51"/>sed sicut ad unum finem qui est beatificans Quia sicut beatificabile consideratur 
+          <pb ed="#B" n="16-r"/>
+          <lb ed="#B" n="1"/>ut participans illud <pc type="virgula">/</pc> sic dispositiones ut remo?tes a contrario <pc type="virgula">/</pc> et res huius mun<lb ed="#B" n="2"/>di 
+          ut adiuvantes sicut patet in littera
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e852">
+          <pc type="pilcrow"/> Ex praedictis sequitur quod haec scientia est 
+          <lb ed="#B" n="3"/>practica patet ex eius subiecto quid est fruibile et ideo stat ad opus alicuius veritatis sunt 
+          <lb ed="#B" n="4"/>ad ultimam perfectionem 
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e861">
+          <pc type="pilcrow"/> Propter quo est notandum quod scientia ex fine determinanda est an sit 
+          <lb ed="#B" n="5"/>practica vel speculativa unde secundum <name xml:id="gU87nn-d1e93-Nd1e867">philosophum</name> 3o de anima intelligentia speculativa finem suum 
+          <lb ed="#B" n="6"/>semper habet intra semet ipsam et hoc est verum speculatum <unclear>finis</unclear> autem practicae intellectivae est 
+          <lb ed="#B" n="7"/>extra ipsam quandoque opus extra in ipsa reut artis <pc type="virgula">/</pc> quandoque vero ipsa operatio quae 
+          <lb ed="#B" n="8"/>exceditur in agere secundum aliquam veritatem aut acquisitam aut infusam <unclear>confi?s</unclear> autem huius sapientiae 
+          <lb ed="#B" n="9"/>attenditur in cognitione veritatis <pc type="virgula">/</pc> non similiter ut veritas sed veritas quae secundum pietatem est 
+          <lb ed="#B" n="10"/>ad titum primo secundum fidem electorum dei et ag?om veritatis quae secundum pietatem est in spe vi<lb ed="#B" n="11"/>tae 
+          aeternae Est igitur scientia hoc de veritate et contemptatur eam ut inclinat ad 
+          <lb ed="#B" n="12"/>pietatem pietas autem ut dicit <name xml:id="gU87nn-d1e93-Nd1e895">augustinus</name> in <title>enchiridion</title> cultus dei est <unclear>cum</unclear> fide spe et 
+          <lb ed="#B" n="13"/>caritate perficitur in actibus interioribus mentis principaliter Similiter oratione et denotative 
+          <lb ed="#B" n="14"/>Etiam huiusmodi cultus fit actibus exterioribus qui sunt quasi quaedam protestatio cultus in<lb ed="#B" n="15"/>terioris 
+          et fuit in lege veteri per sacrificium Stat igitur speculatio huius sa<lb ed="#B" n="16"/>pientiae 
+          ad actum veritatis praecise caritatis unde veritas quae secundum pietatem est sunt duo 
+          <lb ed="#B" n="17"/>unum est cultus dei in se et in suis membris <pc type="virgula">/</pc> ad quid etiam pertinet omnia 
+          <lb ed="#B" n="18"/>promo?tia ad cultum illum <pc type="punctus"/> alterum aut est finis intentionis et hoc est coniun<lb ed="#B" n="19"/>gi 
+          intellectu et affectu et substantia cum eo quid colitur prout est finis beatificans Non 
+          <lb ed="#B" n="20"/>enim quaeritur coniunctio ad veritatem per intellectum tantum <pc type="virgula">/</pc> sed etiam per affectum et substantiam Et 
+          <lb ed="#B" n="21"/>ideo quia intellectus ordinatur ad affectum <pc type="virgula">/</pc> scientia proprie afficiam est intelligentia primae veritatis 
+          <lb ed="#B" n="22"/>quae <add place="margin-left">non</add> sequestratur a ratione boni et ideo perficit et intellectum et affectum Talis autem 
+          <lb ed="#B" n="23"/>finis in rebus creatis non invenitur <pc type="virgula">/</pc> et ideo philosophi non tractaverunt huiusmodi scientiam 
+          <lb ed="#B" n="24"/>sed diserunt unam ad verum quid est in rebus <pc type="punctus"/> aliam autem ad bonum quid est in ipsis 
+          <lb ed="#B" n="25"/>Si ergo haec sapientia in fruibili aut utili verum inquirit hoc ipsum refert ad af<lb ed="#B" n="26"/>fectum 
+          <pc type="virgula">/</pc> ut sine fide vel in eo quid succedit fidei fruatur per affectum vel 
+          <lb ed="#B" n="27"/>intellectum afficientium summa veritate per spem vel spei succedens summo beatifican<lb ed="#B" n="28"/>te 
+          per caritate summa bonitate <pc type="virgula">//</pc> historice autem praepositus et praeceptive in le<lb ed="#B" n="29"/>ge 
+          et perabolice ad opus refert meritorium <pc type="virgula">/</pc> ut iacobi 1 non auditor 
+          <lb ed="#B" n="30"/>verbi tantum sed factor operis hic beatus erit in facto suo hymi?ce autem ut in primis 
+          <lb ed="#B" n="31"/>descripta ad affectum refertur pietatis et ita vex quid de deo inquirit non ut 
+          <lb ed="#B" n="32"/>verum similiter inquirit sed ut summe beatificans in quid referat totam intentionem pietatis 
+          <lb ed="#B" n="33"/>in affect et opere Sicut et <name xml:id="gU87nn-d1e93-Nd1e977">aristotelis</name> in X ethicorum felicitatem contemplativa de<lb ed="#B" n="34"/>terminat 
+          ad finem ad quem referuntur actus veritatum intellectualium mo<lb ed="#B" n="35"/>ralium 
+          et heroicarum propter quid et ipsa quae tractat de felictate contem<lb ed="#B" n="36"/>plativa 
+          moralis aut practica est sicut ceterae partes moralis differunt tamen 
+          <lb ed="#B" n="37"/>ista scientia ab aliis practicis quam philosophi considerant aliae enim stant ad opus 
+          <lb ed="#B" n="38"/>perfectum perfectione veritatis acquisitae ista aut stat ad opus perfectum perfectione 
+          <lb ed="#B" n="39"/><del>caritate</del> virtutis infusae per gratiam <pc type="punctus"/> Nec propter praedictam haec scientia moralis 
+          <lb ed="#B" n="40"/>philosophia est aut ei subalternata Non morale quia mores non sunt ultimus 
+          <lb ed="#B" n="41"/>finis in ea ut habitum est Nec subalterna <pc type="virgula">/</pc> quia non accedit principia et causas 
+          <lb ed="#B" n="42"/>ab aliqua <pc type="virgula">/</pc> sed propria habet principia fidei et proprias causas secundum intentionem meriti et ideo 
+          <lb ed="#B" n="43"/>non accidit ab aliis sed aliae famulatur ei
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e1011">
+          <pc type="pilcrow"/>Ad primum cum arguitur contra positionem magistri et beati augustini 
+          <lb ed="#B" n="44"/>signa et res non videntur or?lia sub uno genere subiecti etc patet per dicta quid dicendum 
+          <lb ed="#B" n="45"/>quia haec scientia sicut aliae scientiae non considerat signa secundum principia quae faciunt signa 
+          <lb ed="#B" n="46"/>esse signa <pc type="virgula">/</pc> sed eo modo considerat ea quo ad utile referuntur et utile ad 
+          <lb ed="#B" n="47"/>fruibile sicut dictum est <pc type="virgula">/</pc> et sic <unclear>or?lia</unclear> sunt sub uno genere subiecti
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e1033">
+          <pc type="pilcrow"/> Ad 2am 
+          <lb ed="#B" n="48"/>cum arguitur res <add place="above-line">quibus</add> utimur et fruitio omnia continent etc concedendume est quod 
+          <lb ed="#B" n="49"/>haec scientia de omnibus est sed non sub ratione diversa qua differunt singula sed sub ratione 
+          <pb ed="#B" n="16-v"/>
+          <lb ed="#B" n="1"/>una quae est utile esse significando vel disponendo ad id quo fruendum est Et sic non 
+          <lb ed="#B" n="2"/>sequitur quod aliae scientiae superfluunt Ille enim tractant de rebus secundum differentias essentia<lb ed="#B" n="3"/>les 
+          quibus differunt abinvicem
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e1054">
+          <pc type="pilcrow"/> Ad id quid obicitur contra 2am positionem <name xml:id="gU87nn-d1e93-Nd1e1058">magistri hugonis</name> di<lb ed="#B" n="4"/>centis 
+          quod materia <sic>sacrarum scripturarum</sic> sunt opera reparationis <pc type="virgula">/</pc> aliarum vero opera conditionis 
+          <lb ed="#B" n="5"/>cum arguitur theologia est de operibus conditionis etc <pc type="virgula">/</pc> dicendum quod est de oeribus conditionis 
+          <lb ed="#B" n="6"/>non secundum suas <sic>essentias</sic> ut aliae scientiae sed est de ipsis ut de subiecto circa <unclear>quid</unclear> 
+          <lb ed="#B" n="7"/>accepit enim ea ut a <unclear>minicula?a</unclear> per modum signi vel usus ad id quo fruendum 
+          <lb ed="#B" n="8"/>est <pc type="virgula">/</pc> et etiam ad opera reparationis quae de christo et ecclesia demosntrantur Non enim 
+          <lb ed="#B" n="9"/>optime sciretur <del rend="strikethrough">quho</del> <!-- possibly something added here? --> qualiter homo reparatus est nisi sciretur qualis et quantus fuerit 
+          <lb ed="#B" n="10"/>lapus <add place="above-line">eius</add> hoc enim sciretur ex <add place="above-line">hoc</add> quod ostenditur bonum eius in quo creatus est in se ipso et in omni<lb ed="#B" n="11"/>bus 
+          quae causata sunt propter ipsum et sic inducitur de opere conditionis et creationis mundi 
+          <lb ed="#B" n="12"/>et <unclear>operationis<!-- correction here? --></unclear> sic manifesta manifestant subiectum primo modo scilicet deum prout est res 
+          <lb ed="#B" n="13"/>qua quas perfecte fruitur sicut dictum est
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e1118">
+          <pc type="virgula">/</pc> ad 2am cum arguitur theologia considerat 
+          <lb ed="#B" n="14"/>causam operum reparationis conceditur <pc type="virgula">/</pc> Causa enim secundum quod causa est non sufficit innotescit nisi per 
+          <lb ed="#B" n="15"/>opera sine effectus <pc type="virgula">/</pc> et hoc modo oportuit in scriptura sacra tractare de operibus et 
+          <lb ed="#B" n="16"/>conditionis et reparationis quibus manifestatur christus ut causa ipsarum <add place="marging-right">et sic ut causa</add> ut materia circa quam et 
+          <lb ed="#B" n="17"/>ut finis est sacrae scripturae
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e1142">
+          <pc type="pilcrow"/> Ad id quid arguitur contra 3am positione in principio glosae psal<lb ed="#B" n="18"/>terii 
+          multa sunt in sacra scriptura etc dicendum quod scriptura agit de illis secundum 3m mo<lb ed="#B" n="19"/>dum 
+          accipiendi subiectum <del rend="strikethrough">avimi?le</del> ut dictum est etiam ad iudicium dei cognoscendum 
+          <lb ed="#B" n="20"/>et sic per modum <unclear>fuge</unclear> inclinant ad opera reparationis et ad res quibus fruendum est 
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e1159">
+          <lb ed="#B" n="21"/><pc type="virgula">/</pc> Per idem patet solutio ad sequens <pc type="virgula">/</pc> malum enim detestatione sui fugam inducit 
+          <lb ed="#B" n="22"/>et accessum ad bonum
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e1171">
+          <pc type="pilcrow"/> Ad id quid contra 4am positionem obicitur multa tractantur 
+          <lb ed="#B" n="23"/>in sacra scriptura quae non sunt deus etc dicendum quod deus est subiectum in primo modo sumendo <mentioned>subiectum</mentioned> 
+          <lb ed="#B" n="24"/>et quaecumque alia in scriptura sacra tractantur sunt de subiecto eo modo dicta et assumuntur 
+          <lb ed="#B" n="25"/>ut <unclear>annuncantia</unclear> ad cognitionem ipsius
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e1187">
+          <pc type="virgula">/</pc> Ad aliud cum dicitur probatione in libro de trinitate etc
+          <lb ed="#B" n="26"/>dicendum quod deus in genere causae non potest esse subiectum Est autem in genere efficientis formalis 
+          <lb ed="#B" n="27"/>et finalis quae numquam coincidit cum materia subiecto in eadmdem rem <pc type="virgula">/</pc> nec potest etiam esse subiectum 
+          <lb ed="#B" n="28"/>in genere entis Subiectum non in genere entis est substans vel naturae essentiali vel accidentali
+          <lb ed="#B" n="29"/>Si primo modo esset univerale et particulare in ipso quid est inconveniens Si 2o modo esset actus in eo <pc type="punctus"/> sed 
+          <lb ed="#B" n="30"/><name xml:id="gU87nn-d1e93-Nd1e1207">boetius</name> non intellexit quin posset esse subiectum de quo multa probantur quae per modum relationis 
+          <lb ed="#B" n="31"/>vel attributionis conveniunt ei Talia enim multa philosophi probaverunt de deo scilicet quod 
+          <lb ed="#B" n="32"/>sit simplex et aeternus principium et primus
+        </p>
+        <p xml:id="gU87nn-d1e93-d1e1214">
+          <pc type="virgula">/</pc> Ex quibus omnibus patet quod haec scientia necessaria est 
+          <lb ed="#B" n="33"/>omnibus ad salutem Salus enim omnium est frui deo et coniungi sua principio perfecte 
+          <lb ed="#B" n="34"/>Nemo autem frui potest perfecte nisi cognoscat perfecte <pc type="virgula">/</pc> sed perfecta cognitio est haec 
+          <lb ed="#B" n="35"/>sapientia igitur necessaria est omnibus ad salutem <!-- "finit 2a quaestio Incipit teria" this seems more like a marginal note than part of the text even though it is placed in line -->
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
