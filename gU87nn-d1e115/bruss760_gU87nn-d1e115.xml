@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1 [Brussels Transcription]</title>
+        <author>Lambertus de Monte</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2 [Brussels Transcription]</title>
+          <date when="2023-11-12">November 12, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="bruss760">Brüssel, Koninklijke Bibliotheek van België, ms. 760 (1715)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-11-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="16-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gU87nn-d1e115"> <!-- d. 1 q. 1-->
+        <head xml:id="gU87nn-d1e115-Hd1e90">Quaestio 1 [Brussels Transcription]</head>
+        <p xml:id="gU87nn-d1e115-d1e92">
+          <lb ed="#B" n="36"/>Circa eandem autem distinctionem quaeritur de fruitione et usu utrum solo deo 
+          <lb ed="#B" n="37"/>sit fruendum et omnibus aliis utendum
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e99">
+          <pc type="virgula">/</pc> Arguitur contra primum quaesitum dicit enim beatus 
+          <lb ed="#B" n="38"/>augustinus quod illis rebus fruendum est quae nos beatus faciunt <pc type="virgula">/</pc> Beatitudo autem 
+          <lb ed="#B" n="39"/>creata beatos nos facit igitur ea fruendum est <pc type="virgula">/</pc> igitur non solum deo 
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e115">
+          <pc type="virgula">/</pc> Item illo fruendum 
+          <lb ed="#B" n="40"/>est quod non propter aliud sed propter seipsum diligitur ut dicit idem augustinus felicitas autem aut beatitudo 
+          <lb ed="#B" n="41"/>propter seipsam quaeritur et diligitur et non propter aliud uti dicit <name xml:id="gU87nn-d1e115-Nd1e124">philosophus</name> primo ethicorum quae tamen non est 
+          <lb ed="#B" n="42"/>deus
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e130">
+          Item in epistola ad philemonem dicit paulus <pc type="virgula">/</pc> ita super ego te fruar 
+          <lb ed="#B" n="43"/>in domino homini igitur sancto frui contingit
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e138">
+          <pc type="pilcrow"/> Item ad romanos 15 spero quod praeteriens vi<lb ed="#B" break="no" n="44"/>deam 
+          vos a vobis ducar illuc si vobis primum ex parte fruitus <unclear>suo</unclear>
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e147">
+          <lb ed="#B" n="45"/><pc type="pilcrow"/> Item <ref xml:id="gU87nn-d1e115-Rd1e152"><name xml:id="gU87nn-d1e115-Nd1e153">tullius</name> in fine primae rethorice</ref> honestum est quid sua vi nos trahat et sua 
+          <lb ed="#B" n="46"/>diligite nos allicit Quid autem propria vi trahit amatorem illi amore 
+          <lb ed="#B" n="47"/>propter se inhaerendum est Et quod propria dignitate allicit ad delectationem ergo fruuntur 
+          <lb ed="#B" n="48"/>propter se et non propter aliud ergo honesto fruendum est quid tamen non est deus
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e163">
+          <pc type="virgula">/</pc> Item super 
+          <lb ed="#B" n="49"/>illo ad gal 5 fructus autem spiritus sunt gaudium caritas pax dicit <name xml:id="gU87nn-d1e115-Nd1e170">am<lb ed="#B" break="no" n="50"/>brosius</name>
+          haec non nominant opera sed fructus quia propter se potenda sunt <pc type="virgula">/</pc> illis ergo 
+          <pb ed="#B" n="17-r"/>
+          <lb ed="#B" n="1"/>fruendum est Similiter virtutibus quia propter se appetenda irigur non solum deo
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e184">
+          <pc type="pilcrow"/> Item in <ref xml:id="gU87nn-d1e115-Rd1e188">2o 
+          <lb ed="#B" n="2"/>confessionum <name xml:id="gU87nn-d1e115-Nd1e192">augustinus</name></ref> narrat qualiter furatus fuit poma quibus meliora e<lb ed="#B" break="no" n="3"/>rant 
+          in orto patris suis et sic quod in illo furto non fruebatur nisi in inquitate
+          <lb ed="#B" n="4"/>ergo etc
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e199">
+          <pc type="pilcrow"/> Contra 2m arguitur uti perficitur ab opere nostro non autem omnes res <add place="margin-left">naturae gratiae et gloriae subiacent operi nostro</add>
+          <lb ed="#B" n="5"/><del rend="strikethrough">modi sub? operi modo</del> non enim sunt operabiles per nos non igitur omnes res 
+          <lb ed="#B" n="6"/>mundi subiacent ei quid est uti
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e214">
+          <pc type="pilcrow"/> Praeterea creaturae videntur contraria visui sa<lb ed="#B" break="no" n="7"/>pientiae 
+          18 creaturae in odium factae sunt et in <unclear>musci?lam</unclear> pendibus insipientium Crea<lb ed="#B" break="no" n="8"/>turae 
+          igitur quaedam impediunt usum 
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e225">
+          <pc type="virgula">/</pc> Item <add place="above-line">omnis</add> actus voluntatis creatura est referendus igitur est 
+          <lb ed="#B" n="9"/>ad optinendum quo fruendum est aut igitur referebilis est et refertur et tunc meritorius 
+          <lb ed="#B" n="10"/>est aut nec referebilis nec refertur et tunc peccatum mortale est quia quo aliquis non utitur
+          <lb ed="#B" n="11"/>illo fruitur si diligit illud ut dicit <name xml:id="gU87nn-d1e115-Nd1e240">augustinus</name> <pc type="virgula">/</pc> Aliter enim non diligeret <pc type="virgula">/</pc> et sic sequitur quod  nul<lb ed="#B" break="no" n="12"/>lus 
+          actus voluntatis sit veniale aut indifferens quid est inconveniens
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e251">
+          <pc type="pilcrow"/> In con<lb ed="#B" break="no" n="13"/>trarium 
+          pro utraque parte est <name xml:id="gU87nn-d1e115-Nd1e257">magister</name> in littera quae sumitur a beato augustino
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e260">
+          <lb ed="#B" n="14"/><pc type="pilcrow"/> Pro <unclear>aquali</unclear> solutione huius quaestionis primo considerandum est quid frui quid uit Et 
+          <lb ed="#B" n="15"/>primo occurrit quaestio in quo ergo sit frui <pc type="virgula">/</pc> an in genere actionis aut pati Et 
+          <lb ed="#B" n="16"/>respondetur quod est in genere passionis 
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e275">
+          <pc type="pilcrow"/> Pro quo ponendum quod frui sive fruitio stat in 
+          <lb ed="#B" n="17"/>quodam contactum fruentis et fruibilis unde licet omnis virtus coniungit deo <pc type="virgula">/</pc> hoc 
+          <lb ed="#B" n="18"/>est per meritum et non per contactum et propter hoc eius non est frui Sed per 
+          <lb ed="#B" n="19"/>contactum tripliciter accidit coniunctio scilicet secundum praesentiam <pc type="virgula">/</pc> et hoc est cum intellectus attingit 
+          <lb ed="#B" n="20"/>rem in sua essentia sed non necessario tenet et habet eam unde assimilatur quasi tac<lb ed="#B" break="no" n="21"/>tui 
+          mathematico in quo ultima <unclear>tangentium</unclear>
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e299">
+          <pc type="pilcrow"/> Item similiter / 2a est quasi per adhae<lb ed="#B" break="no" n="22"/>rentiam 
+          et tentionem et habere et hic tactus est eius quod succedit spei 
+          <lb ed="#B" n="23"/>et assimilantur tactui compactorum contra 3a est per inhaerentiam quando unum quasi igni
+          <lb ed="#B" n="24"/>dicitur in alterum et contra haec impressiones et affectiones a natura eius <pc type="virgula">/</pc> et hic est tactus 
+          <lb ed="#B" n="25"/>amoris et assimilatur tactui naturali in quo tangentia accidunt et patiuntur 
+          <lb ed="#B" n="26"/>adinvicem et imprimunt sibi invicem suas proprietas 
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e319">
+          Et primus modus con<lb ed="#B" break="no" n="27"/>victionis 
+          est ut materialis dispositio ad alios <pc type="virgula">/</pc> 2us autem et 3us propinque se habet tamen 
+          <lb ed="#B" n="28"/>3us est completivus et hoc patet ex notitiae eius quod est fructus <pc type="virgula">/</pc> quia hoc est gusuts 
+          <lb ed="#B" n="29"/>dulcedinis quietantis et gustus ille non elicitur nisi ex interioribus rei quae 
+          <lb ed="#B" n="30"/>sunt de natura et compositione eius quo fruita  Et proportionaliter in fructu intellectuali 
+          <lb ed="#B" n="31"/>et ita frui est pasci fructu et <unclear>intellectus</unclear> refici et quasi <unclear>sagniari</unclear> <pc type="punctus"/> Pasci autem 
+          <lb ed="#B" n="32"/>fructum et refici et <sic>sagniari</sic> passiones sicut igitur et frui passio est et non 
+          <lb ed="#B" n="33"/>actio 
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e352">
+          Item fruitio illatio est in fruentem agente in eo fruibili <pc type="virgula">/</pc> sed passio est 
+          <lb ed="#B" n="34"/>effectus <unclear>illatioque</unclear> actionis
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e362">
+          In hac enim unio fruibile non patitur sed 
+          <lb ed="#B" n="35"/>fruens ut notum est et ideo fructum et fruibilium est fruitionem facere 
+          <lb ed="#B" n="36"/>hinc fratres dicuntur non autem faciunt nisi in fruente Cum ergo fruentis sit 
+          <lb ed="#B" n="37"/>frui <sic>frui</sic> erit pati et non agere 
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e373">
+          Item <ref xml:id="gU87nn-d1e115-Rd1e375">Iacobi 5</ref> Ecce agricola 
+          <lb ed="#B" n="38"/>expectat praeciosum fructum terrae patienter ferens temporaneum et <unclear>so?ti?m</unclear>
+          <lb ed="#B" n="39"/>donec accipiat <pc type="virgula">/</pc> Ex quo elicitur quod fructus sit pastura in ultimo quid 
+          <lb ed="#B" n="40"/>intenditur per laborem
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e390">
+          <pc type="pilcrow"/> Ultimum ergo dulce intentum agens est fruitionem sed 
+          <lb ed="#B" n="41"/>illius non est frui sed fruentis eo est frui <pc type="punctus"/> Et cum in illo frui sit pa<lb ed="#B" break="no" n="42"/>ti 
+          est et <unclear>fruitio passio</unclear>
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e403">
+          <pc type="pilcrow"/> Pro ampliori intellectu est notandum quod voluntas in rationali
+          <lb ed="#B" n="43"/>natura intellectui coniuncta est sicut coniunctum est id quod facti motum esse 
+          <lb ed="#B" n="44"/>quod nuntiat et determinat ad quid modum sit ei quod movetur unde sicut <unclear>ista</unclear> sensibili 
+          <lb ed="#B" n="45"/>natura apprehendens et aestimans de notio vel convenienti nuntiat et de<lb ed="#B" break="no" n="46"/>terminat 
+          ad quid modum vel a quo fugiendum et coniunctum sibi appetitivum movetur 
+          <lb ed="#B" n="47"/>ad illud vel fugit ab eo movetur dico impetum faciendo in illud <pc type="virgula">/</pc> ita ex parte 
+          <lb ed="#B" n="48"/>intellectualis naturae intellectus nuntiat et voluntas impetum facit unde <ref xml:id="gU87nn-d1e115-Rd1e425">philosophus in ethi<lb ed="#B" break="no" n="49"/>cis</ref> 
+          et <ref xml:id="gU87nn-d1e115-Rd1e430">3o de anima</ref> In ratione voluntas sit in sensus aut desiderium et animaus
+          <lb ed="#B" n="50"/>Et cum intellectus non <unclear>untiat</unclear> sibi nisi per intelligibile apprehensum <pc type="virgula">/</pc> et per hoc nuntius sit 
+          <pb ed="#B" n="17-v"/>
+          <lb ed="#B" n="1"/>voluntati oportet quod intellectus et voluntas unum sint in radice
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e446">
+          <pc type="virgula">/</pc> Ex quo patet quod frui pro<lb ed="#B" break="no" n="2"/>ut 
+          passio est <unclear>voluntatis</unclear> est prout aut consideratur in operatione circa quam est <pc type="virgula">/</pc> ipsius 
+          <lb ed="#B" n="3"/>intellectus est et ideo nomen accipit et speciem a passione voluntatis prout relata est 
+          <lb ed="#B" n="4"/>ad operationem intellectus unde nomine unius alicuius potentiae non potest nominari <pc type="virgula">/</pc> ut 
+          <lb ed="#B" n="5"/>puta quod dicatur velle aut intelligere etc sicut nec scientia nomine alicuius potentiae 
+          <lb ed="#B" n="6"/>nominatur non enim rationis est simpliciter et absolute <pc type="virgula">/</pc> sed est rationis formate ex principiis 
+          <lb ed="#B" n="7"/>scientiae Similiter frui es passio voluntatis ex intellectus operatione formatae <pc type="virgula">/</pc> ex quo accipitur quod 
+          <lb ed="#B" n="8"/>frui est passio voluntatis circa operationem intellectus <pc type="virgula">/</pc> et hoc est sibi pro differentia et ponit 
+          <lb ed="#B" n="9"/>frui in speciem propter quid frui circa operationem sensitivam est alterius seu a frui 
+          <lb ed="#B" n="10"/>circa operationem intellectus <pc type="virgula">/</pc> sed frui circa operationem sensus cuiusmodi est in brutis non est proprie 
+          <lb ed="#B" n="11"/>frui sed secundum quid aut quo <pc type="virgula">/</pc> unde est frui dupliciter proprie scilicet simpliciter <pc type="virgula">/</pc> et improprie et sermonis 
+          <lb ed="#B" n="12"/>quid proprie frui et simpliciter est quando aliquis inhaeret inhaesione dilectionis et delectationis 
+          <lb ed="#B" n="13"/>alicui vel per se et non secundum <unclear>actum</unclear> et non propter aliud inhaesione operationis non ipse 
+          <lb ed="#B" n="14"/>dite quid <add place="above-line">non</add> contingit nisi in frutione patriae omnis enim alia inhaesio vel pactus 
+          <lb ed="#B" n="15"/>est qui propter aliud vel in aliqua parte impedita <pc type="virgula">/</pc> fruitio enim sive delectatio 
+          <lb ed="#B" n="16"/>qua pecora fruuntur cibis et qua peccator fruitur delectabili fruito<lb ed="#B" break="no" n="17"/>res 
+          sunt secundum quid et non simpliciter Delectatio autem eius quod naturali delectatione 
+          <lb ed="#B" n="18"/>alicui inhaeret impedita est in multis valde proter contrarietatem quae est in nostra 
+          <lb ed="#B" n="19"/>constitutiones <pc type="virgula">/</pc> frui aut dicit delectationem perfectam et ultimam et optimam Quam<lb ed="#B" break="no" n="20"/>diu 
+          enim impedimentum aliquid est <pc type="virgula">/</pc> non est perfecta quies in ultimo nec 
+          <lb ed="#B" n="21"/>habetur plene fructus et ideo semper protenditur appetitum et est in quadam ten<lb ed="#B" break="no" n="22"/>dentia 
+          quae rationem ultimi et per consequens contra rationem eius quid est frui
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e540">
+          <pc type="pilcrow"/> Unde 
+          <lb ed="#B" n="23"/>ex praedictis patet quod frui est ipsius appetitus et in natura intellectuali est 
+          <lb ed="#B" n="24"/>ipsius voluntatis non tamen absolute sed relate ad intellectus ipsam informantem ut dic<lb ed="#B" break="no" n="25"/>tum 
+          <unclear>etiam</unclear> Et propter hoc frui potest etiam dici intellectus affictivi <pc type="punctus"/> Ille enim intellectus 
+          <lb ed="#B" n="26"/>coniunctus est voluntati et obiectum eius proprium est primum verum et bonum et illud idem 
+          <lb ed="#B" n="27"/>finis est in quo stat et cui inhaeret 
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e560">
+          <pc type="virgula">/</pc> Ex quibus sequitur quod frui est <unclear>veritas</unclear> 
+          <lb ed="#B" n="28"/>voluntatis Probatur quoniam frui est voluntatis passio <pc type="virgula">/</pc> igitur secundum veritatem seu habitum 
+          <lb ed="#B" n="29"/>voluntatis <pc type="virgula">/</pc> et non est veritas acquisitae quoniam per veritatem acquisitam non potest voluntas at<lb ed="#B" break="no" n="30"/>tingere 
+          ultimum et perfecte quietans ut notum est <pc type="virgula">/</pc> igitur per veritatem infusam et haec 
+          <lb ed="#B" n="31"/>est caritas cuius est amor quo inhaeremus primo bono perfecte <pc type="virgula">/</pc> et praecise 
+          <lb ed="#B" n="32"/>caritas perfecta quae est in patria 
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e591">
+          In via enim fide et spe formata 
+          <lb ed="#B" n="33"/>voluntas non potest summe amare nec scientiae quiescere quia in via et per consequens 
+          <lb ed="#B" n="34"/>nec proprie frui Organice tamen deserviunt comprehensio quae succedit spei
+          <lb ed="#B" n="35"/><del rend="strikethrough">dm</del> et aperta visio quae succedit fidei visio enim quae perfectam de<lb ed="#B" break="no" n="36"/>lectationem 
+          pascens est visio est immediati amati et habiti Aliarum 
+          <lb ed="#B" n="37"/>autem videtur scilicet cardinalium est sicut <unclear>dispositionem</unclear> ad perfectum <pc type="virgula">/</pc> secundum quod dicit <name xml:id="gU87nn-d1e115-Nd1e611">philosophus</name> 
+          <lb ed="#B" n="38"/>virtus est dispositio perfecti ad optimum
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e616">
+          <pc type="pilcrow"/> Sequitur quod frui est secundum <unclear>dictum</unclear> 
+          <lb ed="#B" n="39"/>amorem quia caritas et hic amor <unclear>extasim</unclear> facit ut vult <unclear>di eius</unclear> quando 
+          <lb ed="#B" n="40"/>transponit amantem in amatum ut totus sit amati et sine ipso nusquma 
+          <lb ed="#B" n="41"/>et nunquam sit Et hoc <name xml:id="gU87nn-d1e115-Nd1e633">augustinus</name> vocat inhaesionem sic enim amans <unclear>inharentiam</unclear>
+          <lb ed="#B" n="42"/>amato propter se proprie igitur frui est amore divino inhaerentia
+          <lb ed="#B" n="43"/>rei propter se ut dicit <name xml:id="gU87nn-d1e115-Nd1e642">magister</name> et allegat <name xml:id="gU87nn-d1e115-Nd1e644">augustinum</name>
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e647">
+          <pc type="virgula">/</pc> In super notandum quod tui
+          <lb ed="#B" n="44"/>secundum suum nomen dicit actionem et est de <unclear>ergo</unclear> actionis
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e658">
+          <pc type="virgula">/</pc> Pro declaratione huius <unclear>est sciendum</unclear> 
+          <lb ed="#B" n="45"/>quod uti dicitur multipliciter <pc type="virgula">/</pc> uno modo dicitur uti aut usus altero elicitus de potentia vel 
+          <lb ed="#B" n="46"/>facultate cuiuslibet rei relatus ad commodum vel delectionem hominis <pc type="virgula">/</pc> sicut 
+          <lb ed="#B" n="47"/>equitare dicitur usus equi <pc type="virgula">/</pc> et vehere dicitur usus <unclear>carruce</unclear> Et sic dicit <name xml:id="gU87nn-d1e115-Nd1e683">boetius</name>
+          <pb ed="#B" n="18-r"/>
+          <lb ed="#B" n="1"/>super topica <name xml:id="gU87nn-d1e115-Nd1e690">tulli</name> cuius usus bonus est ipsum bonum est <pc type="virgula">/</pc> et cuius usus ma<lb ed="#B" break="no" n="2"/>lus 
+          est ipsum quo malum est Et hoc modo usus fruibilis est frui et pasci ad 
+          <lb ed="#B" n="3"/>delectationem Et hoc modo cadit uti in diffinitione eius quid est frui sicut dicit <name xml:id="gU87nn-d1e115-Nd1e699">beatus 
+          <lb ed="#B" n="4"/>augustinus</name> quod frui est cum delectatione uti Ibi tamen frui causaliter communiter et non proprie 
+          <lb ed="#B" n="5"/>2o modo dicitur uti rei exercitum ad inducendum habitum secundum quod dicit <name xml:id="gU87nn-d1e115-Nd1e707">victorinus</name> in 
+          <lb ed="#B" n="6"/>rethoricis suis quod natura habilem facit <pc type="virgula">/</pc> ars potentem usus facilem 
+          <lb ed="#B" n="7"/>3o modo dicitur uti actus utilis quid ut ammininculum refertur ad aliud <unclear>optinendum</unclear>
+          <lb ed="#B" n="8"/>quid intenditur ut finis sicut refertur equus ad motum velociorem et 
+          <lb ed="#B" n="9"/>motus ad debitorum consecutionem <pc type="virgula">/</pc> consecutio ad accipiendum pecuniam et 
+          <lb ed="#B" n="10"/>resistitur Et sicut lapides ad donum <pc type="virgula">/</pc> domus ad protectionem 
+          <lb ed="#B" n="11"/>a caumatibus et imbribus et <unclear>ibsistitur</unclear> hoc modo mundus iste refertur 
+          <lb ed="#B" n="12"/>ad dei cognitionem <pc type="virgula">/</pc> cognitio dei ad fidem <pc type="virgula">/</pc> fides ad visionem per speciem <pc type="virgula">/</pc>
+          <lb ed="#B" n="13"/>visio dei ad fruitionem et <unclear>ibisistitur</unclear> Et sic dicit <name xml:id="gU87nn-d1e115-Nd1e752">augustinus</name> quod uti est aliquid in fa<lb ed="#B" break="no" n="14"/>cultatem 
+          voluntatis assumere et ad aliud referre quo fruendum est <pc type="punctus"/> Ex quo patet quod 
+          <lb ed="#B" n="15"/>omni modo uti agere est <pc type="virgula">/</pc> et usus actio <pc type="punctus"/> patet etiam quid sit usus et uti 
+          <lb ed="#B" n="16"/>secundum genus et speciem Ex quibus patet quod uti est ipsius rationis quoniam usus aut col<lb ed="#B" break="no" n="17"/>latio 
+          est aut non sine collatione Omnis autem collatio rationis est <pc type="virgula">/</pc> ergo uti rationis 
+          <lb ed="#B" n="18"/>actus est
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e776">
+          Item secundum <name xml:id="gU87nn-d1e115-Nd1e778">aristotelem</name> bonum dividitur in tria honestum delectabile et utile
+          <lb ed="#B" n="19"/>Et cum honestum et delectabile sint finis <pc type="punctus"/> utile eorum erit quae sunt 
+          <lb ed="#B" n="20"/>ad finem igitur non intelligitur nisi per rationem eorum quae sunt ad finem et utile 
+          <lb ed="#B" n="21"/>secundum actum est relatum ad finem optinendum per ipsum <pc type="punctus"/> Secundum actum autem re<lb ed="#B" break="no" n="22"/>latum 
+          non potest esse sine comparatione ad alterum et ordinatione hoc autem non 
+          <lb ed="#B" n="23"/>est intellectus simplicis sed compositis et discursam <unclear>disci?na</unclear> accipientis Et hoc est 
+          <lb ed="#B" n="24"/>rationis ut vult isaac in libro de diffinitionibus dicens quod ratio est virtus 
+          <lb ed="#B" n="25"/>sive causa faciens currere causam in causatum <pc type="punctus"/> Et intelligit de causa 
+          <lb ed="#B" n="26"/>consequentiae ad consequens quocumque modo Talis autem cursus est in omnibus quorum unum 
+          <lb ed="#B" n="27"/>ordinantur ad alterum ita quod unum acquiratur ex altero
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e809">
+          Sequitur quod uti 
+          <lb ed="#B" n="28"/>non est alicuius veritatis moralis quoniam nulla virtus moralis collativa 
+          <lb ed="#B" n="29"/>est sed simpliciter unius sicut finis ut materia <pc type="punctus"/> Talis enim habitus ut <name xml:id="gU87nn-d1e115-Nd1e817">tullius</name>
+          <lb ed="#B" n="30"/>in modum naturae rationi est consentaneus <pc type="punctus"/> Erit igitur usus habitus intelligibilis non 
+          <lb ed="#B" n="31"/>aut nisi elicitur quia electio est eorum quae sunt ad finem ut sic philosophus 3 ethicorum 
+          <lb ed="#B" n="32"/>Electio autem non nisi prudentia est uti igitur prudentia est Electum autem voco
+          <lb ed="#B" n="33"/>habitum eum cuius actio electio est <pc type="virgula">/</pc> non eum qui ab actu voluntario 
+          <lb ed="#B" n="34"/>vel electivo generatur quia sic omnis actus moralis voluntarius est ut dicit 
+          <lb ed="#B" n="35"/><name xml:id="gU87nn-d1e115-Nd1e837">aristoteles</name> 3 ethicorum igitur uti est actus prudentiae
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e840">
+          <pc type="pilcrow"/> Sed contra hoc videtur esse quod 
+          <lb ed="#B" n="36"/><name xml:id="gU87nn-d1e115-Nd1e845">augustinus</name> dicit quod uti voluntatis est <pc type="punctus"/> est igitur alicuius habitus in voluntate existentis prudentia 
+          <lb ed="#B" n="37"/>autem in voluntate non est uti igitur prudentiae non est <pc type="virgula">/</pc> vel noster quod cum <name xml:id="gU87nn-d1e115-Nd1e855">augustinus</name> dicit quod uti 
+          <lb ed="#B" n="38"/>est aliquid in facultatem voluntatis assumere et aliud etiam referre Aliud est facul<lb ed="#B" break="no" n="39"/>tas 
+          et aliud voluntas facultas enim facilis potestas est et prompta 
+          <lb ed="#B" n="40"/>habens omnia ex quibus potest tendere in volitum hoc autem potestas prompta 
+          <lb ed="#B" n="41"/>causatur ex ordinatione rationis et prudentiae consequenter conferentis omnia quae sunt ad finem fa<lb ed="#B" break="no" n="42"/>cile 
+          consequendum ex quibus efficitur facilis potestas ad proficiendum sive <unclear>reden?d ipem</unclear>
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e871">
+          <lb ed="#B" n="43"/> Istud patet ex dictis <name xml:id="gU87nn-d1e115-Nd1e875">aristotelis</name> 6o ethicorum ubi dicit quod virtus moralis quantum 
+          <lb ed="#B" n="44"/>ad finem in quem tendit et inclinat per se finis est sicut voluntas et non eorum 
+          <lb ed="#B" n="45"/>quae sunt ad finem cui cum prudentia necessaria est propter electionem eorum quae sunt ad 
+          <lb ed="#B" n="46"/>finem quorum virtus moralis elicitiva non est unde patet quod talis facultas 
+          <lb ed="#B" n="47"/>rationis est vel prudentiae sicut agentis voluntatis autem signo per ipsam expedi<lb ed="#B" break="no" n="48"/>te 
+          et disposite ad tendendum in finem
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e889">
+          Et cum dicitur facultas rationis
+          <cb ed="#B" n="18-v"/>
+          <lb ed="#B" n="49"/>et facultas voluntatis cum eo quod dicitur rationis construitur in ratione causae efficientis cum eo quod 
+          <lb ed="#B" n="50"/>dicitur voluntas <unclear>habitu</unclear> dispositionis et formae
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e901">
+          <pc type="pilcrow"/> Sed dubitatur utrum uti indifferenter potest 
+          <lb ed="#B" n="51"/>ad bonum et ad malum <pc type="virgula">/</pc> dicendum quod non est nisi ad bonum <pc type="virgula">/</pc> et hoc proprie accipiendo uti 
+          <lb ed="#B" n="52"/>et similiter <pc type="virgula">/</pc> secundum quod accipitur in 3a significatione secundum quo uti est ad aliud quid est optinendum re<lb ed="#B" break="no" n="53"/>ferre 
+          quod utile et ratio est quia utile habet rationem quamdam boni secundum quod 
+          <lb ed="#B" n="54"/>bonum in honestum dicitur delectabile et utile Sic enim dicitur utile quid u<lb ed="#B" break="no" n="55"/>tenti 
+          utile est et non <unclear>noci?m</unclear> et cum hoc quod expediens est ad consequen<lb ed="#B" break="no" n="56"/>dum 
+          id quid intenditur
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e930">
+          <pc type="virgula">/</pc> In malis autem primam partem amittit suae significationis 
+          <lb ed="#B" n="57"/>quia licet expediat utenti ad intellectum tamen nihil confert utenti sed no<lb ed="#B" break="no" n="58"/>cet 
+          ideo non est utile sed inutile <pc type="virgula">/</pc> Sic proprie accipiendo utile confert 
+          <lb ed="#B" n="59"/>duobus aut significando aut disponendo et iuvando ut dictum est
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e945">
+          Item 
+          <lb ed="#B" n="60"/>notatis respondetur ad primum quaesitum quod proprie sumendo frui solo deo est 
+          <lb ed="#B" n="61"/>fruendo patet per <name xml:id="gU87nn-d1e115-Nd1e951">magister</name> in littera et per <name xml:id="gU87nn-d1e115-Nd1e953">augustinum</name> <pc type="virgula">/</pc> et probatur ratione quia fruitio proprie est 
+          <lb ed="#B" n="62"/>quietatis simpliciter hoc autem est solus deus quod nihil quietat nisi summum bonum quid 
+          <lb ed="#B" n="63"/>est deus Sic dicit <name xml:id="gU87nn-d1e115-Nd1e963">augustinus</name> quod illo fruimur in quo figitur dilectionis gressus 
+          <lb ed="#B" n="64"/>et ponitur dilectionis terminus <pc type="virgula">/</pc> hoc autem est solus deus Si tamen frui 
+          <lb ed="#B" n="65"/>accipiatur <unclear>communi?r</unclear> scilicet prout frui est cum delectatione uti quocumque modo 
+          <lb ed="#B" n="66"/>hoc est in bono rei cum gaudio pasci multis contingit frui quae 
+          <lb ed="#B" n="67"/>non sunt deus
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e980">
+          <pc type="virgula">/</pc> Sed oritur dubium cum dicat <name xml:id="gU87nn-d1e115-Nd1e985">augustinus</name> quod res quibus fruendum 
+          <lb ed="#B" n="68"/>sunt pater et filius et spiritus sanctus utrum una fruitione fruamur patre 
+          <lb ed="#B" n="69"/>etc attributus secundum est quod fruimur patre etc una fruitione licet enim 
+          <lb ed="#B" n="70"/>deus multa attributa habeat tamen tantum in ratione summi boni diligitur 
+          <lb ed="#B" n="71"/>et in eo terminus dilectionis ponitur Dictum est enim quod deus qaeritur sub ratione fruibilis 
+          <lb ed="#B" n="72"/>et hoc ut summum quietans hoc est ut summum bonum et ita fruimur tribus per<lb ed="#B" break="no" n="73"/>sonis 
+          ut unum summum bonum et licet personae sint distincte suis proprietatibus nulla 
+          <lb ed="#B" n="74"/>proprietatum ut sic est obiectum fruitionis sed ut summum bonum et hoc est idem et u<lb ed="#B" break="no" n="75"/>num 
+          in tribus nec philippus <unclear>petivit</unclear> ostendi patrem ut obiectum fruitionis 
+          <lb ed="#B" n="76"/>sed ut principium deitatis
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e1010">
+          <pc type="virgula">/</pc> Ad 2m quaesitum respondetur quod omni creatura est utendum 
+          <lb ed="#B" n="77"/>sit similiter creatura et terminus actus creantis et non sit peccato depravata quo contrari<lb ed="#B" break="no" n="78"/>atur 
+          usui sicut diximus et peccatum secundum quod peccatum
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e1020">
+          <pc type="virgula">/</pc> Ista conclusio ideo deduc<lb ed="#B" break="no" n="79"/>ta 
+          est in praedictis quoniam in nulla creatura est ponendus finis ultimus eo quod finis 
+          <lb ed="#B" n="80"/>non est sed confert ad fruitionem summi boni quia confert ad cognitionem eius ut 
+          <lb ed="#B" n="81"/>saepe dictum est Potest tamen per actus quis uti peccato et etiam dyabolae inquantum 
+          <lb ed="#B" n="82"/>per <unclear>poenitentiam</unclear> ad memoriam revocatum intendit et <del rend="strikethrough">intentionem</del> intentiorem facit 
+          <lb ed="#B" n="83"/>compunctionem <pc type="virgula">/</pc> et dyabolus vel tyrannus auget <unclear>patiem</unclear> meritum et <del rend="erasure">omnem</del> <add place="margin-center"><unclear>enim naturae</unclear></add> facit 
+          <lb ed="#B" n="84"/>veritatem ad maiorem meriti coronam
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e1057">
+          de primo habetur ad romanos 8 Scimus 
+          <lb ed="#B" n="85"/>quoniam diligentibus deum omnia cooperantur in bonum glossa etc peccatum de 
+          <lb ed="#B" n="86"/>2o iacobi primo Beatus vir qui suffert temptationem quoniam causa probatus fuerit 
+          <lb ed="#B" n="87"/>acquiret coronam gloriae Et <name xml:id="gU87nn-d1e115-Nd1e1065">beatus bernardus</name> super <unclear>cantica</unclear> iocundum pla<lb ed="#B" break="no" n="88"/>ne 
+          iudicium ut ille iniquibus omni humilium malleator fabricet 
+          <lb ed="#B" n="89"/>eis coronas perpetuas etiam nolens <pc type="virgula">/</pc> dum omnes temptat et ab omnibus 
+          superatur 
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e1078">
+          <pc type="virgula">/</pc> Item aliqualiter declaratis respondetur ad rationes ad primam cum arguitur 
+          <lb ed="#B" n="90"/>dicit <name xml:id="gU87nn-d1e115-Nd1e1085">beatus augustinus</name> quod illis rebus fruendum est quae nos beatos faciunt Beatitudo 
+          <lb ed="#B" n="91"/>autem creata nos beatos facit igitur etc <pc type="virgula">/</pc> dicendum quod <name xml:id="gU87nn-d1e115-Nd1e1093">beati augustini</name> intelligitur 
+          <lb ed="#B" n="92"/>de rebus quae nos beatus faciunt effective et ut obiectum et finis 
+          <lb ed="#B" n="93"/>Beatitudo autem creata beatos nos non facit nisi formaliter et dispositive 
+          <lb ed="#B" n="94"/>sicut etiam actu beatitudinis vel fruitionis instrumentaliter frui dicimur
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e1102">
+          <lb ed="#B" n="95"/><pc type="virgula">/</pc> Ad aliud <pc type="virgula">/</pc> illo fruendum est quid non propter aliud sed propter seipsum diligitur ut dicit <name xml:id="gU87nn-d1e115-Nd1e1111">augustinus</name> 
+          <lb ed="#B" n="96"/>felecitas autem beatitudo propter seipsam quaeritur ut dicit <name xml:id="gU87nn-d1e115-Nd1e1115">philosophus</name> <unclear>etc <!-- could be "2a" --></unclear> Dicendum quodlibet 
+          <lb ed="#B" n="97"/>felicitas aut beatitudo creata non refertur ad aliud sui generis refertur tamen 
+          <pb ed="#B" n="19-r"/>
+          <lb ed="#B" n="1"/>ad aliud extra suum genus quia ad deum Id qutem quo similiter fruendum est ad aliud 
+          <lb ed="#B" n="2"/>referendum non est
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e1131">
+          <pc type="virgula">/</pc> Quod autem obicitur de paulo ad philemonem solvit <name xml:id="gU87nn-d1e115-Nd1e1136">augustinus</name> 
+          <lb ed="#B" n="3"/><unclear>d?s</unclear> cum homine in deo frueris potius deo quam homine frueris <unclear>han</unclear> in 
+          <lb ed="#B" n="4"/>deo dicitur esse et deus in homine pro conformitate inhabitatis gratiae Sic autem deus 
+          <lb ed="#B" n="5"/>resultat in homine ut summum bonum et optimum et talis dilectio ab ho<lb ed="#B" break="no" n="6"/>mine 
+          incipit et in deo gressum <unclear>figit</unclear> et finem ponit <pc type="virgula">/</pc> Et ideo in homine 
+          <lb ed="#B" n="7"/>usus est hoc modo quo frui est uti cum gaudio <pc type="virgula">/</pc> in deo autem vera fruitio 
+          <lb ed="#B" n="8"/>Ideo dicit cum homine in deo frueris potius deo quam homine frueris 
+          <lb ed="#B" n="9"/>Et eodem modo respondetur ad sequens
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e1166">
+          <pc type="virgula">/</pc> Ad aliud cum arguitur <name xml:id="gU87nn-d1e115-Nd1e1171">tullius</name> in primo rethoricae 
+          <lb ed="#B" n="10"/>honestum est etc <pc type="virgula">/</pc> dicendum quod <name xml:id="gU87nn-d1e115-Nd1e1178">tullius</name> notat sua vi trahere et sua dignitate 
+          <lb ed="#B" n="11"/>allicere quid per se trahit et allicit Et secundum ipsum hoc est quid in se essentialiter 
+          <lb ed="#B" n="12"/>habet et secundum ipsum unde trahat et alliciat sicut subiectum per se et secundum ipsam 
+          <lb ed="#B" n="13"/>habet in se passionem quia ex essentialibus subiecti fluit passio et ipsum subiectum 
+          <lb ed="#B" n="14"/>secundum seipsum tota causa est passionis Tale autem magis est per se quam propter ipsum 
+          <lb ed="#B" n="15"/>nisi propter dicat habitudinem causae efficientis et non finalis Quando autem dicitur quod fruimur 
+          <lb ed="#B" n="16"/>eo quid propter se diligimus <unclear>proprie</unclear> dicit habitudinem causae finalis <pc type="virgula">/</pc> unde honestum 
+          <lb ed="#B" n="17"/>quid per se delectant vel quaeritur nihil prohibiet ad aliud referri propter 
+          <lb ed="#B" n="18"/>quid quaeratur sicut propter finem
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e1204">
+          <pc type="virgula">/</pc> Per idem patet solutio ad sequens quid dicit 
+          <lb ed="#B" n="19"/><name xml:id="gU87nn-d1e115-Nd1e1210">anselmus</name> de virtutibus
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e1214">
+          <pc type="virgula">/</pc> Ad ultimum 2o confessionum narrat augustinus etc 
+          <lb ed="#B" n="20"/>dicendum quod secundum quod frui dicit non impeditam operationem <del rend="strikethrough">in</del> delectationis fruibilis 
+          <lb ed="#B" n="21"/>in fruente nemo peccato potest frui <pc type="virgula">/</pc> eo quod malum ut dicit <ref xml:id="gU87nn-d1e115-Rd1e1230"><name xml:id="gU87nn-d1e115-Nd1e1231">dionysius</name> in divinis nominibus
+          <lb ed="#B" n="22"/>capitulo 4</ref> est praeter intentionem et praeter voluntatem et incausale et infecundum et <unclear>pigiter</unclear> 
+          <lb ed="#B" n="23"/>propter quid est insidens ex defectu boni unde sinceram et <unclear>sc?am</unclear> delectionem 
+          <lb ed="#B" n="24"/>non infert Et quid dicit <name xml:id="gU87nn-d1e115-Nd1e1244">augustinus</name> quod fruebatur iniquitate vel peccato intellexit 
+          <lb ed="#B" n="25"/>frui <unclear>prout <!-- something else here as well? --></unclear> uti cum gaudio quocumque et prout uti secundum se aliquid suae 
+          <lb ed="#B" n="26"/>rationis est in abusu <pc type="punctus"/> Nec tamen adhuc quis fruitur malitia aut iniquitate 
+          <lb ed="#B" n="27"/>sed ratione delectationis adiuncte 
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e1260">
+          <pc type="virgula">/</pc> Ad primum contra 2m quaesitum cum arguitur 
+          <lb ed="#B" n="28"/>uti perficitur ab opere nostra etc dicendum quod licet quaedam creaturae mundi <!-- something else here at end of line? -->
+          <lb ed="#B" n="29"/>nostris operibus non subiacent quantum ad essentiae productionem et quantum ad ef<lb ed="#B" break="no" n="30"/>fectus 
+          et operationes suas <pc type="virgula">/</pc> subiacent tamen in quantum circa eas operamur sicut 
+          <lb ed="#B" n="31"/>circa signa et dispositiones ad beatitudinem <pc type="virgula">/</pc> et sic utimur eis et utiles sicut
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e1283">
+          <lb ed="#B" n="32"/><pc type="virgula">/</pc> ad aliud creaturae videntur contrari usui etc <pc type="virgula">/</pc> dicendum quod creaturae inquantum creaturae 
+          <lb ed="#B" n="33"/>hoc est in quantum subsistant actui creationis non contriariantur usui <unclear>ge</unclear> id est vidit 
+          <lb ed="#B" n="34"/>deus <unclear>cocta</unclear> quae fecerat et erant valde bona sed aliquando habent pronitatem <add place="margin-right">ad malum</add> ex parte 
+          <lb ed="#B" n="35"/>nostra scilicet in quantum concupisibiles sunt et instrumenta deceptionis Et sic <pc type="virgula">/</pc> non ex se 
+          <lb ed="#B" n="36"/>factae sunt in odium et in muscipulam et deceptionem pedibus insipientem 
+          <lb ed="#B" n="37"/>et non sapientium 
+        </p>
+        <p xml:id="gU87nn-d1e115-d1e1314">
+          <pc type="pilcrow"/> Ad ultimum omnis actus voluntatis creatura est etc dicendum quod <!-- something here at end of line ? --> 
+          <lb ed="#B" n="38"/>omnis actus voluntatis est si autem nec referibilis nec refertur habens in se contrarium ad re<lb ed="#B" break="no" n="39"/>ferri 
+          peccatum mortale est Si autem nec referibilis nec refertur non habens contrarium 
+          <lb ed="#B" n="40"/>sed dispositionem ad contrarium Relationi quae impedit actualem relationem peccatum 
+          <lb ed="#B" n="41"/>veniale est <pc type="punctus"/> Si vero non habet formam virtutis qua de necessitate referatur non habens 
+          <lb ed="#B" n="42"/>contrarium relationi nec dispositionem ad contrarium <pc type="virgula">/</pc> actus ociosus vel indifferens 
+          <lb ed="#B" n="43"/>est Exemplum dat <name xml:id="gU87nn-d1e115-Nd1e1338">boetius</name> motum digiti sine causa necessitatis vel utilitatis 
+          <lb ed="#B" n="44"/>hoc tamen in theologia peccatum dicitur hoc modo quo vanum dicitur esse peccatum et otio<lb ed="#B" break="no" n="45"/>sum 
+          matthaeus 12 deo omni vero otioso quid locuit fuerunt homines reddent 
+          <lb ed="#B" n="46"/>rationem in die iudicii <!-- Explicit 3a quaestio super primam distinctionem Incipit 4a circa 2am -->
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
