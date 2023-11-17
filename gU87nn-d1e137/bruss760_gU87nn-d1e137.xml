@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1 [Brussels Transcription]</title>
+        <author>Lambertus de Monte</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1 [Brussels Transcription]</title>
+          <date when="2023-11-16">November 16, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="bruss760">Brüssel, Koninklijke Bibliotheek van België, ms. 760 (1715)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-11-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="19-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gU87nn-d1e137"> <!-- d. 2 q. 1 (or question 4)-->
+        <head xml:id="gU87nn-d1e137-Hd1e90">Quaestio 1 [Brussels Transcription]</head>
+        <p xml:id="gU87nn-d1e137-d1e92">
+          <lb ed="#B" n="1"/>Circa 2am distinctionem quaeritur utrum deus sit cognoscibilis 
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e97">
+          Et videtur quod non
+          <lb ed="#B" n="2"/>Inquit enim beatus dionisius de divinis nominibus capitulo 1 supersubstantialis substantia deus est 
+          <lb ed="#B" n="3"/>et intellectus non intelligibilis et verum non difficile et irrationabiltas et non 
+          <lb ed="#B" n="4"/>intellectualitas secundum ninil existentium existens unde ibidem dicit quod ipsius dei necque sensus est 
+          <lb ed="#B" n="5"/>necqua fantasia <pc type="virgula">/</pc> neque opinio <pc type="virgula">/</pc> neque ratio neque scientia <pc type="virgula">/</pc> Et ibidem quem neque cogitare 
+          <lb ed="#B" n="6"/>possibilem neque dicere <pc type="virgula">/</pc> neque totaliter aliquo modo contemplari <pc type="virgula">/</pc> propter quid ab omnibus est segregatus 
+          <lb ed="#B" n="7"/>et superignotus et multa consimilia dicit dionysius
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e128">
+          <pc type="virgula">/</pc> Item chrisotomus super illud iohannes 
+          <lb ed="#B" n="8"/>primo deum nemo viderit unquam sic dicit Ipsum quid est deus non solum prophetae 
+          <lb ed="#B" n="9"/>sed nec angeli vidrunt nec archangeli Quid enim creabilis est naturae qualiter vi<lb ed="#B" break="no" n="10"/>dere 
+          poterit quid est increabile
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e141">
+          <pc type="virgula">/</pc> Item prima ad thimeo vel quem nullus 
+          <lb ed="#B" n="11"/>homini viderit nec videre poterit 
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e149">
+          <pc type="virgula">/</pc> ad hoc <unclear>dicendum ad gaium monachum</unclear> Quid 
+          <lb ed="#B" n="12"/>dicit se vidisse deum <pc type="virgula">/</pc> si cognoverit quid viderit <pc type="virgula">/</pc> non ipsum viderit sed aliquid eorum 
+          <lb ed="#B" n="13"/>quae sunt sub ipso 
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e168">
+          <pc type="virgula">/</pc> ad hoc cognoscentis et cogniti proportio est sicut recipientis et 
+          <lb ed="#B" n="14"/>recepti quid probatur per <name xml:id="gU87nn-d1e137-Nd1e175">aristotelem</name> 3o de anima dicentem quod intellectus species acceptionis 
+          <lb ed="#B" n="15"/>est Infiniti autem accipiendi ad finitum accipiens non est proportio 
+          <lb ed="#B" n="16"/>Est autem intellectus creatus finitus in potestate accipiendum deus autem infinitus per 
+          <lb ed="#B" n="17"/>essentiam et veritatem et omnia quae in ipso sunt ergo ab intellectu creato nullo modo accipitur 
+          <lb ed="#B" n="18"/>et per consequens non cognoscitur
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e187">
+          <pc type="pilcrow"/> In contrarium etiam quid dicitur ad romanos primo Quid 
+          <lb ed="#B" n="19"/>nomen est dei manifestum est illis glo. I quod de deo ductu rationis cognoscibile 
+          <lb ed="#B" n="20"/>est 
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e196">
+          <pc type="virgula">/</pc> ad huc sapientiae 13 de his quae videntur bona non potuerunt intelligere 
+          <lb ed="#B" n="21"/>ecum qui est neque operibus attendens arguerunt quis esset artifex Quia 
+          <lb ed="#B" n="22"/>dicat hoc est inconveniens Et paulo post a magnitudine speciei et creaturae 
+          <lb ed="#B" n="23"/>cognoscitur poterit creator horum videri 
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e208">
+          <pc type="virgula">/</pc> Item ad romanos id est Invisibilia dei 
+          <lb ed="#B" n="24"/>per ea quae facta sunt a creatura mundi intellecta conspiciuntur sepiterna quo 
+          <lb ed="#B" n="25"/>virtus eius et divinitas 
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e219">
+          <pc type="virgula">/</pc> Pro rationem arguitur dicunt enim <name xml:id="gU87nn-d1e137-Nd1e224">aristoteles</name> et <name xml:id="gU87nn-d1e137-Nd1e226">averrois</name> quod in<lb ed="#B" break="no" n="26"/>telligibile 
+          quod omnis homo natura scire desiderat intellectus divinus est <pc type="virgula">/</pc> eo quod sicut causa 
+          <lb ed="#B" n="27"/>est omnis rei ita lumen est faciens intelligibile quidcquid intelligitur Cum igitur non sit in<lb ed="#B" break="no" n="28"/>ane 
+          desiderium primo ethicorum oportet quod naturali cognitione per naturalem intellectum hominis 
+          <lb ed="#B" n="29"/>deus et divinus intellectus cognosci possit
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e241">
+          <pc type="pilcrow"/> Ad hanc quaestionem respondetur quod deus ex 
+          <lb ed="#B" n="30"/>parte sui maxime intelligibilis est <pc type="virgula">/</pc> quodque ex solis naturalibus a nobis intellectu positivo 
+          <lb ed="#B" n="31"/>et privativo positivo quia est quid est aliqualiter et qualis et quantus est priva<lb ed="#B" break="no" n="32"/>tivo 
+          quid non est qualis non est et quantus non est
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e255">
+          <pc type="pilcrow"/> Pro declaratione primi est 
+          <lb ed="#B" n="33"/>notandum quod in omni gratiae est aliquid primum quid per essentiam est tale qualia reliqua 
+          <lb ed="#B" n="34"/>per participationem ista propositio est sanctorum non solum philosophorum et probat eam per 2o me<lb ed="#B" break="no" n="35"/>thaphysicae 
+          iter calida est unum per essentiam tale <pc type="virgula">/</pc> et ita cum multa sint necesse est 
+          <lb ed="#B" n="36"/>unum esse per essentiam suam et hoc primum est mensura omnium aliorum non 
+          <lb ed="#B" n="37"/>adaequata sed supereffluens ut vult philosopus Xo primae philosophiae Et hoc primum est 
+          <lb ed="#B" n="38"/>ut fons et origo omnium aliorum sui generis quibus forma communicatur Cum igitur sint 
+          <lb ed="#B" n="39"/>multa intelligibilia oportet esse unum primum intelligibile per essentiam mensura omnium intelligibilium 
+          <lb ed="#B" n="40"/>et fons et origo ipsorum a quo intelligibile omne intelligibile est
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e280">
+          <pc type="virgula">/</pc> Ex quo patet quod primum 
+          <lb ed="#B" n="41"/>intelligibile est maxime intelligibile quia per se et per essentiam suam et ex se et a nullo alio 
+          <lb ed="#B" n="42"/>nec effictive nec formaliter <pc type="virgula">/</pc> Omnia autem alia intelligibilia sunt per participationem ab ipso 
+          <lb ed="#B" n="43"/>proprium autem intelligibile est deus igitur deus est maxime intelligibilis <unclear>gt?s</unclear> intelligibile ut intelligibile 
+          <lb ed="#B" n="44"/>est immutabile quia materia nihil confert ad cognitionem immo obeset quia potentia et pri<lb ed="#B" break="no" n="45"/>vata 
+          forma Cum igitur deus est simplex actus et purus maxime intelligibile et 
+          <lb ed="#B" n="46"/>non solum intelligibilis immo intellectualis
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e304">
+          <pc type="virgula">/</pc> Sed contra argitur lux tantum sive lumen 
+          <lb ed="#B" n="47"/>est forma interminata et indistincta igitur non potest terminare potentiam aliquam aut <unclear>differe</unclear> 
+          <lb ed="#B" n="48"/>quid requiritur <unclear>animi cognoscere</unclear> Et hinc est quod intellectus possibilis lumine intellectus agen<lb ed="#B" break="no" n="49"/>tis 
+          praesente sive specie distinguente nihil intellexit <pc type="virgula">/</pc> nec propter eamdem causa 
+          <lb ed="#B" n="50"/>lumen solis non videtur nisi in obiecto terminante ipsum ut experimur ad cognitionem
+          <pb ed="#B" n="20-r"/>
+          <lb ed="#B" n="1"/>enim requiritur duplex movens unum dans virtutem movendi <pc type="virgula">/</pc> et reliquum <unclear>d?is</unclear> sicut 
+          <lb ed="#B" n="2"/>obiectum materiale cum lumine sicut communitato et species intelligibilis informata lumine agentis 
+          <lb ed="#B" n="3"/>Cum igitur deus sit purus actus et simplex in fine simplicitatis infinitus inclina<lb ed="#B" break="no" n="4"/>tus 
+          penitus videtur quod non potest terminare aut movere potentiam intellectivam ad intelligendum 
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e342">
+          <lb ed="#B" n="5"/>Istud est valde difficile et multi inciderunt in errorem dixerunt 
+          <lb ed="#B" n="6"/>quidam quod deus est esse omnium et quo omnia sunt et intelliguntur Cuius oppositum 
+          <lb ed="#B" n="7"/>dicit una propositio libri caasarum deus regit res <unclear>omnis</unclear> absque eo quod 
+          <lb ed="#B" n="8"/>eis misceatur Propter hoc etiam dixerunt quidam poetarum quod omnia sunt ple<lb ed="#B" break="no" n="9"/>na 
+          diis <pc type="punctus"/> quia plena esse quo sunt nec materia prima intelligi potest sine esse <pc type="virgula">/</pc> quan<lb ed="#B" break="no" n="10"/>tumcumque 
+          enim intellectus se profundat in inquam semper reperit esse <pc type="virgula">/</pc> et ita in aliis 
+          <lb ed="#B" n="11"/>et hoc esse dixerunt esse deum <pc type="punctus"/> Et est pessimus error <pc type="punctus"/> Et ideo respondetur 
+          <lb ed="#B" n="12"/>ad obiectionem quod lumen creatum ut lumen est <pc type="virgula">/</pc> est tantum quo et non quod et ideo non terminat 
+          <lb ed="#B" n="13"/>per se nec movet nisi in alio in quo actus eius essentialis terminetur <pc type="virgula">/</pc> quod sequitur actus 2us <pc type="virgula">/</pc> et 
+          <lb ed="#B" n="14"/>ideo est tantum quo et non quid Sed prima lux est vere quid et ideo habet agere absque quocumque 
+          <lb ed="#B" n="15"/>et est perfectum ad actum secundum scilicet agere movere etc
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e394">
+          Non igitur ex parte sui 
+          <lb ed="#B" n="16"/>est quod non faciliter intelligitur a nobis sed ex parte excellentiae supra nos ut vult 
+          <lb ed="#B" n="17"/>beatus augustinus est igitur maxime intelligibilis secundum se immo maxime intellectus et principium et fons 
+          <lb ed="#B" n="18"/>etc <pc type="virgula">/</pc> Sed quod deus sit intelligibilis a nobis ex solis naturalibus ostenditur per rationes post 
+          <lb ed="#B" n="19"/>oppositum
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e408">
+           <pc type="virgula">/</pc> pro quo tamen est notandum quod aliud est contingere per intellectum et diffundi <pc type="virgula">/</pc> et aliud est 
+          <lb ed="#B" n="20"/>capere sine comprehendere intelligibile huius similitudinem declarat chrisotomos super illud in principio 
+          <lb ed="#B" n="21"/>erat verbum dicens <pc type="virgula">/</pc> quod usus corporeus qui est in oculo quando est in litore 
+          <lb ed="#B" n="22"/>maris litus terminans mare comprehendit Remotus autem a litore in ipsa 
+          <lb ed="#B" n="23"/>maris superficie figitur et in infinite sua diffunditur nihil videns quid 
+          <lb ed="#B" n="24"/>pelagi terminet immensitatem 
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e431">
+          <pc type="virgula">/</pc> Isto modo 2o per intellectum possumus concurrere 
+          <lb ed="#B" n="25"/>deum Et hoc probant rationes post oppositum non tamen possumus eum compre<lb ed="#B" break="no" n="26"/>hendere 
+          quia non possumus eum intelligere secundum suam immensitatem Quid probatur Nam 
+          <lb ed="#B" n="27"/>secundum philosophus 6o ethicorum et etiam <name xml:id="gU87nn-d1e137-Nd1e442">boetiusm</name> quaecumque sunt in aliquo sunt in suscipien<lb ed="#B" break="no" n="28"/>te 
+          sunt in eo secundum possibilitatem suscipientis et non suscepti unde susceptibile 
+          <lb ed="#B" n="29"/>infinitum in suscipiente non est secundum potentiam infiniti sed <unclear>po?s</unclear> secundum possibilitatem et capacitatem 
+          <lb ed="#B" n="30"/>suscipientis finiti Cum igitur deus sit infinitus et intellectus noster finitus sequitur 
+          <lb ed="#B" n="31"/>propositum quod deus non est intelligiblis a nobis secundum suam immensitatem
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e456">
+          <pc type="virgula">/</pc> Possumus 
+          <lb ed="#B" n="32"/>igitur contingere per intellectum deum et potest visus nostri intelligendum diffundi in im<lb ed="#B" break="no" n="33"/>mensitate 
+          eius nusquam comprehendens terminos eius
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e466">
+          <pc type="virgula">/</pc> Si dicatur noscimus 
+          <lb ed="#B" n="34"/>deum esse infinitum quod non posset esse nisi sub ratione infinitatis et immensitatis 
+          <lb ed="#B" n="35"/>igitur secundum suam immensitatem <del rend="strikethrough">videtur</del> deus videtur
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e479">
+          <pc type="virgula">/</pc> Respondetur quod infinitum ratione in<lb ed="#B" break="no" n="36"/>finitis 
+          videtur per intuitum mentis quia infinitum est sed non ita ratione infinitatis 
+          <lb ed="#B" n="37"/>videtur quod infinitas sit ratio vivendi ipsum <pc type="virgula">/</pc> quia infinitas non potest esse ratio 
+          <lb ed="#B" n="38"/>vivendi aliquid in eo quid finitum est <pc type="punctus"/> Sed quid est infinitum videtur per comparationem eius 
+          <lb ed="#B" n="39"/>ad hoc quia excellit hoc cuius excellentiae non est terminus nec percipitur 
+          <lb ed="#B" n="40"/>terminus aliquis Et talis visio incipit in infinito in se finito autem huic 
+          <lb ed="#B" n="41"/>et secundum hoc terminatur in infinitum
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e504">
+          <pc type="virgula">/</pc> Pro ampliori intellectu est notandum quod secundum veatum 
+          <lb ed="#B" n="42"/>dyonsium non cognoscimus deum nisi simbolice vel mistice <pc type="punctus"/> Simbolice nos<lb ed="#B" break="no" n="43"/>cimus 
+          proprietatem dei proportione proprietatis corporeae <pc type="virgula">/</pc> et cum in infinitum emi<lb ed="#B" break="no" n="44"/>neat 
+          proprietas divina proprietatibus creatorum procedendo simbolice sta<lb ed="#B" break="no" n="45"/>mus 
+          in infinto et diffundimur in illo nullum terminum comprehendens 
+          <lb ed="#B" n="46"/>mystice autem procedimus in deum per eminentiam mistica enim 
+          <lb ed="#B" n="47"/>sunt quae per se et primo deo conveniunt <unclear>pro aliud</unclear> autem et 2ario creaturis ut 
+          <lb ed="#B" n="48"/>essentia vita et intellectus quae nobis non innotescunt nisi secundum quod sunt in 
+          <pb ed="#B" n="20-v"/>
+          <lb ed="#B" n="1"/>creatis <unclear>g?e</unclear> vel <unclear>s?e</unclear> vel numero Et secundum hoc esse non conveniunt deo sed eminenter 
+          <lb ed="#B" n="2"/>et excellenter in infinitum <pc type="virgula">/</pc> sicut si dicam deus est essentia <pc type="virgula">/</pc> et illo statim 
+          <lb ed="#B" n="3"/>nego dicens non est essentia eo quod non est essentia prout nobis essentia inno<lb ed="#B" break="no" n="4"/>tuit 
+          in <unclear>genere</unclear> aut se aut numero <pc type="punctus"/> Et posterius infero <pc type="virgula">/</pc> est essentia super essentiam <pc type="virgula">/</pc> nec 
+          <lb ed="#B" n="5"/>dicere possum quantum est super essentiam <pc type="virgula">/</pc> eo quod intellectus resolutorius non potest per<lb ed="#B" break="no" n="6"/>venire 
+          in aliquid primum quid non sit aliquid de essentia resolutorum et 
+          <lb ed="#B" n="7"/>immixtum eis. Deus aut nihil creatorum est sed eminem omnibus excellen<lb ed="#B" break="no" n="8"/>ter 
+          in infinitum <pc type="virgula">/</pc> et ideo intellectus sic procedens stat in infinto et diffunditur in illo 
+          <lb ed="#B" n="9"/>Et hoc est quid dicitur primo de celo et mundo adhibuimus nos ipsos
+          <lb ed="#B" n="10"/>magnificare deum gloriosum eminentem proprietatibus eorum quae sunt creata Et 
+          <lb ed="#B" n="11"/>hoc est quid dicitur in libro de causais <pc type="punctus"/> Causa prima est super esse nomen quoniam non per<lb ed="#B" break="no" n="12"/>tinet 
+          ei <unclear>demonstratione ?et <!-- possible something added above line --></unclear> haec propositio 21a Et in 6a propositione dicitur cum prima superior 
+          <lb ed="#B" n="13"/>est narratione et non deficiunt ligne a narratione eius nisi propter narrationem 
+          <lb ed="#B" n="14"/>esse ipsius quoniam ipsa est supra omnem causam et non narratur nisi per causas 2as 
+          <lb ed="#B" n="15"/>quae illuminantur a lumine causae primae Istud dicit <name xml:id="gU87nn-d1e137-Nd1e600">beatus augustinus</name> in libro de videndo deum 
+          <lb ed="#B" n="16"/>ad probationem videre deum mente possumus <pc type="punctus"/> comprehendere vero minime
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e608">
+          <pc type="virgula">/</pc> Sed 
+          <lb ed="#B" n="17"/>dubitatur cum intellectus resolutorius veniens ad ultimum resolutorum 
+          <lb ed="#B" n="18"/>quid immixtum est omnibus resolutis unde est quod progreditur cum resolu<lb ed="#B" break="no" n="19"/>torum 
+          nihil amplius est autem si progreditur quare <unclear>post</unclear> in deum quam in chi<lb ed="#B" break="no" n="20"/>meram 
+          <pc type="virgula">/</pc> cum nihil horum sit resolutorum immo post videtur quod debeat 
+          <lb ed="#B" n="21"/>progredi in ens infinitum quid cadit sub apprehensione quod indifferens est ad ens 
+          <lb ed="#B" n="22"/>et non ens ut dicunt logici de nomine infinito
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e632">
+          <pc type="pilcrow"/> Respondetur secundum <name xml:id="gU87nn-d1e137-Nd1e636">beatum dyonisium</name> 
+          <lb ed="#B" n="23"/>quod omnis species visibilis et sensibilis <pc type="virgula">/</pc> et omnis species creata aliquam similem tenet 
+          <lb ed="#B" n="24"/>natura sua ad invisibilium demonstrationem Quoniam sicut omne bonum a bono est 
+          <lb ed="#B" n="25"/>ita in omni bono secundum emulationem participationis summum bonum contemplari potest <pc type="virgula">/</pc> Secundam 
+          <lb ed="#B" n="26"/>hoc <unclear>gratia</unclear> mens humana <unclear>convertibilis</unclear> excitata ascendit quasi de simili ad similia con<lb ed="#B" break="no" n="27"/>ducta 
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e660">
+          <pc type="virgula">/</pc> Nam secundum <unclear>invisibilem</unclear> lucem insertam sibi noster animus ad visibilia respi<lb ed="#B" break="no" n="28"/>ciens 
+          facile arbitratur visibiles formas invisibilis <unclear>pl?is</unclear> imagines esse 
+          <lb ed="#B" n="29"/>illi quid invisibile intus ipse habet <unclear>amica</unclear> quadam similitudinem respondens <add place="margin-right">&gt;eas</add> secundum approbationem et 
+          <lb ed="#B" n="30"/>affectum inveniens noscit animus visibilium species <unclear>ap</unclear> se invisibilies fieri Et sic tran<lb ed="#B" break="no" n="31"/>situm 
+          <c>a</c> visibili ad invisibile experitur et sic animus resolutorius post ultimum 
+          <lb ed="#B" n="32"/>resolutorum progreditur in lucem visibilium infinitam et incomprehensibilem quamvis nihil 
+          <lb ed="#B" n="33"/>sit resolutorum Et hoc <subst><del>maxime</del> <add place="margin">amplius</add></subst> ostendetur in materia de vestigio et ima<lb ed="#B" break="no" n="34"/>gine
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e701">
+          <pc type="virgula">/</pc> Ex quibus patet quod deus intelligibils est a nobis positivo intellectu et quia est et 
+          <lb ed="#B" n="35"/>etiam quid est infinite sicut oculus carnis alonge videt mare infinite 
+          <lb ed="#B" n="36"/>similiter qualis est infinite et quantus infinite <pc type="virgula">/</pc> ut puta bonus supra omne bonum <pc type="virgula">/</pc> et sapi<lb ed="#B" break="no" n="37"/>ens 
+          supra <del rend="strikethrough">omnia</del> sapiens <pc type="virgula">/</pc> similiter potens supra omne potens
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e726">
+          <pc type="pilcrow"/> Sequitur quod negativos 
+          <lb ed="#B" n="38"/>de deo sunt magis compactae de deo quam affirmativos et hoc quantum in ad intellectum 
+          <lb ed="#B" n="39"/>nostrum <pc type="virgula">/</pc> quia affirmativos secundum intellectum nostrum sunt secundum quod invenimus eas in genere et specie 
+          <lb ed="#B" n="40"/>aut numero et ita minime conveniunt deo <pc type="virgula">/</pc> sed negativos horum <pc type="virgula">/</pc> amplius conveniuntur 
+          <lb ed="#B" n="41"/>cum elevatione in excellentiam ut dicendo non est substantia sed supra omnem substantiam 
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e750">
+          Similiter 
+          <lb ed="#B" n="42"/>patet quod deus intelligibilis est a nobis privatio intellectu non simpliciter privativo et simpliciter
+          <lb ed="#B" n="43"/>privatio dicitur aptitudinem ad id quid privatur et ideo non est non corpus quia 
+          <lb ed="#B" n="44"/>natus est esse corpus etc 
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e759">
+          Nec tamen est negatio finaliter negans sed est ne<lb ed="#B" break="no" n="45"/>gans 
+          supponens aliquid scilicet cui est simile quid negatur in quid intellectus sur<lb ed="#B" break="no" n="46"/>gens 
+          reliquens id quid negatur ut iam dictum est
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e766">
+          <pc type="pilcrow"/> Sequitur quod ex naturalibus 
+          <lb ed="#B" n="47"/>non possumus intelligere quod deus sit trinus in personis in una essentia quoniam per quae 
+          <lb ed="#B" n="48"/>ascendimus in cognitionem dei sunt communica omnibus personis <pc type="virgula">/</pc> quoniam opera ad extra 
+          <lb ed="#B" n="49"/>sunt indivisa. Etiam intellectus noster <unclear>apud</unclear> se habet principia illis contraria et per illa ipse 
+          <lb ed="#B" n="50"/>dicitur ad illa divina in lumine suo naturali <pc type="virgula">/</pc> sed ad illa requirit lumen supernaturale <pc type="virgula">/</pc> ex 
+          <pb ed="#B" n="21-r"/>
+          <lb ed="#B" n="1"/>quibus aliqualiter patet responsio ad quaesitum
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e795">
+          <pc type="virgula">/</pc> Rationes autem et auctoritates quae dicunt deum incognoscibilem esse loquuntur 
+          <lb ed="#B" n="2"/>de cognitione certa et finita quae est cognitio comprehensionis Et hoc modo dicit <unclear>isi</unclear> quod trinitas sibi soli nota est <!-- possible insertion -->
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e807">
+          <lb ed="#B" n="3"/><pc type="virgula">/</pc> Est tamen sciendum quod duplex ex comprehensio unus est motus qui comprehendit <unclear><!--possible correction here --> tam</unclear> in quo est in motum esse quando con<lb ed="#B" break="no" n="4"/>tingit 
+          ipsum sic dicit <name xml:id="gU87nn-d1e137-Nd1e819">apostolus</name> currite ut comprehendatis 2a es comprehensio vasis quando totum claudit quid 
+          <lb ed="#B" n="5"/>est in vase ita quod nihil sui est extra ipsum
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e824">
+          primo intellectus comprehendit intelligibile in quid finaliter tendit quando con<lb ed="#B" break="no" n="6"/>tingit 
+          ipsum per simplicem visionem
+        </p>
+        <p xml:id="gU87nn-d1e137-d1e830">
+          <pc type="pilcrow"/> 2o intellectus non comprehendit deum quando eum intelligit <pc type="virgula">/</pc> non enim totum capit 
+          <lb ed="#B" n="7"/>et claudit quia finitum non potest infinitum capere sub rationes autem et auctoritates in oppositum adductae de 
+          <lb ed="#B" n="8"/>visione sicut intuitionis loquimur <pc type="virgula">/</pc> et de diffinitione intellectus in infinito quid per intellectum finiri non potest 
+          <lb ed="#B" n="9"/>dicit enim <name xml:id="gU87nn-d1e137-Nd1e847">anselmus</name> in <sic>pronologio</sic> quod deus secundum omnia quae in eo sunt maius aliquid est quam intelligi possit 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
