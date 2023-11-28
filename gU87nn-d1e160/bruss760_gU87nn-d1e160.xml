@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1 [Brussels Transcription]</title>
+        <author>Lambertus de Monte</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1 [Brussels Transcription]</title>
+          <date when="2023-11-20">November 20, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="bruss760">Brüssel, Koninklijke Bibliotheek van België, ms. 760 (1715)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-11-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="21-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gU87nn-d1e137"> <!-- d. 3 q. 1 (or question 5)-->
+        <head xml:id="gU87nn-d1e137-Hd1e90">Quaestio 1 [Brussels Transcription]</head>
+        <p xml:id="gU87nn-d1e137-d1e92">
+          <lb ed="#B" n="10"/>Circa distinctionem 3am quaeritur utrum vestigium creatoris sit in omni
+          <lb ed="#B"/>creatura 
+        </p>
+        <p>
+          <pc type="virgula">/</pc> arguitur quod non in psalmos vestigia eius non cognoscentur igitur videtur quod non sit in creatura 
+          <lb ed="#B"/>consequentia tenet quia si esset <sic>esset</sic> medium cognoscendi et per consequens cognoscetur 
+        </p>
+        <p>
+          Item si vestigium 
+          <lb ed="#B"/>esset in creaturis philosophi potuerunt cognoscere trinitatem cuius oppositum probatum est supra 
+        </p>
+        <p>
+          <pc type="virgula">/</pc> praeterea 
+          <lb ed="#B"/>ex contactu aliquo inducitur vestigium sed inter causam primam et effectum eius nullus est contactus 
+          <lb ed="#B"/>quia dicit <name>philosophus</name> in libro de causis quod principia causa regit res omnes praeter quam quod misceatur cum eis irigur videtur 
+          <lb ed="#B"/>quod vestigium in creatis non relinquit deus
+        </p>
+        <p>
+          ad hoc infinite <unclear>distinguitur</unclear> nulla est impressio deus autem 
+          <lb ed="#B"/>infinite distat a quolibet suo effectu igitur nihil impressionis relinquit in illis igitur nec vestigium <pc type="virgula">//</pc> 
+        </p>
+        <p>
+          <lb ed="#B"/><pc type="virgula">/</pc> Deinde arguitur quod vestigium non sit in omni creatura dicit enim <name>ambrosius</name> in hexamero quod lucis natura non 
+          <lb ed="#B"/>est in pondere numerum et mensuram
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Item <unclear>bernardus</unclear> in libro de videndo deum <pc type="punctus"/> est modus sine modo diligere 
+          <lb ed="#B"/>deum potissimum creatum quid est caritas non habet modum igitur nec vestigium
+        </p>
+        <p>
+          <pc type="punctus"/> Item cum modus species 
+          <lb ed="#B"/>et ordo sint creata <pc type="punctus"/> modi erit modus <unclear>s?</unclear> et ordo <pc type="virgula">/</pc> et <unclear>s?ei</unclear> erunt modus sub <unclear>or</unclear> et hoc ibit in 
+          <lb ed="#B"/>infinitum
+        </p>
+        <p>
+          <pc type="virgula">/</pc> In oppositum arguitur dicit enim <name>beatus augustinus</name> de civitate dei 14 deus super omnia sua significationis suae <unclear>indu?a</unclear> 
+          <lb ed="#B"/>iudicium autem significationis signum est igitur vestigium dei est in omni creatura
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Item idem in libro de nam boni 
+          <lb ed="#B"/>dicit quod ubi hoc tam magna sunt magnum bonum est ubi parva parvum ubi nulla nullum 
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Item philosophus primo de 
+          <lb ed="#B"/>caelo et mundo hoc numero utitur ad <unclear>sanctiones</unclear> deorum scilicet ternarii propter hoc quod hunc numerum rep<lb ed="#B"/>perit 
+          in creaturis
+        </p>
+        <p>
+          <pc type="pilcrow"/> Pro aliquali declaratione praesentis materiae de vestigio est notandum quod omnis causa 
+          <lb ed="#B"/>activa per se est sibi similis <pc type="virgula">/</pc> et potentia passiva est dissimilis agere enim est diffusio ipsius agentis 
+          <lb ed="#B"/>aut diffundere se secundum principium formale quid est principium agendi <unclear>eamdem</unclear> modum lux agit de <unclear>fel?</unclear> 
+          <lb ed="#B"/><unclear>li</unclear> in perspicuum <pc type="virgula">/</pc> per quid lumen perspicuum sit actu et sit <unclear>proprie</unclear> luci
+        </p>
+        <p>
+          Similiter est in aliis propter 
+          <lb ed="#B"/>quid necesse est quod effectum per se sit similis efficienti <pc type="virgula">/</pc> secundum tamen plus et minus secundum capacitatem eius hinc 
+          <lb ed="#B"/>velit ille sermo quod agens agit ut assimilet sibi passum et si non secundum totum unitatum tamen secundum par<lb ed="#B"/>tem 
+          aut secundum analogiam <pc type="virgula">/</pc> secundum quod effectus est particeps
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Istam propositionem probat philosophus 7 primae philosophiae
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Principium 3 [Brussels Transcription]</title>
+        <author>Lambertus de Monte</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Principium 3 [Brussels Transcription]</title>
+          <date when="2023-11-20">November 20, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="bruss760">Brüssel, Koninklijke Bibliotheek van België, ms. 760
+            (1715)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-11-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="145-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gU87nn-d1e1457">
+        <head xml:id="gU87nn-d1e1457-Hd1e88">Principium 3</head>
+        <!-- principium 3 -->
+        <p xml:id="gU87nn-d1e1457-d1e92"><quote xml:id="gU87nn-d1e1457-Qd1e93">Mons Dei, mons pinguis</quote> Psalmus 67. Quemadmodum nostrum est reverendi patres, etc.
+          secundum Beatum Dionsyium <quote xml:id="gU87nn-d1e1457-Qd1e95">non aliter nobis lucere divinum radium possibile est, nisi
+          varietate sacrorum velaminum anagogice circumvelatum</quote> in invisibilem declarationem
+          immarcescibilis divinae sapientiae libro Sententiarum Magistri Petri Lombardi contentae
+          sub formis visibilis utrumque coram vestris dignis conspectibus intelligibilem montem,
+          constitui montem magnum et excessum valde in cuius vertice manat fons indeficiens lumen
+          paternum pullulans suavissimi odoris, flores imarcescibiles quorum amoenitatem
+          iocunditatemque in I Sententiarum suarum nobis proposuit veluti bonum summum. Venerabilis
+          antistes Parisiorum Magister Petrus Lombardus declinia cuius amoena et speciosa nimis
+          creata varia pulchre perornata depingunt in Sententiarum suarum libro secundo.</p>
+        <p xml:id="gU87nn-d1e1457-d1e98">Nunc vero ubi venit plenitudo temporis in suo tertio huius sacri montis fundamentum
+          firmum ut petram ponit <quote xml:id="gU87nn-d1e1457-Qd1e100">praeter quod aliud nemo ponere potest</quote>. Verbum caro factum
+          Christum Iesum salvatorem nostram super quem <quote xml:id="gU87nn-d1e1457-Qd1e102">caeli melliflui facti sunt</quote>, <quote xml:id="gU87nn-d1e1457-Qd1e104">rupti sunt
+          omnes fontes abyssi magi, cataractae caeli apertae sunt, et facta est immense nimia pluvia
+          super terram</quote> et inextinguibilis flammae divinae ardoris veluti fracto camino pietatis
+          inundaverunt aquae caritatis viscare se effunderunt, sicut torrens in austro, unde
+          scriptum est Ecclesiasticus 24, "ego sapientia effudi flumina, ego quasi trames aquae
+          immensae," et "dixi rigabo hortum meum plantationum et inebriabo [pratus] mei fructum, et
+          ecce factus est mihi trames abundans," quoniam vidimus eum plenum gratia et veritate, de
+          cuius plenitudine omnes accepimus, haec sunt vaticinia prophetarum mirabilia, divinae
+          sapientiae secretissima abscondita ab aeterno, haec sunt desideria patrum, fide sincera
+          clamantium, "usquequo domine?" usquequo "utinam dirumperes caelos et descenderes?"
+          usquequo "usque ad montem Dei Horeb?" quod mensa, interpretationem cuius, panis vere nos
+          reficit interius et exterius, <ref xml:id="gU87nn-d1e1457-Rd1e112">Ioannes 10</ref> <quote xml:id="gU87nn-d1e1457-Qd1e114">ingredietur et egredietur et pascua inveniet</quote>.
+          Eius pinguedo vulnera nostra sanat eius virtus nos reparat, eius dulcedo nos faciat eius
+          pulchritudo nos delectat, eius copia nos ditat. In ipso enim sunt omnes thesauri scientiae
+          et sapientiae Dei absconditi.</p>
+        <p xml:id="gU87nn-d1e1457-d1e107">Iste est mons praeparatus in novissimis diebus domus domini super verticem montium. Iste
+          est lapis excisus sine manibus qui factus est mons magnus et implevit universam terram.
+          Haec est vere divina sapientia, imago dei patris, sancta et benedicta, creatrix, et
+          repara[f. 145v]trix, quam nobis insinuat figuris sensibilibus eximius prophetarum David
+          verbis propositis mons dei mons pinguis quem nobis in suo III Sententiarum, venerabilis
+          Parisiorum antistes Magister Petrus Lombardus, sed de firma deum et hominem praedicat
+          natum de Spiritu Sancto ex Maria Virgine "propter nimiam caritatem qua dilexit nos" passum
+          mortuum et sepultum, qui tertia die surrexit a mortuis, ut nos consepulti cum illo per
+          baptismum in mortem quomodo surrexit ipse a mortuis per gloriam patris liberati a peccato
+          servi facti iustitiae vivamus in Christo Iesu domino nostro, hic per gratiam, et in futuro
+          per gloriam, amen.</p>
+        <div xml:id="gU87nn-d1e1457-Dd1e110">
+          <head xml:id="gU87nn-d1e1457-Hd1e112">Quaestio</head>
+
+          <p xml:id="gU87nn-d1e1457-d1e114">Utrum Dei montis pinguedo, potius sapientia aut misericordia, nostram regionem
+            incrassaverit.</p>
+          <p xml:id="gU87nn-d1e1457-d1e116">Et arguitur quod sapientia in <ref xml:id="gU87nn-d1e1457-Rd1e131">Psalmo</ref> <quote xml:id="gU87nn-d1e1457-Qd1e133">quam magnificata sicut opera tua Domine, omnia in
+            sapientia fecisti; impleta est terra possessione tua</quote> per incarnationem, ut Deus sit
+            homo, et homo Deus, ergo pinguedo montis Dei, potius sapientia, emanavit in regionem
+            nostram. Et per consequens, Deus incarnatus fuisset, etiamsi miseria aut peccatum non
+            fuisset.</p>
+          <p xml:id="gU87nn-d1e1457-d1e118">In contrarium, arguitur per illud Psalmi "prospexit de excelso sanctuario suo, Domino
+            de caelo in terram aspexit, ut audiret gemitus compeditorum, ut solveret filios
+            interemptorum." Ergo venit ut salvator, hoc autem misericordiae est, misericordia enim
+            miseriorum et peccatorum est. Unde videtur, si non fuisset miseri et peccatores, Deus
+            non venisset incarnationem, ergo Dei montis pinguedo, potius misericordia, in nostram
+            stillavit regionem.</p>
+          <p xml:id="gU87nn-d1e1457-d1e120">Pro responsionem ad propositam quaestionem, sit haec propositio fundamentalis: ratio
+            ordinabilitatis et reductionis creaturae rationabilis in finem ultimum est prior
+            secundum intellectum quam ratio restaurationis et salvationis deficientis et lapsi in
+            eundem finem.</p>
+          <p xml:id="gU87nn-d1e1457-d1e123">Ista propositio probatur sic. Quoniam ratio restaurationis in finem in suo intellectu
+            praesupponit rationem casus et defectus sive deordinationis a fine, sed defectus et
+            casus a fine supponit ordinabilitatem sive rationem ordinis in finem. Quoniam privatio
+            cognoscitur per habitum, nec esset defectus neque peccatum, nisi quia contra finem et a
+            fine, sicut arguit Philosophus II Physicorum, probans per hoc quod natura agit propter
+            finem. Quoniam monstrata sit, ergo ratio restaurationis et salvationis in finem est
+            posterior ratione ordinabilitatis in finem eundem.</p>
+          <p xml:id="gU87nn-d1e1457-d1e125">Ex quo sequitur quod ablata ratione restaurationis et salvationis in finem, remanet
+            ratio ordinis in eundum finem. Unde manifeste accipitur quod, licet utrumque sapientiae
+            sit, scilicet reducere humanam naturam in suum finem et lapsam restituere in eundem
+            finem, prius tamen est et post, secundum ordinem intelligentiae, ipsam ordinare in finem
+            quam lapsam restaurare in eundem. Cum igitur incarnatio Verbi Dei, sive assumptio
+            naturae humanae, sit summum bonum et maximus finis eius, sequitur quod ablata
+            restauratione naturae lapsae, ita quod non fuisset lapsa ab ordine in finem, manet
+            ordinabilitas eius in eundem, qui est assumptio eius ad esse divinum sive incarnatio.
+            Hoc autem est opus sapientiae pinguedo, igitur montis Dei, ut videtur potius sapientia,
+            emanavit in regionem nostram.</p>
+          <p xml:id="gU87nn-d1e1457-d1e127">Ex his sequitur: videtur quod si Adam non peccasset adhuc Dei Verbum incarnatum
+            fuisset. Ad hoc, etiam possunt adduci rationes ex parte bonitatis et potentiae quas
+            dimitto.</p>
+        </div>
+        <div xml:id="gU87nn-d1e1457-Dd1e130">
+          <head xml:id="gU87nn-d1e1457-Hd1e132">Primum corollarium</head>
+          <head xml:id="gU87nn-d1e1457-Hd1e134" type="question-title">Quod natura rationalis non potest venire in suum finem
+            ultimum</head>
+          <p xml:id="gU87nn-d1e1457-d1e137">Ex istis infero collative et probabiliter, licet natura rationalis potest intelligere
+            [f. 146r] substantias separatas, non tamen per intellectum venire potest in suum finem
+            ultimum.</p>
+          <p xml:id="gU87nn-d1e1457-d1e139">Secunda pars patet quoniam ultimus finis est assumptio naturae humanae in divinum esse
+            per incarnationem, quae est similiter omnem creatam potestatem, sed est opus Spiritus
+            Sancti, sicut dicit Iohannes Damascenus, qui separavit purissimos sanguines Virginis
+            Gloriosae in formationem corpus Christi.</p>
+          <p xml:id="gU87nn-d1e1457-d1e141">Primam partem pono sicut alias posui contra magistrum meum, reverendum Magister
+            Iudocum, etc., qui in suo principio alias oppositum posuit, ad hoc multas adducens
+            rationes et rationes pro meo corollario adductas conatus est solvere.</p>
+          <div xml:id="gU87nn-d1e1457-Dd1e144">
+            <head xml:id="gU87nn-d1e1457-Hd1e146">Divisio quaestionis</head>
+
+            <p xml:id="gU87nn-d1e1457-d1e148">[1] Unde primo ostendam rationes meas minus solutas, [2] et deinde ad rationes suas
+              ostendo eas fore solutas et responsiones suas minus sufficientes.</p>
+          </div>
+          <div xml:id="gU87nn-d1e1457-Dd1e151">
+            <head xml:id="gU87nn-d1e1457-Hd1e153">Prima pars</head>
+
+            <p xml:id="gU87nn-d1e1457-d1e155">Primo supposui pro probatione quod intellectus adeptus est possibilis, etc.</p>
+            <p xml:id="gU87nn-d1e1457-d1e157">Negavit suppositionem, quia ex ipsa sequuntur inconvenenientia, sicut quod
+              intellectus plura simul intelligeret. Item repugnat plures species esse simul in
+              eodem.</p>
+            <p xml:id="gU87nn-d1e1457-d1e159">Ad quem respondi ostendendo nullum inconveniens sequi ex suppositione. Unde magister
+              meus admittit eam, quamquam videtur difficile propter multas miserias ex parte
+              corporis. Regratior, etc.</p>
+            <p xml:id="gU87nn-d1e1457-d1e161">Deinde arguebam sic: intellectus immediate ordine rerum universi est sub
+              intelligentiis, etc.</p>
+            <p xml:id="gU87nn-d1e1457-d1e164">Respondit negando secundam partem antecedentis: quod intellectus sit adeptus etc., et
+              tacuit primam partem, et ita, mihi apparet, concedit ordinem, etc.</p>
+            <p xml:id="gU87nn-d1e1457-d1e166">Et tum probavi quod sit sufficienter dispositus, quia species naturae sunt
+              similitudines intelligentiarum, sunt enim intelligentiae plenae formis rerum
+              naturalium.</p>
+            <p xml:id="gU87nn-d1e1457-d1e168">Respondit quod non sufficit, quia omnes species naturae sunt deficientes, etc.</p>
+            <p xml:id="gU87nn-d1e1457-d1e170">Contra hoc argui: si istud impediret, angelus inferior non possit intelligere
+              superiorem, etc.</p>
+            <p xml:id="gU87nn-d1e1457-d1e172">Respondet quod angelus inferior habet propriam speciem angeli superioris innatam,
+              sicut et omnium quae naturaliter cognoscit. Non autem anima humana habet innatam, nec
+              acquirere potest, ut ostensum est, quia non convenit in eodem modo essendi cum
+              substantiis separatis, quem habet esse separatum. Anima vero habet esse corpori
+              coniunctum, nec per adeptionem illarum scientiarum accipit esse separatum vel
+              abstractum ad recipiendum de novo speciem superiorum, sed potius per abstinentiam et
+              bonam vitam qua homo sit abstractus a sensibilibus et idoneus ad recipiendum
+              revelationes a superioribus.</p>
+            <p xml:id="gU87nn-d1e1457-d1e174">Cum reverentia, sicut vos dicitis quod species rerum naturalium, quibus
+              intelligentiae plenae sunt, deficiunt ab intelligentiis nec adaequant, ita species
+              angelorum superiorum deficiunt in angelo inferiori a natura angelorum quorum sunt
+              species, nec possunt adaequare veritatem superiorem quoniam, secundum Boetium, <quote xml:id="gU87nn-d1e1457-Qd1e215">omne
+              receptum recipitur secundum naturam recipientis</quote>, ergo angelus inferior secundum quod
+              deficit a superiori, recipit speciem superioris secundum quod deficit, et sic species
+              secundum quod est in inferiori deficit a natura superiori cuius est species. Non enim
+              species primi angeli est aequae perfecte in omnibus angelis. Nec aliter deficiunt
+              species rerum naturalium et formarum quibus intelligentiae plenae, sicut in intellectu
+              nostro, nisi quia recipiuntur in intelligentia inferiori. Et hoc amplius ostendam
+              infra.</p>
+            <p xml:id="gU87nn-d1e1457-d1e177">Si ergo huiusmodi defectus impedit etc., sicut arguebam, angelus inferior non potest
+              intelligere superiorem adhuc per speciem suam quia deficit nec adaequat hoc. Igitur
+              non impedit quin intellectus est dispositus, etc.</p>
+            <p xml:id="gU87nn-d1e1457-d1e179">Adhuc magister meus addit de novo alias rationes quare intellectus adeptus non est
+              dispositus etc.</p>
+            <p xml:id="gU87nn-d1e1457-d1e181">Prima quia per habitus acquisitos non disponitur intellectus, nisi ad consimiles
+              actus ex quibus habitus causantur, et sic solum disponitur ad intelligendum sensibilia
+              a quibus per abstractionem intellectus agentis habitus acquisiti sunt.</p>
+            <p xml:id="gU87nn-d1e1457-d1e183">Cum reverentia, nego assumptum. Si intelligitur omnino consimiles actus, verum
+              disponitur ad illos actus consimiles [f. 146v] et etiam ad receptionem superiorum,
+              quoniam actus activorum fiunt in patiente et disposito. Sic enim est in omnibus
+              ordinatis in eodem quod inferius disponit ad medium, [medium disponit] ad supremum;
+              via enim generationis, ultima sunt perfectiora.</p>
+            <p xml:id="gU87nn-d1e1457-d1e185">Praeterea, sensibilia non movent intellectum secundum esse quod habet in materia, sed
+              secundum quod sicut in lumine intelligentiarum, et ideo disponunt intellectum ad
+              receptionem illarum. Non plus dico ibi, quia non probatis antecedens verum.</p>
+            <p xml:id="gU87nn-d1e1457-d1e187">Secundo arguit sic: intellectus non disponitur proxime ad intelligendum quidditatem
+              rei, nisi per similitudinem quae est species rei intelligendae, cum omnis cognitio
+              fiat per assimilationem. Sed intellectus pro statu huius vitae, nec etiam sic adeptus,
+              haberet speciem substantiae separatae, sed solum habitus et species huius mundi
+              inferioris.</p>
+            <p xml:id="gU87nn-d1e1457-d1e190">Nego minorem, vel saltem potest habere, et hoc est principale propositum probandum
+              per ipsum, et sic, cum reverentia, petit principium.</p>
+            <p xml:id="gU87nn-d1e1457-d1e192">Etiam statim fortasse magister meus inquirit quomodo intellectus per suam adeptionem
+              habet speciem sive intentionem intelligentiarum.</p>
+            <p xml:id="gU87nn-d1e1457-d1e194">Respondeo gratia collationis quod in intelligibili in actu sunt duo. Unum est movens
+              universale et actuans in esse intelligibilis, et hoc est lumen intellectus agentis.
+              Secundum est distinguens et determinans lumen ipsum, et hoc est propria natura et
+              species intelligibilis. Ex istis duobus constituitur movens intellectum possibilem. Ex
+              quo autem intelligibile coniungitur intellectui possibili ut forma, in intellectu
+              adepto lumen intellectus agentis secundum totam potestatem suam est coniunctum
+              possibili, quia ipsum est ratio coniunctionis intelligibilis cum possibili. Unde
+              necesse esse quod possibilis, aut potius anima, per ipsum intelligat perfecte
+              intellectum agentem qui non est nisi lumen substantialiter et essentialiter, quod quia
+              emanat ab ipsa anima rationali secundum quod immediate a principio creata est. Hoc est
+              secundum formale ipsius animae vel quo est ipsius, quod potest dici
+              'intellectualitas,' quemadmodum propria passio per illud lumen respondit supra suam
+              essentiam, sicut omnis passio propria naturaliter ducit in suam causam propriam et
+              proximam, sicut risibile ducit naturaliter in rationale unde fluit. Hoc est quod dicit
+              15 propositio Libri causarum: "omnis sciens qui scit essentiam suam est rediens ad
+              essentiam suam reditione completa." Et propter eandem causam, intellectus intelligens
+              alia, intelligit se, ut dicit <ref xml:id="gU87nn-d1e1457-Rd1e196">Philosophus III De anima</ref>. Ita per intellectum adeptum,
+              anima adipiscitur seipsam et essentiam suam, et intellectus possibilis adipiscitur
+              intellectum agentem.</p>
+            <p xml:id="gU87nn-d1e1457-d1e199">Sed pro altero intelligibili in actu, est notandum quod sicut forma materialis ambit
+              et illuminat materiam in qua est et totum quod in materia est, et participatur
+              proportionaliter unicuique parti materiae, ita forma mundi, scilicet intelligentia,
+              ambit et illuminat totam materiam orbis sibi subiecti et unicuique lumen suum
+              proportionaliter participatur. Verum, differentia est in hoc quod anima est actus
+              corporis et partes eius sunt actus partium corporis et intelligentia separata, sed in
+              hoc est simile et sufficit ad propositum, quod intelligentia per substantiam
+              [separatam] lumen suum diffundit iugiter per totum ordinem sibi subiectum, sicut anima
+              per corpus suum. Et hoc dicit Divinus Dionysius quod lumen naturae extendit se per
+              omnem naturae ultimum, et sic est in intellectu intellectualiter, in anima animaliter,
+              et in corpore corporaliter, sed propria unicuique analogiam. Intellectus igitur
+              adeptus extendens se per formas et species rerum et inveniens lumen intelligentiae
+              ubique, quoniam species et formae quae sunt participationes luminis intelligentiae,
+              intellectus sic adeptus informatur et inbuitur illo lumine et clarificatur ad
+              pulcritudinem caelestem.</p>
+            <p xml:id="gU87nn-d1e1457-d1e201">Cum igitur huiusmodi lumen sit emanatio a substantia intelligentiae, sicut lumen
+              intellectus agentis vel intellectus agens, [f. 147r] quod idem est, est emanatio a
+              substantia animae, similiter sicut lumen solis a luce eius. Quemadmodum lumen solis,
+              aut lumen intellectus agentis, ducit in lucem solis et coniungit potentiam visus illi,
+              similiter lumen intelligentiae, quo informatur intellectus noster, ducit in
+              intelligentiam et coniungitur ei. Immo amplius ducit in suum fontem quam propria
+              passio in suum subiectum, quoniam lumen et lux minus distant quam passio et subiectum.
+              Sicut igitur intelligitur subiectum per essentiam, licet ad hoc non devenimus per
+              passionem et ad passionem per actus proprios, sic intelligentia intelligi potest per
+              essentiam suam, licet mediante lumine suo ex passo in totum mundum suum ad hoc
+              deveniatur. Similiter omnia principia scientiarum sunt per se intelligibilia et per se
+              intelliguntur, sed devenimus ad illa mediantibus sensibus, hoc enim accidit
+              intelligibili. Et sic patet modus quomodo intellectus per suam adeptionem
+              proficiscitur ad intelligentiam et coniungitur ei, et fit intellectus assimilatus et
+              demum divinus.</p>
+            <p xml:id="gU87nn-d1e1457-d1e203">Ad tertiam rationem, omnis species intelligibilis, qua intelligitur substantia et
+              quidditas rei, comprehendit in repraesentando illam rem, et inde diffinitio indicans
+              'quid est' esse dicitur terminus, sed nulla scientia est docens 'quid est' de
+              substantiis separatis. Ergo, per habitus scientificos de rebus mundi inferioris, non
+              adipiscitur speciem intelligibilem substantiarum separatarum.</p>
+            <p xml:id="gU87nn-d1e1457-d1e206">Ista ratio multa assumit, sed non probat. Primo nego antecedens probatae. Proprie
+              loquendo de comprehendere prout est rei terminos perfecte circuire per intellectum,
+              sicut oculus videt infinitum pelagus per speciem eius et tamen non comprehendet
+              terminos eius. Similiter in patria, beati per speciem deitatis vident divinam
+              essentiam, et tamen non comprehenditur. Sic, dico quod intelligentia nostra non
+              comprehendit intelligentiam superiorem perfecte per speciem eius, immo nulla inferior
+              [comprehendit] superiorem.</p>
+          </div>
+          <div xml:id="gU87nn-d1e1457-Dd1e209">
+            <head xml:id="gU87nn-d1e1457-Hd1e211">Secunda pars</head>
+
+            <p xml:id="gU87nn-d1e1457-d1e213">Deinde, ostendendo rationes magistri etc. alias fore solutas et quod evasio sua, cum
+              reverentia, nullatur.</p>
+            <div xml:id="gU87nn-d1e1457-Dd1e215">
+              <head xml:id="gU87nn-d1e1457-Hd1e217">Primum fundamentum</head>
+
+              <p xml:id="gU87nn-d1e1457-d1e219">Ad probationem, primo, anima est unita corpori.</p>
+              <p xml:id="gU87nn-d1e1457-d1e221">Concessi antecedens, et negavi consequentiam: 'ergo est nexus et conversio
+                intellectus necessarius ad sensum,' quia intellectus non fluit ab anima, ut est
+                endelechia corporis, quoniam potentia immaterialis immixta.</p>
+              <p xml:id="gU87nn-d1e1457-d1e223">Probat consequentiam quia: modus agendi subicitur modum essendi. (Hoc est verum).
+                Et ergo cum intellectus noster est separatus, etc., sequitur modus agendi immixtus,
+                etc. (Quod est propositum meum.) Et cum subiungitur naturalis nexus animae cum
+                corpore est propter naturalem nexum potentiarum. (Cum reverentia, deberet sic
+                'subsumere'.) Sed modus essendi intellectus est esse coniunctum corpori, et tunc
+                bene sequitur: ergo modus agendi eius est secundum nexum ad corpus, et tunc secunda
+                est falsa.</p>
+              <p xml:id="gU87nn-d1e1457-d1e225">Dico tamen quod naturalis nexus potentiarum non est in esse, sicut magister meus
+                videtur praetendere, sed in subiecto secundum diversum modum essendi, quia aliquae
+                sunt connexae in anima secundum quod est actus corporis, sed intellectus non, quia
+                separatus, etc. Et nego ordinem originis inter potentias superiores et inferiores,
+                quia una non fluit mediante alia. Nec hoc probavit magister meus.</p>
+              <p xml:id="gU87nn-d1e1457-d1e228">Ad secundam probationem: propter peccatum, vires sunt deordinatae. concessi
+                  <supplied>antecedens</supplied>, et negavi consequentiam: 'ergo non potest
+                intellectus intelligere sine fantasmate,' quia peccatum non destituit opera
+                naturalia, inter quae, intelligere substantias separatas est maxime naturale, quia
+                materialia intelligit, ut intelligat immaterialia et separata.</p>
+              <p xml:id="gU87nn-d1e1457-d1e233">Et cum probat consequentiam pro magistro, qui dicit quod homo per peccatum laesus
+                est in naturalibus et spoliatus in gratuitis, etc., concedo, sed non dicit quod homo
+                fuerit descitus a naturalibus.</p>
+              <p xml:id="gU87nn-d1e1457-d1e235">Deinde quaerit unde est quod dicit propheta "omnis homo mendax," et unde est
+                "rebellio carnis ad spiritum," unde "tantum deflent [f. 147v] sancti viri, ut non
+                faciant quem velint."</p>
+              <p xml:id="gU87nn-d1e1457-d1e237">Ad primum dico quod non est mendax quia intelligit cum fantasmatibus, et ergo, cum
+                reverentia, quaestio non est ad propositum</p>
+              <p xml:id="gU87nn-d1e1457-d1e239">Tamen dico quod est mendax quia in via est lubrica et praecipiti, et hoc ex
+                peccato. Unde dicit Boethius "heu quam praecipiti mersa profundo mens habet, et
+                propria luce relicta tendit in externis terrenis, quo talis flatibus [aucta] crescit
+                in immensum noxia cura" etc. Et hoc est etiam pro aliis.</p>
+              <p xml:id="gU87nn-d1e1457-d1e241">Deinde ostendi quod non bene allegavit: Philosophus III De anima, "quemcumque
+                intelligentem necesse est" etc, quia Philosophus, ibidem docens quomodo intellectus
+                intelligit mathematica, dicit de separatis, "utrum autem contingit aliquod
+                separatorum intelligere posterius considerandum." Ex quo patet quod Philosophus non
+                loquitur ibi ad propositum. Et ideo concessi Philosophus ipse concedit, sed dicit
+                quod in Metaphysicis determinat tantum quia est. Cum igitur sermo accipiendus est
+                secundum materiam subiectam, ut Philosophus voluit I Ethicorum, non potest ergo
+                intelligi sermo Philosophi, "quemcumque", etc., de separatis, sed tantum de
+                naturalibus et mathematicis et sic est verus sermo Philosophi, et praecipue cum
+                removet a consideratione sua substantias separatas. Quod autem dicit quod determinat
+                in Metaphysica tantum quia est de separatis, salva sua reverentia.</p>
+              <p xml:id="gU87nn-d1e1457-d1e244">Et quia dixi in respondendo quod in acceptatione scientiae, "necesse est
+                phantasmata speculari," sed ipsa habita, intellectus non amplius eget
+                phantasmatibus.</p>
+              <p xml:id="gU87nn-d1e1457-d1e246">Contra hoc arguit sic: habitus inclinant ad actus similes, cum igitur scientiae
+                acquiruntur ex actibus ad phantasmata dependentibus, sequitur quod habitus
+                scientiarum declinant ad actus ad phantasmata dependens.</p>
+              <p xml:id="gU87nn-d1e1457-d1e248">Nego secundam partem, quoniam habitus scientiarum acquiruntur immediate ex actibus
+                principiorum secundum esse cogniti ut stant supra effectum, sicut dicit Philosophus
+                "scire est causam rei cognoscere," etc. Et hoc non dependet a phantasmatibus, licet
+                ad acceptationem principiorum requiruntur phantasmata, sicut gladius ad
+                acceptationem formae suae requirit malleum et ignem, sed postquam constitutus est
+                bene scindit absque illis. Similiter puer in acceptione esse dependet a parentibus,
+                etc., sed post acceptionem non est necesse, etc.</p>
+            </div>
+            <div xml:id="gU87nn-d1e1457-Dd1e251">
+              <head xml:id="gU87nn-d1e1457-Hd1e253">Secundum fundamentum</head>
+
+
+              <p xml:id="gU87nn-d1e1457-d1e255">Secundum fundamentum fuit aequalitas intellectus possibilis et agentis, quod
+                probavit, quia in eadem natura, scilicet, anima rationali, et sic potentia activa
+                non excedit passiva, nec econtra, sed intellectus agens nihil agit circa substantias
+                separatas faciendo eas intelligibiles, ergo nec possibilis est passivus ab eis.</p>
+              <p xml:id="gU87nn-d1e1457-d1e257">Concessi minorem, sed negavi maiorem. Dicendo duplicia intelligibilia, ut voluit
+                Philosophus, scilicet, potentia intelligibilia et actu intelligibilia, ut autem
+                potentia intelligibilia fiant actu intelligibilia ponitur intellectus agens et
+                faciens de potentia actu intelligibilia, quibus actuatur et disponitur possibilis ad
+                intelligendum superiora se. Actus enim activorum fiunt in patiente et disposito, et
+                ita propter unam partem obiecti ponitur intellectus agens, quia non omne
+                intelligibile actu est intelligibile in natura extra intellectum. Si enim in natura
+                extra omnes [intellectus] esset intelligibile actu, non esset necesse ponere
+                intellectum agentem, sicut nec Philosophus ponit sensum agentem, sed tantum
+                potentiam passivam, et ideo non est aequalitas possibilis et agentis.</p>
+              <p xml:id="gU87nn-d1e1457-d1e259">Arguit contra, quia secundum Philosophum "agens intellectus est omnia facere, et
+                intellectus possibilis omnia fieri," ergo potentiae illae sunt aequales.</p>
+              <p xml:id="gU87nn-d1e1457-d1e261">Si hoc absolute intelligatur, clarum est quod non est verum, quia possibilis sit
+                agens, et tamen agens non facit se. Similiter possibilis est capax dei, et tamen
+                agens non facit deum intelligibilem actu de potentia. Est igitur omnia facere actu
+                intelligibilia, quae sunt potentia intelligibilia, [f. 148r] immo per respectum ad
+                superiora magis confortatur et illuminatur, sicut minus lumen ad maius lumen. Et sic
+                manifestum est quod non est aequalitas.</p>
+            </div>
+            <div xml:id="gU87nn-d1e1457-Dd1e264">
+              <head xml:id="gU87nn-d1e1457-Hd1e266">Tertium Fundamentum</head>
+              <p xml:id="gU87nn-d1e1457-d1e268">Ad tertium fundamentum: proportio est cognoscentis et cogitati, sed hoc est res
+                materialis, ergo obiectum cognoscibile erit quidditas materialis. Ad probationem
+                consequentiae adducit Boethium et Dionysium.</p>
+              <p xml:id="gU87nn-d1e1457-d1e270">Negavi consequentiam, immo ostendi, quod ex illo assumpto nec sequitur quod homo
+                intelligit quidditatem materialem, nec quodcumque intelligibile aliud, quoniam homo
+                inquantum res materialis nihil intelligit aut cognoscit, quia materia est per se non
+                intelligibilis, ut dicit Philosophus VII Primae philosophiae, et magis non
+                cognoscitiva, et maxime non intellectiva. Ab omnibus enim dicitur intellectivum,
+                quia separatum a materia, et propter hoc intellectivum distinguitur a materiali et
+                dividitur. Unde manifestum est quod homo in eo quod res materialis nullam habet
+                proportionem ad quodcumque intelligibile, quia, ut sic, non est intellectus. Et
+                dato, per impossibile, quod homo, inquantum materialis est, esset intellectivus, non
+                sequitur ex hoc quod intelligeret quidditatem materialem, quoniam quidditas rei
+                materialis est distincta realiter ab eo cuius est quidditas, scilicet, a composito
+                materiali, sicut vult <ref xml:id="gU87nn-d1e1457-Rd1e272">Philosophus VIII Primae philosophiae</ref> ubi dicit quod <quote xml:id="gU87nn-d1e1457-Qd1e274">ba
+                syllaba nec est b nec a, nec a et b simul, sed tertium additum eis</quote>, et ergo non
+                dicitur quidditas materialis, quia componitur ex materia et forma, sed dicitur
+                materiali quia inest composito ex materia et forma et participatur ab ipso, sicut
+                dicit Philosophus in VII Metaphysicae, sed bene sequitur quod obiectum eius esset
+                compositum materiale.</p>
+              <p xml:id="gU87nn-d1e1457-d1e277">Apparet quod magister meus concedit rationem meam, sed dicit quod minus capio
+                intentionem eius: non intelligit quod materia dat vim cognoscendi, sed ex materiali
+                compositione hominis vult arguere. Dicit contractionem cognitionis et intellectus
+                hominis, et ita ex materia vult arguere impedimentum cognoscendi. Et per hoc probare
+                quod homo non potest intelligere substantias separatas, quia forma dicit quanto
+                minus concreta materiae, tanto magis cognitiva, et quanto magis concreta materiae,
+                tanto minus cognitiva.</p>
+              <p xml:id="gU87nn-d1e1457-d1e279">Cum reverentia magistri mei, quoniam, ut concedit, intellectus est separatus,
+                immaterialis, etc., et per consequens non contrahitur per materiale, nec fit minus
+                nec fit magis, est enim implicatio in terminis quod immateriale et separatum et
+                immixtum sit materiale per contractionem, coniunctum, et mixtum materiae. Cum igitur
+                modus agendi sequitur modum essendi, modus intelligendi intellectus erit
+                immaterialis, et immixtus, et separatus.</p>
+              <p xml:id="gU87nn-d1e1457-d1e282">Haec sunt pauca in conspectu, etc.</p>
+            </div>
+          </div>
+        </div>
+        <div xml:id="gU87nn-d1e1457-Dd1e287">
+          <head xml:id="gU87nn-d1e1457-Hd1e289">Secundum corrollarium</head>
+          <head xml:id="gU87nn-d1e1457-Hd1e291" type="question-title">Quod creatura manet creata per incarnationem</head>
+          <p xml:id="gU87nn-d1e1457-d1e294">Sequitur ex praedictis, et praecipue ex responsione ad quaesitum, cum reductio humanae
+            naturae in suum finem ultimum sic secundum sapientiam, ipsa natura in reductione sua in
+            suum finem, quae est per incarnationem, non destruitur sed manet creatura sive creata,
+            sicut etiam dicit doctrina sanctorum. Sed creatura est creatura per hoc quod participat
+            esse a primo quod est primum creatum primi ut dicit quarta propositio Libri
+            causarum.</p>
+          <p xml:id="gU87nn-d1e1457-d1e296">Oportet ergo quod in assumptione humanae naturae aliquo modo maneat esse quo dicatur
+            creata vel aliter non erit creata sive creatura, quod si distinguitur realiter a natura
+            humana sive ab essentia humana, in Christo erunt tres naturae, scilicet humana, et
+            divina, et esse primum creatum primi, et tres substantiae, anima, et corpus, et verbum,
+            vel si esse non sit natura, erit substantia, et sic erunt quattuor substantiae in
+            Christo. Quocumque modorum dicatur, erit contra doctrinam sanctorum. Ergo, per
+            oppositum, esse quo natura humana est creata est idem realiter cum ea. Esse ergo
+            existentiae quod per creationem accipitur non distinguitur realiter ab essentia.</p>
+          <p xml:id="gU87nn-d1e1457-d1e298">Item, Christus est vere natus de virgine, ergo aliquod esse accepit de virgine cum
+            generatio sit ad esse. Non accepit esse divinum a virgine, nec esse essentiae, quia hoc
+            est innaturale, ut dicit magister meus. Ergo accepit esse existentiae, sine quo, etiam
+            natura non est completa [f. 148v] in suo proprio genere. Verbum autem assumpsit naturam
+            completam in suo genere, quia in atomo, ut dicit Damascenus, et hoc esse non
+            distinguitur realiter a natura, aut sequitur inconveniens, ut prius.</p>
+          <p xml:id="gU87nn-d1e1457-d1e301">Cuius oppositum posuit in suis principiis, magister et dominus meus reverendus actu
+            legens, etc.</p>
+          <p xml:id="gU87nn-d1e1457-d1e303">Et praeter rationes quas adduxerat in primo suo principio. In secundo addidit alias.
+            Deinde conatus est ostendere solutiones ad rationes suas esse invalidas. Sed de
+            rationibus meis pro meo corollario inductis, dicit quod solvit eas in primo suo
+            principio, licet ostenderim in secundo meo principio quod una pars solutionum suarum
+            continet manifeste intentum meum, et alia pars earumdem continet impossibilia.</p>
+          <p xml:id="gU87nn-d1e1457-d1e305">Ad primam rationem suam, quando sic arguit probando corollarium suum: quandocumque
+            aliqua realia sic se habent quod unum est de primo modo dicendi 'per se' alicuius et
+            aliud non, distinguitur realiter in creaturis. Hoc patet ex distinctione praedictorum
+            quorum essentiae sunt impermixtae, sed quaelibet essentia sive quidditas in primo modo
+            dicendi 'per se' includitur in intellectu et quidditate eius, cuius est et non ipsum
+            esse, ergo esse et essentia distinguitur realiter. Consequentia, ut dicit, patet.
+            Minorem probat, quia hoc est proprium solius Dei quod de eius essentia et quidditate sit
+            existere, et ita dicit, aliter, sicut ista est aeternae veritatis et invariabilis 'homo
+            est substantia animata sensibilis,' ita ista 'homo est'.</p>
+          <p xml:id="gU87nn-d1e1457-d1e307">Nego assumptum pro prima parte, quia idem secundum unam rationem dicitur in primo modo
+            dicendi 'per se' de aliquo, et non secundum aliam rationem, quia essentia accepta
+            secundum se probatur in primo modo dicendi 'per se' de eo cuius est, sed secundum quod
+            stat sub efficientia primi efficientis et creantis non dicitur in primo modo de eo cuius
+            est, secundum hoc enim dicitur esse simpliciter. Et quia iste modus est posterior, non
+            clauditur in intellectum quidditatis. Et propter hanc diversitatem modorum et rationum,
+            ista est aeternae veritatis, 'homo est substantia animata', etc., sicut dixi alias.
+            Manifestum est quod non est neccesse ubi aliquid est secundum unam rationem, ibidem esse
+            secundum quamcumque suarum rationem. Nec est simile de Deo, in Deo enim esse et essentia
+            sunt idem re et ratione, et hoc est proprium Deo, sed in creaturis differunt ratione
+            rei.</p>
+          <p xml:id="gU87nn-d1e1457-d1e309">Secundo arguit sic ex dictis meis: nulla creatura per se existens est capax tantae
+            simplicitatis quod sit idem realiter cum suo esse, quia hoc esse proprium solius Dei.
+            Sed ita est quod aliqua est creatura 'per se' existens in qua non distinguuntur
+            suppositum et natura sive essentia realiter, ut in substantiis separatis. Ergo
+            neccessario sequitur quod in aliqua creatura essentia distinguitur realiter ab esse,
+            consequentiam dicit formalem in tertio modo secundae. Praemissas dicit esse de dictis
+            meis.</p>
+          <p xml:id="gU87nn-d1e1457-d1e311">Cum reverentia, non bene video quod ratio sit in tertio secundae, quoniam conclusio est
+            affirmativa quod non contingit, et ita idem est subiectum et praedicatum diversum.
+            Consequenter dico quod minor est vera, sed maior est falsa. Nec dixi eam, cum
+            reverentiam, sed dixi quod nulla creatura est tantae simplicitatis, ut re et ratione sit
+            idem cum suo esse, quia hoc est proprium Deo.</p>
+          <p xml:id="gU87nn-d1e1457-d1e314">Praeterea adduxit <ref xml:id="gU87nn-d1e1457-Rd1e316">Boethium in Ebodomandibus</ref>, <quote xml:id="gU87nn-d1e1457-Qd1e318">diversum est 'esse' et 'quod est'</quote>.</p>
+          <p xml:id="gU87nn-d1e1457-d1e321">Respondi quod hoc non est ad propositum suum, quia per 'quod est' Boethius intelligit
+            suppositum, sicut magister meus etiam exponit: 'quod est', id est, suppositum. Et si
+            Boethius facit mentionem de essentia, hoc est per 'esse', et sic non [f. 149r] facit
+            differentiam inter esse et essentia. Et hoc est pro me.</p>
+          <p xml:id="gU87nn-d1e1457-d1e323">Ipse arguit contra per <ref xml:id="gU87nn-d1e1457-Rd1e325">eundem in sexta Ebodamadae</ref> <quote xml:id="gU87nn-d1e1457-Qd1e327">omne quod est eo quod est, esse
+            participat ut sit, alio vero participat ut aliquid sit</quote>, ergo non cadit pro eodem esse
+            quo res est et essentiam qua res est.</p>
+          <p xml:id="gU87nn-d1e1457-d1e330">Respondeo quod differunt ratione, sed non realiter, sicut satis patet ex commento,
+            sicut nec sequitur ex verbis Boethii quod differunt realiter.</p>
+          <p xml:id="gU87nn-d1e1457-d1e332">Deinde arguit per <name xml:id="gU87nn-d1e1457-Nd1e334">Algazalem</name> dicentem <quote xml:id="gU87nn-d1e1457-Qd1e336">interpretatio substantiae est quod non sit suum
+            esse</quote>.</p>
+          <p xml:id="gU87nn-d1e1457-d1e339">Concessi verba ista, et dixi quod ex hoc non sequitur quin sit idem cum suo esse, ita
+            quod nulla essentia creata est suum esse et tamen non est aliud, sicut homo non est
+            humanitas, et tamen sunt idem.</p>
+          <p xml:id="gU87nn-d1e1457-d1e342">Arguit contra: apparet sibi quod contradico mihi, quia dico quod proprium est Dei esse
+            suum esse, et nulla creatura est suum esse, et tamen non est aliud a suo esse, sed est
+            idem.</p>
+          <p xml:id="gU87nn-d1e1457-d1e344">Cum reverentia ista non contradicunt, sicut iam dixi, 'homo non est humanitas, et tamen
+            non est aliud', quia non idem dicere 'esse ipsum' et 'esse idem' sicut dicit Philosophus
+            in <ref xml:id="gU87nn-d1e1457-Rd1e346">VII Primae philosophiae</ref>.</p>
+          <p xml:id="gU87nn-d1e1457-d1e349">Deinde arguit per rationem: quicquid reale non est de intellectu essentiae aut
+            quidditatis, hoc est adveniens extra et faciens compositionem cum essentia. Sed omnis
+            essentia creata intelligi potest sine hoc quod aliquid intelligatur de suo esse
+            existentiae.</p>
+          <p xml:id="gU87nn-d1e1457-d1e351">Istam negavi, quia licet esse differt ratione ab essentia, tamen est idem quod
+            essentia. Et ergo cum dicitur, essentia potest intelligi sine hoc quod aliquid
+            intelligatur de suo esse existentiae etiam essentia, negatur, et ergo est falsa.</p>
+          <p xml:id="gU87nn-d1e1457-d1e353">Arguit contra: si esse existentiae differet ratione ab essentia, sequeretur quod esse
+            existentiae esset ens rationis vel relationis tantum.</p>
+          <p xml:id="gU87nn-d1e1457-d1e355">Cum reverentia, non sequitur: rationale differt ratione ab homine, ergo est ens
+            rationis vel relationis tantum.</p>
+          <p xml:id="gU87nn-d1e1457-d1e358"><unclear>Praeterea</unclear> arguit quod non est idem esse et essentia, quia hoc est proprium Dei.</p>
+          <p xml:id="gU87nn-d1e1457-d1e362">Iam respondi quod Dei proprium est quod esse et essentia in eo sint idem re et ratione,
+            quia hoc non potest reperiri in creaturis.</p>
+          <p xml:id="gU87nn-d1e1457-d1e364">Praeterea arguit, si essent idem esse et essentia, cum ex propriis et essentialibus
+            principiis rei oriatur quidditas, sed esse actualis existentiae esset idem cum essentia
+            realiter, sequeretur quod creatura ex propriis principiis haberet esse existentiae.</p>
+          <p xml:id="gU87nn-d1e1457-d1e366">Nego consequentiam intelligendo in genere causae efficientis, quoniam esse existentiae
+            dicitur secundum quod est ab efficiente. Est tamen ex propriis principiis in genere
+            causae formalis, quia forma est quae dat esse, sed secundum hanc rationem non dicitur
+            esse existentiae, sed esse essentiae, sicut alias dixi.</p>
+          <p xml:id="gU87nn-d1e1457-d1e368">Et cum dicit quod hoc non potest esse, quia hoc non potest convenire rei cuius origo et
+            radix est nihil.</p>
+          <p xml:id="gU87nn-d1e1457-d1e370">Respondeo quod origo essentiae est prima causa a qua fluit et esse et essentia, sed
+            idem cuius est essentia, scilicet, quod est, ex nihil est.</p>
+          <p xml:id="gU87nn-d1e1457-d1e373">Secundo principaliter arguit sic: si esse cum essentia creata est idem, sequeretur quod
+            ubicumque esset pluralitas naturarum, esset pluralitas talium esse.</p>
+          <p xml:id="gU87nn-d1e1457-d1e375">Negavi consequentiam, si intelligat quod sit pluralitas talium esse secundum rationem
+            esse existentiae, quia non oportet quod ubi sit aliquid secundum unam rationem, sit ibi
+            secundum omnem rationem possibilem sibi, sicut secundum <ref xml:id="gU87nn-d1e1457-Rd1e377"><name xml:id="gU87nn-d1e1457-Nd1e378">Commentatorem</name></ref> <quote xml:id="gU87nn-d1e1457-Qd1e380">forma in esse
+            fluentis dicitur motus, et inquiete non, et tamen est idem re</quote>. Similiter essentia
+            dicitur principium ipsius esse, in genere causae formalis et dicitur 'esse essentiae'
+            per comparationem ad essentia, sed dicitur 'actualis existentiae' per comparationem ad
+            causam efficientem illud esse in suo proprio sumpto in quo natura completur in suo
+            proprio genere.</p>
+          <p xml:id="gU87nn-d1e1457-d1e383">Et propter hoc non sequitur quod magister meus infert, quod in Christo duo sunt esse
+            covenienter existentiae, sed in Christo sunt duae naturae, quia natura humana in Christo
+            non est in proprio supposito sed in divino, quod non informat secum componendo sicut
+            faceret cum supposito proprii generis, [f. 149v] et ideo non habet rationem secundum
+            quam dicatur esse existentiae in supposito divino.</p>
+          <p xml:id="gU87nn-d1e1457-d1e385">Arguit contra hoc quod dixi quod essentia est principium esse in genere causae
+            formalis. In omni genere causae vel principii ubi realiter datur principium et realiter
+            principiatum, principium distinguitur realiter a principato, quia impossibile est, nec
+            natura admittit, nec intellectus capit, idem esse principium sui ipsius.</p>
+          <p xml:id="gU87nn-d1e1457-d1e387">Salva reverentia, genus est principium suarum specierum, similiter differentia, et
+            tamen sunt idem realiter. Fons est principium suorum rivulorum, et tamen eadem est aqua
+            realiter. Pater est principium Filii, et tamen est idem cum Filio in neutro genere et
+            non aliud. Ita omnis forma est causa sui esse, sicut fons et rivulus. Et secundum
+            magistrum meum essentia dat esse supposito a quo non differt realiter. Et tamen si dat,
+            est causa eius.</p>
+          <p xml:id="gU87nn-d1e1457-d1e389">Deinde arguit contra hoc quod dixi quod humanitas in Christo non dat esse existentiae.
+            In Christo, humanitas habet esse essentiae, aliter non esset homo, sed hoc respicit Deum
+            a quo emanat in genere causae efficientis, formalis, et finalis. Ergo per me est esse
+            existentiae humanitatis in Christo.</p>
+          <p xml:id="gU87nn-d1e1457-d1e392">Cum reverentia, consequentiam nego quia magister meus dimittit partem rationis esse
+            existentiae, scilicet, in supposito proprio informando illud, secum componendo
+            diffiniendo se in illud vi agentis. Ex hoc tamen habet suppositum quod existit per
+            huiusmodi esse ipsum informans et actuans. Enim nisi per huiusmodi esse suppositum
+            actuaretur, non diceretur per ipsum existere. Et hoc non est Christo, divinum enim
+            suppositum non actuatur vel informatur aliquo, quia non potest esse subiectum, cum sit
+            summe actus. Et per consequens compositio non est in eo. Hinc dicit Iohannis Damacenus
+            <quote xml:id="gU87nn-d1e1457-Qd1e394">in Domino Iesu non est speciem accipere</quote>, quia natura humana non componit cum
+            divina.</p>
+          <p xml:id="gU87nn-d1e1457-d1e397">Unde patet quod rationes magistri mei nullam efficaciam habent ad propositum suum.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
