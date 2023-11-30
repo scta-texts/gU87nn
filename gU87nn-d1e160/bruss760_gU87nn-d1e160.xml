@@ -47,70 +47,329 @@
       </div>
     </front>
     <body>
-      <div xml:id="gU87nn-d1e137"> <!-- d. 3 q. 1 (or question 5)-->
-        <head xml:id="gU87nn-d1e137-Hd1e90">Quaestio 1 [Brussels Transcription]</head>
-        <p xml:id="gU87nn-d1e137-d1e92">
+      <div xml:id="gU87nn-d1e160"> <!-- d. 3 q. 1 (or question 5)-->
+        <head xml:id="gU87nn-d1e160-Hd1e90">Quaestio 1 [Brussels Transcription]</head>
+        <p xml:id="gU87nn-d1e160-d1e92">
           <lb ed="#B" n="10"/>Circa distinctionem 3am quaeritur utrum vestigium creatoris sit in omni
-          <lb ed="#B"/>creatura 
+          <lb ed="#B" n="11"/>creatura 
         </p>
-        <p>
+        <p xml:id="gU87nn-d1e160-d1e99">
           <pc type="virgula">/</pc> arguitur quod non in psalmos vestigia eius non cognoscentur igitur videtur quod non sit in creatura 
-          <lb ed="#B"/>consequentia tenet quia si esset <sic>esset</sic> medium cognoscendi et per consequens cognoscetur 
+          <lb ed="#B" n="12"/>consequentia tenet quia si esset <sic>esset</sic> medium cognoscendi et per consequens cognoscetur 
         </p>
-        <p>
+        <p xml:id="gU87nn-d1e160-d1e109">
           Item si vestigium 
-          <lb ed="#B"/>esset in creaturis philosophi potuerunt cognoscere trinitatem cuius oppositum probatum est supra 
+          <lb ed="#B" n="13"/>esset in creaturis philosophi potuerunt cognoscere trinitatem cuius oppositum probatum est supra 
         </p>
-        <p>
+        <p xml:id="gU87nn-d1e160-d1e115">
           <pc type="virgula">/</pc> praeterea 
-          <lb ed="#B"/>ex contactu aliquo inducitur vestigium sed inter causam primam et effectum eius nullus est contactus 
-          <lb ed="#B"/>quia dicit <name>philosophus</name> in libro de causis quod principia causa regit res omnes praeter quam quod misceatur cum eis irigur videtur 
-          <lb ed="#B"/>quod vestigium in creatis non relinquit deus
+          <lb ed="#B" n="14"/>ex contactu aliquo inducitur vestigium sed inter causam primam et effectum eius nullus est contactus 
+          <lb ed="#B" n="15"/>quia dicit <name xml:id="gU87nn-d1e160-Nd1e124">philosophus</name> in libro de causis quod principia causa regit res omnes praeter quam quod misceatur cum eis irigur videtur 
+          <lb ed="#B" n="16"/>quod vestigium in creatis non relinquit deus
         </p>
-        <p>
+        <p xml:id="gU87nn-d1e160-d1e129">
           ad hoc infinite <unclear>distinguitur</unclear> nulla est impressio deus autem 
-          <lb ed="#B"/>infinite distat a quolibet suo effectu igitur nihil impressionis relinquit in illis igitur nec vestigium <pc type="virgula">//</pc> 
+          <lb ed="#B" n="17"/>infinite distat a quolibet suo effectu igitur nihil impressionis relinquit in illis igitur nec vestigium <pc type="virgula">//</pc> 
         </p>
-        <p>
-          <lb ed="#B"/><pc type="virgula">/</pc> Deinde arguitur quod vestigium non sit in omni creatura dicit enim <name>ambrosius</name> in hexamero quod lucis natura non 
-          <lb ed="#B"/>est in pondere numerum et mensuram
+        <p xml:id="gU87nn-d1e160-d1e139">
+          <lb ed="#B" n="18"/><pc type="virgula">/</pc> Deinde arguitur quod vestigium non sit in omni creatura dicit enim <name xml:id="gU87nn-d1e160-Nd1e145">ambrosius</name> in hexamero quod lucis natura non 
+          <lb ed="#B" n="19"/>est in pondere numerum et mensuram
         </p>
-        <p>
+        <p xml:id="gU87nn-d1e160-d1e150">
           <pc type="virgula">/</pc> Item <unclear>bernardus</unclear> in libro de videndo deum <pc type="punctus"/> est modus sine modo diligere 
-          <lb ed="#B"/>deum potissimum creatum quid est caritas non habet modum igitur nec vestigium
+          <lb ed="#B" n="20"/>deum potissimum creatum quid est caritas non habet modum igitur nec vestigium
         </p>
-        <p>
+        <p xml:id="gU87nn-d1e160-d1e162">
           <pc type="punctus"/> Item cum modus species 
-          <lb ed="#B"/>et ordo sint creata <pc type="punctus"/> modi erit modus <unclear>s?</unclear> et ordo <pc type="virgula">/</pc> et <unclear>s?ei</unclear> erunt modus sub <unclear>or</unclear> et hoc ibit in 
-          <lb ed="#B"/>infinitum
+          <lb ed="#B" n="21"/>et ordo sint creata <pc type="punctus"/> modi erit modus <unclear>s?</unclear> et ordo <pc type="virgula">/</pc> et <unclear>s?ei</unclear> erunt modus sub <unclear>or</unclear> et hoc ibit in 
+          <lb ed="#B" n="22"/>infinitum
         </p>
-        <p>
-          <pc type="virgula">/</pc> In oppositum arguitur dicit enim <name>beatus augustinus</name> de civitate dei 14 deus super omnia sua significationis suae <unclear>indu?a</unclear> 
-          <lb ed="#B"/>iudicium autem significationis signum est igitur vestigium dei est in omni creatura
+        <p xml:id="gU87nn-d1e160-d1e183">
+          <pc type="virgula">/</pc> In oppositum arguitur dicit enim <name xml:id="gU87nn-d1e160-Nd1e188">beatus augustinus</name> de civitate dei 14 deus super omnia sua significationis suae <unclear>indu?a</unclear> 
+          <lb ed="#B" n="23"/>iudicium autem significationis signum est igitur vestigium dei est in omni creatura
         </p>
-        <p>
+        <p xml:id="gU87nn-d1e160-d1e196">
           <pc type="virgula">/</pc> Item idem in libro de nam boni 
-          <lb ed="#B"/>dicit quod ubi hoc tam magna sunt magnum bonum est ubi parva parvum ubi nulla nullum 
+          <lb ed="#B" n="24"/>dicit quod ubi hoc tam magna sunt magnum bonum est ubi parva parvum ubi nulla nullum 
         </p>
-        <p>
+        <p xml:id="gU87nn-d1e160-d1e204">
           <pc type="virgula">/</pc> Item philosophus primo de 
-          <lb ed="#B"/>caelo et mundo hoc numero utitur ad <unclear>sanctiones</unclear> deorum scilicet ternarii propter hoc quod hunc numerum rep<lb ed="#B"/>perit 
+          <lb ed="#B" n="25"/>caelo et mundo hoc numero utitur ad <unclear>sanctiones</unclear> deorum scilicet ternarii propter hoc quod hunc numerum rep<lb ed="#B" break="no" n="26"/>perit 
           in creaturis
         </p>
-        <p>
+        <p xml:id="gU87nn-d1e160-d1e216">
           <pc type="pilcrow"/> Pro aliquali declaratione praesentis materiae de vestigio est notandum quod omnis causa 
-          <lb ed="#B"/>activa per se est sibi similis <pc type="virgula">/</pc> et potentia passiva est dissimilis agere enim est diffusio ipsius agentis 
-          <lb ed="#B"/>aut diffundere se secundum principium formale quid est principium agendi <unclear>eamdem</unclear> modum lux agit de <unclear>fel?</unclear> 
-          <lb ed="#B"/><unclear>li</unclear> in perspicuum <pc type="virgula">/</pc> per quid lumen perspicuum sit actu et sit <unclear>proprie</unclear> luci
+          <lb ed="#B" n="27"/>activa per se est sibi similis <pc type="virgula">/</pc> et potentia passiva est dissimilis agere enim est diffusio ipsius agentis 
+          <lb ed="#B" n="28"/>aut diffundere se secundum principium formale quid est principium agendi <unclear>eamdem</unclear> modum lux agit de <unclear>fel?</unclear> 
+          <lb ed="#B" n="29"/><unclear>li</unclear> in perspicuum <pc type="virgula">/</pc> per quid lumen perspicuum sit actu et sit <unclear>proprie</unclear> luci
         </p>
-        <p>
+        <p xml:id="gU87nn-d1e160-d1e241">
           Similiter est in aliis propter 
-          <lb ed="#B"/>quid necesse est quod effectum per se sit similis efficienti <pc type="virgula">/</pc> secundum tamen plus et minus secundum capacitatem eius hinc 
-          <lb ed="#B"/>velit ille sermo quod agens agit ut assimilet sibi passum et si non secundum totum unitatum tamen secundum par<lb ed="#B"/>tem 
+          <lb ed="#B" n="30"/>quid necesse est quod effectum per se sit similis efficienti <pc type="virgula">/</pc> secundum tamen plus et minus secundum capacitatem eius hinc 
+          <lb ed="#B" n="31"/>velit ille sermo quod agens agit ut assimilet sibi passum et si non secundum totum unitatum tamen secundum par<lb ed="#B" break="no" n="32"/>tem 
           aut secundum analogiam <pc type="virgula">/</pc> secundum quod effectus est particeps
         </p>
-        <p>
-          <pc type="virgula">/</pc> Istam propositionem probat philosophus 7 primae philosophiae
+        <p xml:id="gU87nn-d1e160-d1e256">
+          <pc type="virgula">/</pc> Istam propositionem probat philosophus 7 primae philosophiae et in naturalibus
+          <lb ed="#B" n="33"/>et <unclear>artificibus</unclear> et etiam <unclear>demonstrantibus</unclear> Et causa radicalis est quod agere non est nisi diffinitio ipsius agentis 
+          <lb ed="#B" n="34"/>et igitur necesse est quod particpes sit sibi simile 
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e270">
+          <pc type="virgula">/</pc> Ad propositum igitur cum deus sit prima causa agens et per se 
+          <lb ed="#B" n="35"/>necesse est quod omne <add place="above-line"><unclear>quod</unclear></add> ab eo est sibi simile sit quoniam non est ab eo nisi participando id quid de se ut agens 
+          <lb ed="#B" n="36"/>diffundit Et ista ratio de necessitate inducit ydeas et exemplaria et rationes in mente divina 
+          <lb ed="#B" n="37"/>omnium naturarum et specierum rerum creatarum Et sub essed quod est primum creatum <pc type="virgula">/</pc> rationes omnium 
+          <lb ed="#B" n="38"/>naturarum a principio fluunt <pc type="virgula">/</pc> quibus verbum ut ars patris plenum est 
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e295">
+          <pc type="virgula">/</pc> Praeterea cum primum agens non solum agit 
+          <lb ed="#B" n="39"/>per se <pc type="virgula">/</pc> verum est agens propter finem <pc type="virgula">/</pc> quoniam summe sapiens <pc type="punctus"/> sapientis autem est ordinare <pc type="punctus"/> ordo vero ex fine 
+          <lb ed="#B" n="40"/>accipitur <pc type="virgula">/</pc> primum igitur agit omnes effectus suos propter finem igitur primum agens agit stans sub ratione fi<lb ed="#B" break="no" n="41"/>nis 
+          <pc type="virgula">/</pc> Aliter enim actio esset vana et ociosa quid est inconveniens
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e324">
+          <pc type="virgula">/</pc> Ex quo sequitur quod procedens a 
+          <lb ed="#B" n="42"/>prima causa non procedit sub simplici ratione causae formalis sed etiam sub ratione causae finalis qua informatur propter quid 
+          <lb ed="#B" n="43"/>effectus primae causae non solum habet speciem sed etiam habet effectum causae finalis <pc type="virgula">/</pc> qui est inclinatio seu impulsio 
+          <lb ed="#B" n="44"/>seu aptatus seu tendentia in finem propter quid agens agit et hic est deus <pc type="virgula">/</pc> et hic est radix et 
+          <lb ed="#B" n="45"/>origo unde potentiae naturales oriuntur in rebus scilicet ut his tanquam instrumentis revertantur in finem 
+          <lb ed="#B" n="46"/>unde patet quod vi fluxus a principio per creationem res creatae in principium iterum refluunt <pc type="virgula">/</pc> quoniam a principio flu<lb ed="#B" break="no" n="47"/>unt 
+          sub ratione finis quae ratio origo et principium est reflexus Et ibi posset videri veritas huius omnia 
+          <lb ed="#B" n="48"/>quae sunt in eo quod sicut <pc type="virgula">/</pc> bona sunt quia non accipiunt esse sub ratione causae formalis tantum <pc type="virgula">/</pc> sed etiam sub ratione 
+          <pb ed="#B" n="21-v"/>
+          <lb ed="#B" n="1"/>finis et boni Non solum autem productum et terminans per se et <unclear>principio</unclear> actum cre<lb ed="#B" break="no" n="2"/>antis 
+          participat rationem causae finalis verum omnia principia ipsius scilicet materia et 
+          <lb ed="#B" n="3"/>forma sine quo et quid nam omnia procedunt sub <del rend="strikethrough">ratione</del> esse vi creationis quid 
+          <lb ed="#B" n="4"/>procedit sub ratione causa finalis
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e377">
+          <pc type="virgula">/</pc> Ex quibus accipitur quod omnis creatura similitudinem
+          <lb ed="#B" n="5"/>gerit sui creatoris quia causa efficiens per se est sibi similis et omnis 
+          <lb ed="#B" n="6"/>creatura vi suae productionis tendit in finem quem agens intendit quoniam 
+          <lb ed="#B" n="7"/>sub ratione huiusmodi finis producitur Et hoc dicit <ref xml:id="gU87nn-d1e160-Rd1e388"><name xml:id="gU87nn-d1e160-Nd1e389">augustinus</name> 2o confessionum</ref> <quote xml:id="gU87nn-d1e160-Qd1e393">domine creasti 
+          <lb ed="#B" n="8"/>nos ad te et non est quietum cor nostrum donec quiescat in te</quote> Et 
+          <lb ed="#B" n="9"/><name xml:id="gU87nn-d1e160-Nd1e399">beotius</name> Singula gaudent reditu suo
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e402">
+          <pc type="virgula">/</pc> Item refluant causae quae 
+          <lb ed="#B" n="10"/>dedit esse Et hinc est quod licet increatura sint duo principia essentialia scilicet quod 
+          <lb ed="#B" n="11"/>est et quid est ut partes essentiales <pc type="virgula">/</pc> tamen ex illis duobus ut partes sunt 
+          <lb ed="#B" n="12"/>resultant habitudines partis ad <unclear>compartem</unclear> et partium ad totum <pc type="virgula">/</pc> penes quas habi<lb ed="#B" break="no" n="13"/>tudines 
+          3m accipitur quid est in vestigio <pc type="virgula">/</pc> immo non solum unum vestigium 
+          <lb ed="#B" n="14"/>aut una assignatio vestigii accipitur sed valde multae utque per <name xml:id="gU87nn-d1e160-Nd1e429">beatum augustinum</name>
+          <lb ed="#B" n="15"/>et alios sanctos ut inferius declarabitur
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e435">
+          <pc type="virgula">/</pc> Sed dubitatur quare de vestigio 
+          <lb ed="#B" n="16"/>sunt tantum tria cum tamen quasi innumeretur nobilitates creatoris communicantur creaturae secundum 
+          <lb ed="#B" n="17"/>quod possunt esse capaces sicut esse vivere intelligere bonitas virtus duratio 
+          <lb ed="#B" n="18"/>magnitudo etc videtur enim quod haec omnia debent esse de vestigio et sic non erunt 
+          <lb ed="#B" n="19"/>vestigium trinitatis sed infinitorum attributorum
+          <!-- finishes on 23-r -->
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e451">
+          <pc type="virgula">/</pc> Dicendum quod sicut multa sunt attri<lb ed="#B" break="no" n="20"/>buta 
+          causae primae ita sunt multa consequentia esse creati penes quae illa attri<lb ed="#B" break="no" n="21"/>buta 
+          accipi possunt per excellentiam et eminentiam <pc type="virgula">/</pc> sic ex magnitudine 
+          <lb ed="#B" n="22"/>intelligitur infinitus ex speciositate pulcer <pc type="virgula">/</pc> ex <unclear>tempora?te</unclear> aeternus
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e473">
+          <pc type="virgula">/</pc> Sed pro 
+          <lb ed="#B" n="23"/>maiori intellectu est notandum quod vestigium dupliciter dicitur proprie scilicet et transsumptive 
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e481">
+          <pc type="virgula">/</pc> proprie est impressio pedis in pulvere vel molli via <pc type="virgula">/</pc> et quia omnis 
+          <lb ed="#B" n="24"/>impressio secundum tactum sit <pc type="virgula">/</pc> omnis autem tactus secundum ultimum tangentis <pc type="virgula">/</pc> ideo vestigium 
+          <lb ed="#B" n="25"/>est similitudo ultimi quid est in pede <pc type="virgula">/</pc> et hoc est plantae pedis et digi<lb ed="#B" break="no" n="26"/>torum 
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e506">
+          <pc type="punctus"/> Quia autem hoc repraesentat pedem et imperfectius id cuius est pes <pc type="virgula">/</pc> <unclear>spis</unclear>
+          <lb ed="#B" n="27"/><unclear>similiutdinem</unclear> enim pedis non repraesentat neque liniamenta <unclear>superiorum</unclear> pedis 
+          <lb ed="#B" n="28"/>nec interiorum <pc type="virgula">/</pc> et ideo vestigium habet duplicem defectum in repraesentatione eius cuius est ves<lb ed="#B" break="no" n="29"/>tigium 
+          <pc type="virgula">/</pc> uno modo quia eset similitudo partis eius cuius vestigium est quia pedis <pc type="virgula">/</pc> 2o modo quia confu<lb ed="#B" break="no" n="30"/>sa 
+          similitudo est partis et ideo nunquam est repreasentativum particularis determinati sed 
+          <lb ed="#B" n="31"/>tantum vagi aut speciei <pc type="punctus"/> quoniam figatur secundum quam est impressio sequitur speciem in supposito 
+          <lb ed="#B" n="32"/><unclear>verum</unclear> <unclear><!-- possible correction -->vestigio</unclear> adhaerent aliqua accidentia decentia in notitiam singu<lb ed="#B" break="no" n="33"/>laris 
+          determinati ut experientia docet de casibus venantibus cer<lb ed="#B" break="no" n="34"/>vos 
+          <pc type="punctus"/> quia et si multi sint cervi in loco <unclear>venantionis</unclear> tamen in sequitur 
+          <lb ed="#B" n="35"/>illum cuius vestigii acceperunt notitiam <pc type="virgula">/</pc> nihil molestie reliquis 
+          <lb ed="#B" n="36"/>inferentes <pc type="punctus"/> sed hoc accidit vestigio Et propter hos defectus in repraesentando <unclear>trans<lb ed="#B" break="no" n="37"/>mutatur</unclear>
+          vestigium et transfertur ad signum quidcumque quid cum causa non est convertibile 
+          <lb ed="#B" n="38"/>secundum quid dicit <ref xml:id="gU87nn-d1e160-Rd1e574">aristoteles 2o priorum</ref> quod ex ycotibus et signis proceditur in dyalectis et 
+          <lb ed="#B" n="39"/>rethoricis <sic>argumentibus</sic> ycos enim vel ycomia similitudo est imperfectam et 
+          <lb ed="#B" n="40"/>ex talibus etiam naturae rerum cognoscuntur ut ibidem dicit aristoteles Et secundum hoc 
+          <lb ed="#B" n="41"/>dicitur vestigium dei in creaturis signum scilicet quod probabitur aliquod cognoscitur et 
+          <lb ed="#B" n="42"/>deficit ab imagine in hoc quod imperfecta est similitudo exteriorum et secundump artem 
+          <lb ed="#B" n="43"/>sed convenit cum eadem in hoc quod alicuius exterioris est similitudo <pc type="virgula">/</pc> et inquantum similitudo 
+          <pb ed="#B" n="22-r"/>
+          <lb ed="#B" n="1"/>est ducit in aliquid eius cuius est similitudo <pc type="virgula">/</pc> et etiam aliquo modo ducit in distinctionem 
+          <lb ed="#B" n="2"/>partis eius cuius est similitudo quamvis confuse et imperfecte <pc type="punctus"/> Et hinc est quod licet 
+          <lb ed="#B" n="3"/>attributorum divinorum similitudo est in creaturis tamen non diciturves<lb ed="#B" break="no" n="4"/>tigium 
+          quia non ducit in distinctionem saltem confusam in deo <pc type="virgula">/</pc> quia non habent apparationem 
+          ad aliquam personarum <pc type="virgula">/</pc> et ideo talia attributa non sunt <unclear>de ratione</unclear> 
+          vestigii sicut magnitudo aeternitas etc quid vestigium transfer<lb ed="#B" break="no" n="5"/>tur 
+          non solum quo ad illam proprietatem quae est confuse repraesentare sed etiam 
+          <lb ed="#B" n="6"/>quo ad ducere in distinctionem aliqualem eorum quae sunt in eo cuius est vestigium 
+          Cum igitur in deo distinctio est personarum in unitate essentiae hoc est in deo est 
+          <lb ed="#B" n="7"/>trinitas in unitate <pc type="virgula">/</pc> et unitas in trinitate vestigium dicitur trinitas quia 
+          <lb ed="#B" n="8"/>ducit in distinctionem personarum per appropriata hoc non est quasi differentia vestigii 
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e630">
+          <lb ed="#B" n="9"/>Istis notatis respondetur quod in omni creato terminante actum creatis reperitur 
+          <lb ed="#B" n="10"/>vestigium creatoris secundum quod est trinus et unus patet per rationes post oppositum 
+          <lb ed="#B" n="11"/>inductas
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e639">
+          <pc type="punctus"/> Et si dicatur quod sancti locuti sunt ex fide <pc type="virgula">/</pc> tamen quo ad 
+          <lb ed="#B" n="12"/>hoc multi locuti sunt philosophi Verum sancti quia ex fide noverunt 
+          <lb ed="#B" n="13"/>propria divinarum personarum ad quae appropriata dicuntur perfectius de vestigio lo<lb ed="#B" break="no" n="14"/>cuti 
+          sunt philosophis Nec sequitur <pc type="virgula">/</pc> philosophi noverunt appropriata igitur et propria 
+          <lb ed="#B" n="15"/>quoniam propria sunt corruptiva appropriatorum modo cognito uno relativorum 
+          <lb ed="#B" n="16"/>etc Respondetur quod non sequitur quoniam approrpirata non sunt relativa secundum actum sed secundum 
+          <lb ed="#B" n="17"/>potentiam et ideo <del rend="strikethrough">etc</del> non sequitur quod noverunt propria personarum
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e666">
+          <pc type="pilcrow"/> Sed magis 
+          <lb ed="#B" n="18"/>in particulari descendendo ad vestigium creatoris in creaturis est notandum quod 
+          <lb ed="#B" n="19"/>multis modis a sanctis in creaturis assignatur vestigium unde <ref xml:id="gU87nn-d1e160-Rd1e674">sapientia 11</ref>
+          <lb ed="#B" n="20"/><quote xml:id="gU87nn-d1e160-Qd1e677">omnia in numero et pondere et mensura disposuisti</quote> ideo vestigium ponitur 
+          <lb ed="#B" n="21"/>numerus pondus et mensura
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e684">
+          <pc type="virgula">/</pc> Item <name xml:id="gU87nn-d1e160-Nd1e689">augustinus</name> in libro de natura boni dicit quod modus species 
+          <lb ed="#B" n="22"/>et ordo in omnibus creatis vestigium sunt <pc type="virgula">/</pc> Ad hoc idem in libro 83 quaestionibus <sic>3oo</sic> in<lb ed="#B" break="no" n="23"/>ducit 
+          vestigium dicens quod in omni re invenitur quid est <pc type="virgula">/</pc> quid dicitur et quid congruit
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e705">
+          <pc type="virgula">/</pc> Item in commento libri causarum ponuntur ista tria ens verum bonum 
+          <lb ed="#B" n="24"/>Et dicitur ibidem quod in omnibus inveniuntur ut causae formales primae <pc type="virgula">/</pc> Ad hoc <name xml:id="gU87nn-d1e160-Nd1e715">dyonsius</name> videtur 
+          <lb ed="#B" n="25"/>ista ponere substantia virtus et operatio unaque enim res est id quid est et subsis<lb ed="#B" break="no" n="26"/>tens 
+          et sic substantia quaedam est sive quid dicitur etiam quod nihil destituitur propria <unclear>opero?e</unclear>
+          <lb ed="#B" n="27"/>Non autem habet aliquod operationem propriam nisi ad illam habeat veritatem et sic propria veritate 
+          <lb ed="#B" n="28"/>non destituitur In omni igitur re est substantia virtus et operatio
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e729">
+          Iste assigna<lb ed="#B" break="no" n="29"/>tiones 
+          vestigii diverse sunt propter diversam creaturae in qua sunt considerationem Cre<lb ed="#B" break="no" n="30"/>atum 
+          enim potest considerari infieri <pc type="virgula">/</pc> et in esse <pc type="virgula">/</pc> et in perfecto esse et prout est cognoscibile 
+          <lb ed="#B" n="31"/>et prout disponitur ad operationem <pc type="punctus"/> et penes haec 5ae quinque assignationes ac<lb ed="#B" break="no" n="32"/>cipiuntur 
+          quae inductae sunt Si consderatur infieri ponitur illa de libro sapientia numerus 
+          <lb ed="#B" n="33"/>pondus ut mensura Cum enim in omni creato sit et quid est et quo est <pc type="virgula">/</pc> sive quid 
+          <lb ed="#B" n="34"/>est <pc type="virgula">/</pc> et esse <pc type="virgula">/</pc> ut dicit <ref xml:id="gU87nn-d1e160-Rd1e762"><name xml:id="gU87nn-d1e160-Nd1e763">boetius</name> in ebdomandibus</ref> omne creatum numerum habet principiorum ex quibus 
+          <lb ed="#B" n="35"/>constituitur sicut dicit <name xml:id="gU87nn-d1e160-Nd1e768">boetius</name> in prohemio <unclear>arimetice</unclear> inducens pitagoram quod 
+          <lb ed="#B" n="36"/>omnino deus in numerus disposuit <pc type="virgula">/</pc> et est in ipso habitudo eius quid est ad 
+          <lb ed="#B" n="37"/>esse et econverso habitudo ipsius esse ad quid est <pc type="virgula">/</pc> qua habitudine unum dependet 
+          <lb ed="#B" n="38"/>ad alterum et econverso <pc type="virgula">/</pc> et est in ipso habitudo constituentium totum ad constitionem 
+          <lb ed="#B" n="39"/>totius sumitur augmento et diminutione <pc type="virgula">/</pc> et econverso est in ipso habitudo totius 
+          <lb ed="#B" n="40"/>ad principia constitutiva ut sub forma totius terminentur <pc type="virgula">/</pc> in qua terminatione non effluat 
+          <lb ed="#B" n="41"/>forma totius ad <unclear>platur</unclear> nec sistat ad pauciora propter numerum igitur principiorum 
+          <lb ed="#B" n="42"/>dicitur numerus propter habitudinem principiorum <unclear>adin</unclear> quae habitudo inclinatio est ad motum intelligibilem 
+          <lb ed="#B" n="43"/>quo unum tendit in alterum ut creatum ex ipsis fiat dicitur pondus quia pon<lb ed="#B" break="no" n="44"/>dus 
+          inclinatio rei est ad motum <pc type="virgula">/</pc> propter habitudinem <unclear>constitutionem</unclear> autem ad totum et econverso 
+          <lb ed="#B" n="45"/>ut sine superfluo et diminuto constituant totum et ipsa constitutiva sub forma 
+          <lb ed="#B" n="46"/>totius terminentur dicitur mensura Et sic omnia deus in numero pondere et mensura 
+          <lb ed="#B" n="47"/>disposuit
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e825">
+          <pc type="pilcrow"/> Si autem creatum consideretur in esse constituto iterum tam sunt in ipso 
+          <pb ed="#B" n="22-v"/>
+          <lb ed="#B" n="1"/>Si enim consideretur sub formaliter constituente <pc type="virgula">/</pc> modum habet proprium quo in se modificationum 
+          <lb ed="#B" n="2"/>ab omnibus aliis ipsum distinguimus et hoc vocatur modus Si autem consideratur formaliter 
+          <lb ed="#B" n="3"/>constituens <pc type="virgula">/</pc> non constituit ipsum nisi per hoc quod deducit ipsum ad formam et ad speciem 
+          <lb ed="#B" n="4"/>et vocatur species <pc type="punctus"/> Causa autem quid constituitur in forma et specie et esse ordinetur ad fi<lb ed="#B" break="no" n="5"/>nem 
+          et ad primum quid semper influit esse et hoc vocatur ordo Et sic omne quid est modum 
+          <lb ed="#B" n="6"/>habet speciem et ordinem
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e853">
+          <pc type="virgula">/</pc> Si vero in perfecto esse consideretur non perficitur nisi communi et 
+          <lb ed="#B" n="7"/>determinato et determinante et si consideretur commune <unclear>indeterminatum</unclear> hoc est eius entitas 
+          <lb ed="#B" n="8"/>si determinans ad hoc vel illud <pc type="virgula">/</pc> hoc est vera natura eius et eius veritas <pc type="virgula">/</pc> si consideretur forma 
+          <lb ed="#B" n="9"/>et finis quem adipiscitur in perfecto esse et quid intenditur et infieri et in esse hoc est 
+          <lb ed="#B" n="10"/>bonitas eius Et sic omne quicquid perfectum est <pc type="virgula">/</pc> est ens  bonum et verum <pc type="punctus"/> Et sic comparatur 
+          <lb ed="#B" n="11"/>ad causam efficientem quia ens <pc type="virgula">/</pc> per verum ad formalem <pc type="virgula">/</pc> per bonum ad finalem
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e890">
+          <pc type="virgula">/</pc> Si 
+          <lb ed="#B" n="12"/>autem consideretur res ut cognoscibilis tunc aliquid in ea est cognitum et ad cognitionis 
+          <lb ed="#B" n="13"/>principium et illud idem ut determinate cognoscatur secundum convenientiam et differentiam refertur
+          <lb ed="#B" n="14"/>ad alia
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e903">
+          <pc type="virgula">/</pc> Per primum est <pc type="virgula">/</pc> quid est <pc type="virgula">/</pc> per 2m habet quod dicitur <pc type="virgula">/</pc> per 3m habet quod congruit 
+          <lb ed="#B" n="15"/>vel operatur per unum enim oppositarum intelligitur reliquum
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e920">
+          <pc type="pilcrow"/> Si autem consideretur imperfectio<lb ed="#B" break="no" n="16"/>ne 
+          ad opus <pc type="virgula">/</pc> tunc necesse est in eo aliquid esse quid est operans <pc type="virgula">/</pc> et potentia opus fa<lb ed="#B" break="no" n="17"/>ciens 
+          et hoc dicitur substantia Et necesse est in ipso aliquid esse quid potens in ultimo 
+          <lb ed="#B" n="18"/>suae potentiae constituit ut operari posset et hoc vocatur virtus Et necesse est operationem essentia<lb ed="#B" break="no" n="19"/>lem 
+          egredi inseparabiliter ut dicit <name xml:id="gU87nn-d1e160-Nd1e939">damascenus</name> <pc type="virgula">/</pc> ut ab intellectu intelligere <pc type="virgula">/</pc> secundum quod intelligere intellectus 
+          <lb ed="#B" n="20"/>est esse <pc type="virgula">/</pc> a sensu sentire <pc type="virgula">/</pc> a luce lucere ab homine humanare <pc type="virgula">/</pc> et asino asi<lb ed="#B" break="no" n="21"/>nare 
+          <pc type="punctus"/> secundum quod asinare asini est esse etc Et sic in omni ente est substantia vir<lb ed="#B" break="no" n="22"/>tus 
+          et operatio
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e966">
+          <pc type="pilcrow"/> Ex his omnibus patet quod in tribus quae ut partes vestigii as<lb ed="#B" break="no" n="23"/>signantur 
+          est perfectio boni naturae omnis creati <pc type="punctus"/> Et bonum constitutum ex his con<lb ed="#B" break="no" n="24"/>sistit
+          ut totum <unclear>ptanti?m</unclear> quid in parte similitudinem habet cum toto universali et in parte 
+          <lb ed="#B" n="25"/><name xml:id="gU87nn-d1e160-Nd1e980">Boetium</name> est enim modus <pc type="virgula">/</pc> bonum est species <pc type="virgula">/</pc> et bonum est ordo <pc type="punctus"/> Etiam cum toto 
+          <lb ed="#B" n="26"/>intelligibili convenit in quantum per partem suo potestatis est in uno et per aliam partem est 
+          <lb ed="#B" n="27"/>in alio <pc type="virgula">/</pc> et per 3am in 3o et per totum suae potestatis non est nisi in omnibus simul etiam 
+          <lb ed="#B" n="28"/>in nullo sigillatim 
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e1001">
+          Et hoc modo 2m procedit de primo ut actus de potentia et 3m 
+          <lb ed="#B" n="29"/>procedit de duobus simul <pc type="virgula">/</pc> et in 3o supponitur 2m et primum quia non est ordo non 
+          <lb ed="#B" n="30"/>habentis speciem et modum Et 2m supponit primum <pc type="virgula">/</pc> 2m non est species quid non 
+          <lb ed="#B" n="31"/>habet modum Et sic modus attribuitur patri in quo est principium totius proces<lb ed="#B" break="no" n="32"/>sionis 
+          personarum <pc type="virgula">/</pc> species filio in quo est principium processus spiritus sancti <pc type="virgula">/</pc> ordo 
+          <lb ed="#B" n="33"/>spiritui sancto <pc type="virgula">/</pc> in quo stat processio personarum unitas autem substantiae in qua sunt haec 
+          <lb ed="#B" n="34"/>tria respondet unitati essentiae divinae in tribus personis <pc type="virgula">/</pc> et ita aliae partes ves<lb ed="#B" break="no" n="35"/>tigii 
+          aliarum assignationum possunt referri ad divina
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e1038">
+          <pc type="pilcrow"/> Ad rationes improbantes 
+          <lb ed="#B" n="36"/>ad primam cum arguitur in psalmo vestigia eius non cognoscentur etc Respondetur quod vestigia eius 
+          <lb ed="#B" n="37"/>non cognoscuntur perfecte et distincte sed confuse ut dictum est
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e1047">
+          <pc type="pilcrow"/> Ad 2am cum arguitur 
+          <lb ed="#B" n="38"/>si esset vestigium etc philosophi potuerunt cognoscere patet quid dicendum per dicta
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e1055">
+          <lb ed="#B" n="39"/><pc type="pilcrow"/> Ad 3am ex contactu aliquo inducitur vestigium etc dicendum quod tactus essentialis 
+          <lb ed="#B" n="40"/>vel commixtio non est primae causae sicut forma tangit materiam sed eius contactus <unclear>me<lb ed="#B" break="no" n="41"/>thephysicus</unclear> 
+          sicut causa dicitur tangere effectum suum et sic relinquitur vestigium suum
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e1068">
+          <pc type="virgula">/</pc> Ad 
+          <lb ed="#B" n="42"/>4am infinite distantium nulla est impressio etc dicendum quod licet causa prima in infinitum 
+          <lb ed="#B" n="43"/>a causato distet per essentiam et per omnes proprietates eius essentiales tamen habitudinem cau<lb ed="#B" break="no" n="44"/>sandi 
+          et operis non distat in infinitum sed contingit causatum producendo ad esse 
+          <lb ed="#B" n="45"/>determinando et ad finem conveniendo
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e1082">
+          <pc type="virgula">/</pc> Ad 5am <name xml:id="gU87nn-d1e160-Nd1e1087">ambrosio</name> in hexameron dicit quod lu<lb ed="#B" break="no" n="46"/>cis 
+          natura non est impendere etc dicendum quod lucem est considerare dupliciter scilicet secundum quod res considerata 
+          <lb ed="#B" n="47"/>est per actum creantis etc sunt in ea tria quae insunt in vestigio Consideratur etiam 
+          <lb ed="#B" n="48"/>secundum potentiam emittendi radios et reflectendi et illuminandi et sic non est 
+          <lb ed="#B" n="49"/>in aliquo numero certo vel pondere vel mensura Item alicuius corporeae 
+          <pb ed="#B" n="23-r"/>
+          <lb ed="#B" n="1"/>naturae
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e1103">
+          <pc type="pilcrow"/> Ad 6am de caritate dicendum quod modus caritatis est sine modo certo 
+          <lb ed="#B" n="2"/>et finito eo quod diligibile est infinitum <pc type="virgula">/</pc> modum tamen habet quia infinite diligere 
+          <lb ed="#B" n="3"/>eius modus est et ideo determinatur per infinitum
+        </p>
+        <p xml:id="gU87nn-d1e160-d1e1115">
+          <pc type="pilcrow"/> Ad ultimam modo <unclear>s?s</unclear>
+          <lb ed="#B" n="4"/>et ordo sunt creata etc Conceditur quod modi non est modus 
+          <lb ed="#B" n="5"/>etc sed sicut dicit <name xml:id="gU87nn-d1e160-Nd1e1125">augustinus</name> deus et sapientia divina et bonitas per 
+          <lb ed="#B" n="6"/>potentiam est modus increatus omni rei modum praefigens <pc type="virgula">/</pc> per 
+          <lb ed="#B" n="7"/>sapientiam est species omni rei praebens speciem <pc type="virgula">/</pc> per bonitatem est ordo 
+          <lb ed="#B" n="8"/>omnem rem ad finem producens Et sic non abibitur in infinitum 
+          <lb ed="#B" n="9"/>Statur enim in primis increatis et divinis attributis <pc type="punctus"/>
         </p>
       </div>
     </body>
