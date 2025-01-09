@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2 [Brussels Transcription]</title>
+        <author>Lambertus de Monte</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2 [Brussels Transcription]</title>
+          <date when="2023-12-05">December 05, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="bruss760">Brüssel, Koninklijke Bibliotheek van België, ms. 760 (1715)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-12-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="23-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gU87nn-d1e177"> <!-- d. 3 q. 2 (or question 5)-->
+        <head>Quaestio 2 [Brussels Transcription]</head>
+        <p>
+          <lb ed="#B" n="10"/>Circa ea quae habentur in 3a distinctione cum iam visum sit de
+          <lb ed="#B"/>medio cognoscendi deum quid dicitur vestigitum <pc type="virgula">/</pc> nunc quaeritur de medio 
+          <lb ed="#B"/>quid est imago secundum quid in homine imago dei reperitur 
+        </p>
+        <p>
+          <lb ed="#B"/>Et videtur secundum <name>augustinum</name> quod illud sit totum quid est rationis et intellectus quoniam dicit 
+          <lb ed="#B"/>super genesem ad litteram in illo homo dicitur ad imaginem dei in quo 
+          <lb ed="#B"/>excellimus bruta <pc type="punctus"/> hoc autem est totum quid est rationis et intellectus 
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Item 14 de trinitate anima imago dei est eo <pc type="virgula">/</pc> quo eius capax et 
+          <lb ed="#B"/>particeps esse potest <pc type="virgula">/</pc> Sed non potest esse capax eius nisi secundum in inquo 
+          <lb ed="#B"/>sigillatur et inprimitur a deo ad mensuram eius quid caput Non 
+          <lb ed="#B"/>autem imprimitur nisi secundum rationem et intellectum igitur in illis est imago 
+        </p>
+        <p>
+          <pc type="pilcrow"/> Praeterea ubi supra 
+          <lb ed="#B"/>14 de trinitate imago dei quo nihil melius est ibi quaerenda et 
+          <lb ed="#B"/>invenienda est Sed quo nihil melius habet natura nostra est ratio et intellectus igitur 
+          <lb ed="#B"/>secundum rationem et intellectum imago est et hoc ab <name>augustino</name> ut videtur mens vocatur 
+        </p>
+        <p>
+          <lb ed="#B"/><pc type="virgula">/</pc> In contrarium arguitur configuratum pedi peiriri non dicitur imago 
+          <lb ed="#B"/>petri sed configuratum omnibus membris eius <pc type="virgula">/</pc> igitur similiter in homine non 
+          <lb ed="#B"/>dicitur imago secundum partem sed secundum omnia quae humana sunt et homine in quantum 
+          <lb ed="#B"/>homo est constituunt 
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Item genese primo super illud <quote>faciamus homine ad i<lb ed="#B"/>maginem 
+          nostram</quote> dicit <ref>glosa</ref> quod eo est ad imaginem homo quo est 
+          <lb ed="#B"/>principium omnium sicut deus et ideo dicitur ut praesit piscibus etc <unclear>a</unclear> 
+          <lb ed="#B"/>deo autem principium est omni sui generis per generationem <pc type="virgula">/</pc> et alia sunt propter ipsum 
+          <lb ed="#B"/>igitur imago non est secundum rationem et intellectum
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Pro aliquali notificatione 
+          <lb ed="#B"/>praesentis materiae est <unclear>supponendum</unclear> in <ref>alia lectione supra declaratum</ref> scilicet quod omne pro<lb ed="#B"/>cedens 
+          a prima causa procedit in aliqua similitudine ad causam primam dico 
+          <lb ed="#B"/>autem aliqua similitudine quoniam non <unclear>univoca</unclear> <pc type="virgula">/</pc> nec secundum speciem nec secundum genus quoniam 
+          <lb ed="#B"/>prima causa est extra omne genus <pc type="virgula">/</pc> Omnis autem creatura in genere est limi<lb ed="#B"/>tibus 
+          propriis sui generis clausa quoniam in numero pondere et mensura 
+          <lb ed="#B"/>pro dicta licet enim omnis causa efficiens per se sit sibi similis <pc type="virgula">/</pc> non est 
+          <lb ed="#B"/>tamen necesse quod actio est terminetur in similem speciem <pc type="punctus"/> quoniam ut dicit <name>boetius</name> ac<lb ed="#B"/>tio 
+          terminatur non solum secundum potestatem agentis <pc type="virgula">/</pc> sed etiam secundum possibilitatem patientis 
+          <lb ed="#B"/>unde est quod res universi diversimode actionem principali participant 
+          <lb ed="#B"/>non secundum unionem generis aut speciei sed secundum analogiam et secundum ma<lb ed="#B"/>ius 
+          et minus <pc type="punctus"/> his inquit philosophus clarius <pc type="virgula">/</pc> his vero obscurius 
+          <pb ed="#B" n="23-v"/>
+          <lb ed="#B"/>a principio participatum est esse et vivere non enim omnia eiusdem sunt capacitatis
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Cum igitur 
+          <lb ed="#B"/>a primo est versum secundum quod agit sub ratione finis et sapientiae ordo partitionis 
+          <lb ed="#B"/>est in verso <pc type="virgula">/</pc> ita quod quaedam primo et proxime nobilitates participat divinas <pc type="virgula">/</pc> quaedam 
+          <lb ed="#B"/>a remotae et quaedam remotius <pc type="punctus"/> Non dico remote secundum localem 
+          <lb ed="#B"/>distantiam quoniam primum est ubique et secundum essentiam praesentiam et potentiam <pc type="punctus"/> sed secundum distantiam 
+          <lb ed="#B"/>dissimilationis ita quod primo <unclear>parti?cia</unclear> sunt maxime similia primo et inter cetera creata per<lb ed="#B"/>fectissima 
+          unde cum omne <unclear>deterius</unclear> est gratia melioris huiusmodi solum finem habet 
+          <lb ed="#B"/>primum et nullum aliorum <pc type="punctus"/> necesse eset igitur quod huiusmodi entia sui finis 
+          <lb ed="#B"/>scilicet dei sint immediatae capacia et quod ita producta sint <pc type="punctus"/> quoniam 
+          <lb ed="#B"/>primum producens sub ratione finis producit <pc type="punctus"/> Finis autem eorum est ut dei 
+          <lb ed="#B"/>capacia sint immediate Talia entia sunt naturae intellectuales sive intellectus quae pro<lb ed="#B"/>ducuntur 
+          solum a primo actione nobili scilicet creatione <pc type="virgula">/</pc> nec possunt ab alio 
+          <lb ed="#B"/>produci propter suam excellentiam partitionis
+        </p>
+        <p>
+          Ex quibus sequitur quod in huiusmodi en<lb ed="#B"/>tibus 
+          est maxima configuratur figurae et substantiae dei inter creaturas <pc type="punctus"/> Et hoc sermone 
+          <lb ed="#B"/>oportet transferre intellectum et configurationis et figurae sicut facit apostolus ad hebraeos
+          <lb ed="#B"/>primo
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Istud patet primo ex vi productionis quia immediate a primo secundum <unclear>orationem</unclear> perfectio<lb ed="#B"/>nis 
+          et similitudinis <pc type="virgula">/</pc> et ita recipiunt impressionem perfectissimam <pc type="punctus"/> Et si 
+          <lb ed="#B"/>forte dicat quis ex isto non sequitur imago trinitatis sed bene sequitur 
+          <lb ed="#B"/>similitudo maxima secundum maximum esse quod est intelligere ideo addatur 
+          <lb ed="#B"/>ratio finis sine qua non producit et creat primum necessario sequitur 
+          <lb ed="#B"/>imago trinitatis Cum enim talia entia finem habent deum et naturali<lb ed="#B"/>um 
+          oportet quod ipsius capacia sint immediate Non autem essent capacia 
+          <lb ed="#B"/>nisi per configurationem naturae suae ad ipsum deum Cum igitur ipse trinus et unus 
+          <lb ed="#B"/>sit neccesse est in ipsis imaginem esse trinitatis in unitate et unitatis in trinitate 
+        </p>
+        <p>
+          <lb ed="#B"/>In aliis entibus quorum finis proprius et immediate <unclear>partialis</unclear> non eset deus 
+          <lb ed="#B"/>sed aliquid circa <pc type="virgula">/</pc> non est impressio et configuratio unitatis et trinitatis quemadmo<lb ed="#B"/>dum 
+          in primis propter distantiam dissimilis <pc type="virgula">/</pc> ideo est quasi secundum partem impressio quia a 
+          <lb ed="#B"/>remote et obscure relucet in cognitionem sui principii et ideo dicitur ves<lb ed="#B"/>tigium 
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Inter hoc autem entia est anima rationalis secundum partem superiorem qua 
+          <lb ed="#B"/>intellecta est et separata <pc type="punctus"/> secundum enim hanc partem in regione intellectarum est 
+          <lb ed="#B"/>et intellectualium
+        </p>
+        <p>
+          Ipsa enim a solo deo est et non ex traduce 
+          <lb ed="#B"/>sicut fide tenemus et philosophus probat 16 de animalibus <pc type="virgula">/</pc>propter quid necesse est 
+          <lb ed="#B"/>in ea imaginem esse dei sicut in aliis naturis intellectualibus quem id 
+          <lb ed="#B"/>modum probatum est <pc type="punctus"/>
+        </p>
+        <p>
+          In ea dico secundum partem illam secundum quam est in genere 
+          <lb ed="#B"/>intellectualium <pc type="virgula">/</pc> et non secundum illam qua coniuncta est corpori <pc type="virgula">/</pc> secundum illam solum 
+          <lb ed="#B"/>capax est corporalium et sensibilium Et hoc est sententia <ref><name>beati augustinus</name> 12 super 
+            <lb ed="#B"/>genesem ad litteram</ref> in illo dicitur homo ad imaginem in quo excellimus <unclear>b?<lb ed="#B"/>ta</unclear> 
+          et hoc est secundum id quo est in regione intellectualium Et <ref>14 de trinitate</ref> Ima<lb ed="#B"/>go 
+          illius quo nihil melius est ibi quaerenda et investiganda est Sed  
+          <lb ed="#B"/>natura nostra nihil habet melius illo quo est in regione intelligibilium Et <ref>14 
+          <lb ed="#B"/>de trinitate</ref> anima eo quod imago dei est eius capax et particeps 
+          <lb ed="#B"/>esse potest Et ideo dicit <name>augustinus</name> si anima mortalis esset et termino mortis 
+          <lb ed="#B"/>clauderetur non esset imago Non est autem incorruptiblis nisi secundum partem 
+          <lb ed="#B"/>intellectualem ut dicit <name>philosophus</name> Separatur autem ab hoc tanquam corruptibilem ob in<lb ed="#B"/>corrutibili 
+          Et multi alii sermones <name>beati augustinus</name> et aliorum sanctorum in hanc 
+          <lb ed="#B"/>veniunt sententiam et id quo excellimus bruto in anima nostra vocatur 
+          <pb ed="#B" n="24-r"/>
+          <lb ed="#B"/>mens secundum quod dicitur a metior tiris secundum quod <name><sic>peritagoras</sic></name> dicit quod sapi<lb ed="#B"/>ens 
+          per intellectum est mensura omnium intelligibilium quoniam potentiae eius intellectuales quasitae 
+          <lb ed="#B"/>sunt in esse per principia ipsius esse <add>propter quid mensurative sunt omnium rerum</add> Et ideo proprie omnes potentiae intellectuales 
+          <lb ed="#B"/>dicuntur mens vel mentis partes
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Ex quibus habetur quod ima<lb ed="#B"/>go 
+          est in anima nostra secundum potentias intellectuales quae dicuntur mens 
+          <lb ed="#B"/>vel spiritus secundum <name>augustinum</name>
+        </p>
+        <p>
+          <pc type="pilcrow"/> Sed pro maiori intellectu est notandum quod imago 
+          <lb ed="#B"/>est commensuratio sufficiens in exterioribus quantum possibile est illid quid 
+          <lb ed="#B"/>figuratur in imaginem ad id cuius est imago 
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Sed dicit <name>hilarius</name> 
+          <lb ed="#B"/>imago est rei ad rem coequandam imaginata et indiscreta 
+          <lb ed="#B"/>similitudo 
+        </p>
+        <p>
+          <pc type="virgula">/</pc> Item idem Imago est rei ad rem aequandam similitudo et uni<lb ed="#B"/>tas 
+          <pc type="virgula">/</pc> Sed iste assignatos  sunt de imagine increata <pc type="punctus"/> sed hic quaeritur imago 
+          <lb ed="#B"/>creata quae multum differt ab illa utque ex praedictis 
+        </p>
+        <p>
+          <pc type="virgula">/</pc> <unclear>Id</unclear> autem cuius est ima<lb ed="#B"/>go 
+          <name>iohannes damascenus</name> vocat <sic>prothotipum</sic> et est eius imago dupliciter <pc type="virgula">/</pc> potentia scilicet 
+          <lb ed="#B"/>et actu potentia quando in se habet ea quibus configurari potest ad <sic>prothotipum</sic> sicut 
+          <lb ed="#B"/>metallum potentia est imago de actum autem dupliciter scilicet immediate et mediate 
+          <lb ed="#B"/>Immediate <pc type="virgula">/</pc> quando non configuratur alii nisi prothotipo et configuratio eius est per 
+          <lb ed="#B"/>figuram et formam prothotipum in ipso receptam <unclear>metaphysicae</unclear> vero quando configuratur 
+          <lb ed="#B"/>alicui quid non est prothotipus sed simile prothotipae sicut narratur ab <name>eusebio</name> <unclear>cesa<lb ed="#B"/>rien</unclear> 
+          quod mortuo <unclear>iheso chirsto</unclear> et post ascensionem eius in caelum ex de<lb ed="#B"/>votione 
+          <unclear>desi?tes</unclear> habere imaginem christi <pc type="virgula">/</pc> imaginem christi fecerunt ad 
+          <lb ed="#B"/>similitudinem <name>iacobi minoris</name> qui simillimus christo esse dicebatur in 
+          <lb ed="#B"/>imagine
+        </p>
+        <p>
+          <add place="margin-left">Istis praemissis descendendo</add> <pc type="virgula">/</pc> Ad propositum magis secundum <name>beatum augustinum</name> tria in mente secundum quae dicitur imago 
+          <lb ed="#B"/>sunt memoria intelligentia et voluntas <pc type="virgula">/</pc> sed memoria non accipitur ibi secundum quod a philosophis accipitur Sic 
+          <lb ed="#B"/>enim inest brutis dicit enim augustinus quod <sic>capre</sic> revertuntur ad caulas per 
+          <lb ed="#B"/>memoriam Imago autem sumitur secundum id quo excellimus <unclear>bruta</unclear> Aliter igitur accipitur 
+          <lb ed="#B"/>hic memoria unde anima rationalis quia immediate a principio est <pc type="virgula">/</pc> ex sui natura perceptiva est 
+          <lb ed="#B"/>illuminatio quae sunt a principio et secundum quod perceptiva ipsa est retentiva sicut omne perfectibile 
+          <lb ed="#B"/>retentum est suae perfectionis quando secundum esse perficitur Et haec potentia vocatur memoria 
+          <lb ed="#B"/>ab <name>augustino</name> et aliis sanctis Et haec est causa quod haec potentia retentionis quae memoria dicitur 
+          <lb ed="#B"/>proxima et prima est iuxta substantiam animae et immediate ex substantia eius exorta et non 
+          <lb ed="#B"/>habet in ordine potentiarum ex quo sic propter quid patri attribuitur cui proprium est ab alio non 
+          <lb ed="#B"/>esse in ordine personarum Et sic memoria abstrahit ab omni <unclear>appendi?a</unclear> materiae et ab 
+          <lb ed="#B"/>omni differentia temporis Non est enim nisi thesaurus illuminationum et specierum intelligibilium 
+          <lb ed="#B"/>huius memoriae actus non est reflexivus et receptio prius accepti
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
